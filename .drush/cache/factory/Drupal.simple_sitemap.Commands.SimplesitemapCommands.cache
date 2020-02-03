@@ -1,0 +1,66 @@
+{
+    "cid": "Drupal\\simple_sitemap\\Commands\\SimplesitemapCommands",
+    "data": {
+        "generate": {
+            "schema": 3,
+            "class": "Drupal\\simple_sitemap\\Commands\\SimplesitemapCommands",
+            "method_name": "generate",
+            "mtime": 1522619015,
+            "name": "simple-sitemap:generate",
+            "description": "Regenerate the XML sitemap according to the module settings.",
+            "help": "",
+            "aliases": [
+                "ss:generate",
+                "ssg",
+                "simple_sitemap:generate",
+                "simple_sitemap-generate"
+            ],
+            "annotations": {
+                "command": "simple-sitemap:generate",
+                "validate-module-enabled": "simple_sitemap"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

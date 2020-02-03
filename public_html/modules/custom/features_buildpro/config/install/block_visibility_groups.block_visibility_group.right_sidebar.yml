@@ -1,0 +1,32 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - ctools
+    - system
+id: right_sidebar
+label: 'Right sidebar'
+logic: and
+conditions:
+  5ff0adf9-4ca6-4d48-a693-38cdf3a08282:
+    id: request_path
+    pages: "#Page Blog ------\r\n/blogs-grid\r\n/blogs-masonry\r\n/gallery\r\n\r\n#Page Portfolio -----\r\n/portfolio\r\n/portfolio-1\r\n/portfolio-2\r\n/portfolio-3"
+    negate: true
+    context_mapping: {  }
+    uuid: 5ff0adf9-4ca6-4d48-a693-38cdf3a08282
+  73bd5075-66dd-48d4-98cd-bd4222d02406:
+    id: 'entity_bundle:contact_message'
+    bundles:
+      feedback: feedback
+    negate: false
+    context_mapping: {  }
+    uuid: 73bd5075-66dd-48d4-98cd-bd4222d02406
+  1aec4fa6-f231-400a-8c8f-41709f3796f7:
+    id: 'entity_bundle:node'
+    bundles:
+      portfolio: portfolio
+    negate: true
+    context_mapping:
+      node: '@node.node_route_context:node'
+    uuid: 1aec4fa6-f231-400a-8c8f-41709f3796f7
+allow_other_conditions: false

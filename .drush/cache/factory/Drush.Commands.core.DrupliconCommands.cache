@@ -1,0 +1,86 @@
+{
+    "cid": "Drush\\Commands\\core\\DrupliconCommands",
+    "data": {
+        "optionset": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\DrupliconCommands",
+            "method_name": "optionset",
+            "mtime": 1527094040,
+            "name": "optionset",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "option *"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": {
+                "druplicon": {
+                    "description": "Shows the druplicon as glorious ASCII art.",
+                    "default": false
+                }
+            }
+        },
+        "druplicon": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\DrupliconCommands",
+            "method_name": "druplicon",
+            "mtime": 1527094040,
+            "name": "druplicon",
+            "description": "Print druplicon as post-command output.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "post-command *"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "result": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

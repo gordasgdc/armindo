@@ -1,0 +1,327 @@
+{
+    "cid": "Drupal\\features\\Commands\\FeaturesCommands",
+    "data": {
+        "status": {
+            "schema": 3,
+            "class": "Drupal\\features\\Commands\\FeaturesCommands",
+            "method_name": "status",
+            "mtime": 1519762727,
+            "name": "features:status",
+            "description": "Display current Features settings.",
+            "help": "",
+            "aliases": [
+                "fs",
+                "features-status"
+            ],
+            "annotations": {
+                "command": "features:status"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "keys": {
+                    "description": "A possibly empty, comma-separated, list of config information to display.",
+                    "default": null
+                }
+            },
+            "options": {
+                "bundle": {
+                    "description": "Use a specific bundle namespace."
+                }
+            }
+        },
+        "listPackages": {
+            "schema": 3,
+            "class": "Drupal\\features\\Commands\\FeaturesCommands",
+            "method_name": "listPackages",
+            "mtime": 1519762727,
+            "name": "features:list:packages",
+            "description": "Display a list of all generate-able existing features and packages.",
+            "help": "If a package name is provided as an argument, then all of the configuration\nobjects assigned to that package will be listed.",
+            "aliases": [
+                "fl",
+                "features-list-packages"
+            ],
+            "annotations": {
+                "command": "features:list:packages",
+                "field-labels": "\n   config: Config\n   name: Name\n   machine_name: Machine name\n   status: Status\n   version: Version\n   state: State"
+            },
+            "example_usages": {
+                "drush features:list:packages": "Display a list of all existing features and packages available to be generated.",
+                "drush features:list:packages 'example_article'": "Display a list of all configuration objects assigned to the 'example_article' package."
+            },
+            "return_type": "\\Consolidation\\OutputFormatters\\StructuredData\\RowsOfFields|bool",
+            "arguments": {
+                "package_name": {
+                    "description": "The package to list. Optional; if specified, lists all configuration objects assigned to that package. If no package is specified, lists all of the features.",
+                    "default": null
+                }
+            },
+            "options": {
+                "bundle": {
+                    "description": "Use a specific bundle namespace."
+                },
+                "format": {
+                    "description": "",
+                    "default": "table"
+                }
+            }
+        },
+        "importAll": {
+            "schema": 3,
+            "class": "Drupal\\features\\Commands\\FeaturesCommands",
+            "method_name": "importAll",
+            "mtime": 1519762727,
+            "name": "features:import:all",
+            "description": "Import module config from all installed features.",
+            "help": "",
+            "aliases": [
+                "fra",
+                "fia",
+                "fim-all",
+                "features-import-all"
+            ],
+            "annotations": {
+                "command": "features:import:all"
+            },
+            "example_usages": {
+                "drush features-import-all": "Import module config from all installed features."
+            },
+            "return_type": null,
+            "arguments": [],
+            "options": {
+                "bundle": {
+                    "description": "Use a specific bundle namespace."
+                }
+            }
+        },
+        "export": {
+            "schema": 3,
+            "class": "Drupal\\features\\Commands\\FeaturesCommands",
+            "method_name": "export",
+            "mtime": 1519762727,
+            "name": "features:export",
+            "description": "Export the configuration on your site into a custom module.",
+            "help": "",
+            "aliases": [
+                "fex",
+                "fu",
+                "fua",
+                "fu-all",
+                "features-export"
+            ],
+            "annotations": {
+                "command": "features:export",
+                "throws": [
+                    "\\Drupal\\features\\Exception\\DomainException",
+                    "\\Drupal\\features\\Exception\\InvalidArgumentException",
+                    "\\Drush\\Exceptions\\UserAbortException",
+                    "\\Exception"
+                ]
+            },
+            "example_usages": {
+                "drush features-export": "Export all available packages.",
+                "drush features-export example_article example_page": "Export the example_article and example_page packages.",
+                "drush features-export --add-profile": "Export all available packages and add them to an install profile."
+            },
+            "return_type": null,
+            "arguments": {
+                "packages": {
+                    "description": "A list of features to export.",
+                    "default": []
+                }
+            },
+            "options": {
+                "bundle": {
+                    "description": "Use a specific bundle namespace."
+                },
+                "add-profile": {
+                    "description": "Package features into an install profile."
+                }
+            }
+        },
+        "add": {
+            "schema": 3,
+            "class": "Drupal\\features\\Commands\\FeaturesCommands",
+            "method_name": "add",
+            "mtime": 1519762727,
+            "name": "features:add",
+            "description": "Add a config item to a feature package.",
+            "help": "",
+            "aliases": [
+                "fa",
+                "fe",
+                "features-add"
+            ],
+            "annotations": {
+                "command": "features:add",
+                "todo": "@param $feature Feature package to export and add config to.",
+                "throws": [
+                    "\\Drush\\Exceptions\\UserAbortException",
+                    "\\Exception"
+                ]
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "components": {
+                    "description": "Patterns of config to add, see features:components for the format to use.",
+                    "default": null
+                }
+            },
+            "options": {
+                "bundle": {
+                    "description": "Use a specific bundle namespace."
+                }
+            }
+        },
+        "components": {
+            "schema": 3,
+            "class": "Drupal\\features\\Commands\\FeaturesCommands",
+            "method_name": "components",
+            "mtime": 1519762727,
+            "name": "features:components",
+            "description": "List features components.",
+            "help": "",
+            "aliases": [
+                "fc",
+                "features-components"
+            ],
+            "annotations": {
+                "command": "features:components",
+                "field-labels": "\n  source: Available sources"
+            },
+            "example_usages": [],
+            "return_type": "\\Consolidation\\OutputFormatters\\StructuredData\\RowsOfFields|null",
+            "arguments": {
+                "patterns": {
+                    "description": "The components types to list. Omit this argument to list them all.",
+                    "default": []
+                }
+            },
+            "options": {
+                "bundle": {
+                    "description": "Use a specific bundle namespace."
+                },
+                "exported": {
+                    "description": "Show only components that have been exported."
+                },
+                "format": {
+                    "description": "",
+                    "default": "table"
+                },
+                "not-exported": {
+                    "description": "Show only components that have not been exported."
+                }
+            }
+        },
+        "diff": {
+            "schema": 3,
+            "class": "Drupal\\features\\Commands\\FeaturesCommands",
+            "method_name": "diff",
+            "mtime": 1519762727,
+            "name": "features:diff",
+            "description": "Show the difference between active|default config from a feature package.",
+            "help": "",
+            "aliases": [
+                "fd",
+                "features-diff"
+            ],
+            "annotations": {
+                "command": "features:diff",
+                "throws": "\\Exception"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "feature": {
+                    "description": "The feature in question."
+                }
+            },
+            "options": {
+                "bundle": {
+                    "description": "Use a specific bundle namespace."
+                },
+                "ctypes": {
+                    "description": "Comma-separated list of component types to limit the output to. Defaults to all types."
+                },
+                "lines": {
+                    "description": "Generate diffs with \u003cn\u003e lines of context instead of the usual two."
+                }
+            }
+        },
+        "import": {
+            "schema": 3,
+            "class": "Drupal\\features\\Commands\\FeaturesCommands",
+            "method_name": "import",
+            "mtime": 1519762727,
+            "name": "features:import",
+            "description": "Import a module config into your site.",
+            "help": "",
+            "aliases": [
+                "fim",
+                "fr",
+                "features-import"
+            ],
+            "annotations": {
+                "command": "features:import",
+                "throws": "\\Exception"
+            },
+            "example_usages": {
+                "drush features-import foo:node.type.page": "foo:taxonomy.vocabulary.tags bar Import node and taxonomy config of feature \"foo\". Import all config of feature \"bar\"."
+            },
+            "return_type": null,
+            "arguments": {
+                "feature": {
+                    "description": "A comma-delimited list of features or feature:component pairs to import."
+                }
+            },
+            "options": {
+                "bundle": {
+                    "description": "Use a specific bundle namespace."
+                },
+                "force": {
+                    "description": "Force import even if config is not overridden."
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

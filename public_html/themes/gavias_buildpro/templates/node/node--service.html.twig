@@ -1,0 +1,56 @@
+{%
+  set classes = [
+    'node',
+    'node-detail',
+    'node--type-' ~ node.bundle|clean_class,
+    node.isPromoted() ? 'node--promoted',
+    node.isSticky() ? 'node--sticky',
+    not node.isPublished() ? 'node--unpublished',
+    view_mode ? 'node--view-mode-' ~ view_mode|clean_class,
+    'clearfix',
+  ]
+%}
+
+<!-- Start Display article for teaser page -->
+{% if teaser == true %} 
+  <div class="service-block v3">
+    <div class="service-image">{{ content.field_service_image }}</div>
+    <div class="service-content">
+      <div class="service-title"><a href="{{ url }}" rel="bookmark">{{ label }}</a></div>
+      <div class="service-body">{{ content.body }}</div>
+      <div class="view-content"><a href="{{ url }}" rel="bookmark">{{ "Read more"|t }}</a></div>
+    </div>
+  </div>
+
+<!-- End Display article for teaser page -->
+{% else %}
+<!-- Start Display article for detail page -->
+
+<article{{ attributes.addClass(classes) }}>
+  <div class="post-block">
+    <div class="post-content">
+      <div class="image">{{ content.field_service_image }}</div>
+      <header>
+        <div class="widget gsc-heading align-left style-4 small text-dark">
+          <h1 class="title"><span>{{ label }}</span></h1>
+        </div>    
+      </header>
+   
+      <div{{ content_attributes.addClass('node__content', 'clearfix') }}>
+        {{ content|without('comment', 'field_service_image') }}
+      </div>
+      
+      {% if content.comment %}
+        <div id="node-single-comment">
+          <div id="comments">
+            {{ content.comment }}
+          </div>  
+        </div>
+      {% endif %}  
+
+    </div>
+  </div>
+</article>
+
+<!-- End Display article for detail page -->
+{% endif %}

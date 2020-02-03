@@ -1,0 +1,8 @@
+{
+    "require": {
+        "grasmash/composerize-drupal": "^1.0",
+        "drupal/console-launcher": "~1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

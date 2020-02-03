@@ -1,0 +1,259 @@
+Return-Path: <c.reis2006arm@hotmail.es>
+Delivered-To: construccionesreis@construccionesreis.es
+Received: from hosting1.pixelwattstudio.com
+	by hosting1.pixelwattstudio.com with LMTP id yE5YNhdHP1sFYQAAPYmTOQ
+	for <construccionesreis@construccionesreis.es>; Fri, 06 Jul 2018 13:40:23 +0300
+Return-path: <c.reis2006arm@hotmail.es>
+Envelope-to: construccionesreis@construccionesreis.es
+Delivery-date: Fri, 06 Jul 2018 13:40:23 +0300
+Received: from mail-oln040092068085.outbound.protection.outlook.com ([40.92.68.85]:45181 helo=EUR02-HE1-obe.outbound.protection.outlook.com)
+	by hosting1.pixelwattstudio.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <c.reis2006arm@hotmail.es>)
+	id 1fbOA1-0006RB-Nc
+	for construccionesreis@construccionesreis.es; Fri, 06 Jul 2018 13:40:23 +0300
+Received: from VE1EUR02FT012.eop-EUR02.prod.protection.outlook.com
+ (10.152.12.53) by VE1EUR02HT009.eop-EUR02.prod.protection.outlook.com
+ (10.152.12.225) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.906.15; Fri, 6
+ Jul 2018 10:39:40 +0000
+Received: from VI1PR0202MB3311.eurprd02.prod.outlook.com (10.152.12.57) by
+ VE1EUR02FT012.mail.protection.outlook.com (10.152.12.122) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.906.15 via Frontend Transport; Fri, 6 Jul 2018 10:39:40 +0000
+Received: from VI1PR0202MB3311.eurprd02.prod.outlook.com
+ ([fe80::994e:4d18:cb7d:a7a8]) by VI1PR0202MB3311.eurprd02.prod.outlook.com
+ ([fe80::994e:4d18:cb7d:a7a8%5]) with mapi id 15.20.0930.016; Fri, 6 Jul 2018
+ 10:39:40 +0000
+From: armindo reis <c.reis2006arm@hotmail.es>
+To: construccionesreis <construccionesreis@construccionesreis.es>
+Subject: Re: Hola
+Thread-Topic: Hola
+Thread-Index: AQHUFRRAVnsFOmTP+0ut/CVq+jirb6SCARFH
+Date: Fri, 6 Jul 2018 10:39:40 +0000
+Message-ID: <VI1PR0202MB331197D1B85B1A0EAB666AD482470@VI1PR0202MB3311.eurprd02.prod.outlook.com>
+References: <8c2eecfe-99c0-4b36-b0c1-85370940dd0e@AM5EUR03FT043.eop-EUR03.prod.protection.outlook.com>
+In-Reply-To: <8c2eecfe-99c0-4b36-b0c1-85370940dd0e@AM5EUR03FT043.eop-EUR03.prod.protection.outlook.com>
+Accept-Language: es-MX, en-US
+Content-Language: es-MX
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:A5AA8864F2E50FFD1BD99E66C958CB4CED50F4054822F721F3C38B957B5D26CE;UpperCasedChecksum:3DB40AE39D1785A97B16943572CE128E9A0B3A8B4AA2CBF5406B48B61172B462;SizeAsReceived:7058;Count:46
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [/ucgu1KEWM5YqfFswSE6m2Ur4hRORslR]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;VE1EUR02HT009;7:yl6Fp2NHDkakuAJ31GIwylCUgIQ4VoANg3yPHxK0eqW2m/2xGl/zV4vY2rNueJgpJdav9nn4Lk64YMBtyRqTVIewowz6vGMudqMtHcXVQIiuyYrve0mIK4t3zDrFpnC1nW3KGf9yZFLYQe14A1BkCLfdoqJ1eGN//QHdpGtcKjtDlXOZmqvoUkAWEoRFicexupqjgslX1SqWASwE+xWcCKk1t1EWmaNT6xc5yBEZPnIkrCZbxE2w9S3LmxW2OF1V
+x-incomingheadercount: 46
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(201702061078)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125500)(1701031045);SRVR:VE1EUR02HT009;
+x-ms-traffictypediagnostic: VE1EUR02HT009:
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:VE1EUR02HT009;BCL:0;PCL:0;RULEID:;SRVR:VE1EUR02HT009;
+x-forefront-prvs: 0725D9E8D0
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(189003)(199004)(102836004)(6346003)(99286004)(229853002)(6436002)(2900100001)(45080400002)(74316002)(82202002)(6916009)(5660300001)(3480700004)(7116003)(6606003)(81156014)(97736004)(8936002)(105586002)(221733001)(33656002)(106356001)(86362001)(8676002)(5250100002)(25786009)(256004)(14454004)(104016004)(19627405001)(76176011)(54896002)(476003)(68736007)(6506007)(55016002)(9686003)(11346002)(73972006)(6246003)(86152003)(74482002)(446003)(486006)(26005)(7696005);DIR:OUT;SFP:1901;SCL:1;SRVR:VE1EUR02HT009;H:VI1PR0202MB3311.eurprd02.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:;
+received-spf: None (protection.outlook.com: hotmail.es does not designate
+ permitted sender hosts)
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=c.reis2006arm@hotmail.es; 
+x-microsoft-antispam-message-info: ncRM5gRzk9jhEPzYgSaTCLZ4saed5XCskaa9YC+V88AkmdtT57qLAIVnOT2jCG8KO6YdyTjSOZ5hBYc7HEU3TYBuvBZmLJZsc/CvN4s9fXmS/IovJyL1ajYFA4Li9ZN5V2/TwcrsMTV/hvDYs70rTjfWtvZjDVo+fryTpn1TOfW2Z6pmvBSziWPkHYaPJY8vNxqBDDnDZWpk8yN5hTsfcPpc5d+dh0tcwBF5ve64y6E=
+Content-Type: multipart/alternative;
+	boundary="_000_VI1PR0202MB331197D1B85B1A0EAB666AD482470VI1PR0202MB3311_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: d4d70346-2c10-4f39-8c00-e767963926d9
+X-MS-Exchange-CrossTenant-Network-Message-Id: 590af947-57ee-4e9c-f93d-08d5e32cc73a
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: d4d70346-2c10-4f39-8c00-e767963926d9
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Jul 2018 10:39:40.3040
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VE1EUR02HT009
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hosting1.pixelwattstudio.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Armindo José Reis Director general Contrucciones Reis 2006
+    S.L. 629168410 [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (c.reis2006arm[at]hotmail.es)
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [40.92.68.85 listed in list.dnswl.org]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+X-Spam-Flag: NO
+
+--_000_VI1PR0202MB331197D1B85B1A0EAB666AD482470VI1PR0202MB3311_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Armindo Jos=E9 Reis
+
+Director general Contrucciones Reis 2006 S.L.
+
+629168410
+
+
+
+Aviso Legal:
+- El contenido de este correo electr=F3nico y sus son estrictamente confide=
+nciales, secretos y restringidos. La divulgaci=F3n o el suministro en todo =
+o en parte, a cualquier tercero, no podr=E1 ser realizada sin el previo, ex=
+preso y escrito consentimiento de Construcciones Reis 2006 S.L.. En caso de=
+ que no sea el destinatario y haya recibido este mensaje por error, le agra=
+decemos que nos lo comunique inmediatamente al remitente sin difundir, alma=
+cenar o copiar su contenido.
+- Le informamos que los datos personales de esta comunicaci=F3n, est=E1n in=
+corporados en un fichero bajo nuestra responsabilidad, para el tratamiento =
+de datos de car=E1cter personal, con la finalidad de informarle de los prod=
+uctos y servicios que ofrece Construcciones Reis 2006 S.L.
+- Vd. como interesado directo, tiene derecho de acceso, rectificaci=F3n, ca=
+ncelaci=F3n y oposici=F3n al tratamiento de la informaci=F3n que le concier=
+ne, y autoriza a que pase a formar parte del fichero, ante el cual puede ej=
+ercer sus derechos, y recibir informaci=F3n y publicidad de nuestros produc=
+tos y servicios. Los derechos precitados podr=E1n hacerse efectivos ante Co=
+nstrucciones Reis 2006 S.L. , C/Buztintxulo 8 1o izquierda, 20015, Gipuzkoa=
+ .
+
+(Ley org=E1nica 15/1999 de 13 de diciembre de protecci=F3n de datos de car=
+=E1cter personal).
+
+
+
+________________________________
+De: construccionesreis <construccionesreis@construccionesreis.es>
+Enviado: viernes, 6 de julio de 2018 01:31 p. m.
+Para: c.reis2006arm@hotmail.es
+Asunto: Hola
+
+
+
+
+
+Enviado de Samsung Mobile
+
+--_000_VI1PR0202MB331197D1B85B1A0EAB666AD482470VI1PR0202MB3311_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"><br>
+</p>
+<p style=3D"margin-top:0;margin-bottom:0"><br>
+</p>
+<div id=3D"Signature">
+<div id=3D"divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size: 12pt; colo=
+r: rgb(0, 0, 0); font-family: Calibri, Arial, Helvetica, sans-serif, EmojiF=
+ont, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEm=
+oji, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;"=
+>
+<p></p>
+<p class=3D"x_MsoNoSpacing" align=3D"left" style=3D"text-align:center; font=
+-family:Calibri,serif,EmojiFont; font-size:16px; margin:0cm 0cm 0pt">
+<i><font style=3D"font-size:9pt">Armindo Jos=E9 Reis</font></i></p>
+<p class=3D"x_MsoNoSpacing" align=3D"left" style=3D"text-align:center; font=
+-family:Calibri,serif,EmojiFont; font-size:16px; margin:0cm 0cm 0pt">
+<i><font style=3D"font-size:9pt">Director general Contrucciones Reis 2006 S=
+.L.</font></i></p>
+<p class=3D"x_MsoNoSpacing" align=3D"left" style=3D"text-align:center; font=
+-family:Calibri,serif,EmojiFont; font-size:16px; margin:0cm 0cm 0pt">
+<i><font style=3D"font-size:9pt">629168410</font></i></p>
+<p class=3D"x_MsoNoSpacing" align=3D"left" style=3D"font-family:Calibri,ser=
+if,EmojiFont; font-size:16px; margin:0cm 0cm 0pt">
+<i><font style=3D"font-size:9pt"><br>
+</font></i></p>
+<p class=3D"x_MsoNoSpacing" align=3D"left" style=3D"font-family:Calibri,ser=
+if,EmojiFont; font-size:16px; margin:0cm 0cm 0pt">
+<i><font style=3D"font-size:9pt"><br>
+</font></i></p>
+<p class=3D"x_MsoNoSpacing" align=3D"left" style=3D"font-family:Calibri,ser=
+if,EmojiFont; font-size:16px; margin:0cm 0cm 0pt">
+<i><font style=3D"font-size:9pt">Aviso Legal:</font></i><font style=3D"font=
+-size:9pt">&nbsp;<br>
+</font><i><font style=3D"font-size:9pt">- El contenido de este correo elect=
+r=F3nico y sus son estrictamente confidenciales, secretos y restringidos. L=
+a divulgaci=F3n o el suministro en todo o en parte, a cualquier tercero, no=
+ podr=E1 ser realizada sin el previo, expreso
+ y escrito consentimiento de Construcciones Reis 2006 S.L.</font><font styl=
+e=3D"font-size:9pt">. En caso de que no sea el destinatario y haya recibido=
+ este mensaje por error, le agradecemos que nos lo comunique inmediatamente=
+ al remitente sin difundir, almacenar
+ o copiar su contenido.&nbsp;</font></i><font style=3D"font-size:9pt"><br>
+</font><i><font style=3D"font-size:9pt">- Le informamos que los datos perso=
+nales de esta comunicaci=F3n, est=E1n incorporados en un fichero bajo nuest=
+ra responsabilidad, para el tratamiento de datos de car=E1cter personal, co=
+n la finalidad de informarle de los productos
+ y servicios que ofrece Construcciones Reis 2006 S.L.</font></i><font style=
+=3D"font-size:9pt"><br>
+</font><i><font style=3D"font-size:9pt">- Vd. como interesado directo, tien=
+e derecho de acceso, rectificaci=F3n, cancelaci=F3n y oposici=F3n al tratam=
+iento de la informaci=F3n que le concierne, y autoriza a que pase a formar =
+parte del fichero, ante el cual puede ejercer
+ sus derechos, y recibir informaci=F3n y publicidad de nuestros productos y=
+ servicios. Los derechos precitados podr=E1n hacerse efectivos ante Constru=
+cciones Reis 2006 S.L.</font></i><i><font style=3D"font-size:9pt"><span cla=
+ss=3D"x_GramE">&nbsp;, C/Buztintxulo 8 1o izquierda,
+ 20015,</span>&nbsp;<span class=3D"x_SpellE">Gipuzkoa</span>&nbsp;.</font><=
+/i></p>
+<p align=3D"left" style=3D"font-family:Calibri,serif,EmojiFont; font-size:1=
+6px; margin:0cm 0cm 0pt">
+<i><font style=3D"font-size:9pt">(Ley org=E1nica 15/1999 de 13 de diciembre=
+ de protecci=F3n de datos de car=E1cter personal).</font></i></p>
+<br>
+<p></p>
+</div>
+</div>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>De:</b> construccionesreis &lt;=
+construccionesreis@construccionesreis.es&gt;<br>
+<b>Enviado:</b> viernes, 6 de julio de 2018 01:31 p. m.<br>
+<b>Para:</b> c.reis2006arm@hotmail.es<br>
+<b>Asunto:</b> Hola</font>
+<div>&nbsp;</div>
+</div>
+<meta content=3D"text/html; charset=3Dutf-8">
+<div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div id=3D"x_composer_signature">
+<div dir=3D"auto" style=3D"font-size:85%; color:#575757">Enviado de Samsung=
+ Mobile</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_VI1PR0202MB331197D1B85B1A0EAB666AD482470VI1PR0202MB3311_--

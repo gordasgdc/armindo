@@ -1,0 +1,41 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.services-menu
+  module:
+    - block_visibility_groups
+    - gaviasthemer
+    - node
+    - system
+  theme:
+    - gavias_buildpro
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: servicesmenu
+theme: gavias_buildpro
+region: sidebar_right
+weight: -12
+provider: null
+plugin: 'system_menu_block:services-menu'
+settings:
+  id: 'system_menu_block:services-menu'
+  label: 'Features Services'
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
+visibility:
+  condition_group:
+    id: condition_group
+    negate: false
+    block_visibility_group: ''
+    context_mapping: {  }
+  node_type:
+    id: node_type
+    bundles:
+      service: service
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

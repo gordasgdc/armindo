@@ -1,0 +1,148 @@
+{
+    "cid": "Drupal\\advagg\\Commands\\AdvaggCommands",
+    "data": {
+        "cron": {
+            "schema": 3,
+            "class": "Drupal\\advagg\\Commands\\AdvaggCommands",
+            "method_name": "cron",
+            "mtime": 1518241222,
+            "name": "advagg-cron",
+            "description": "Run the advagg cron hook.",
+            "help": "",
+            "aliases": [
+                "advagg-c"
+            ],
+            "annotations": {
+                "command": "advagg-cron"
+            },
+            "example_usages": {
+                "Standard example": "drush advagg-cron"
+            },
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "disable": {
+            "schema": 3,
+            "class": "Drupal\\advagg\\Commands\\AdvaggCommands",
+            "method_name": "disable",
+            "mtime": 1518241222,
+            "name": "advagg-disable",
+            "description": "Disable Advagg.",
+            "help": "",
+            "aliases": [
+                "advagg-da"
+            ],
+            "annotations": {
+                "command": "advagg-disable"
+            },
+            "example_usages": {
+                "Standard example": "drush advagg-disable"
+            },
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "enable": {
+            "schema": 3,
+            "class": "Drupal\\advagg\\Commands\\AdvaggCommands",
+            "method_name": "enable",
+            "mtime": 1518241222,
+            "name": "advagg-enable",
+            "description": "Enable Advagg.",
+            "help": "",
+            "aliases": [
+                "advagg-en"
+            ],
+            "annotations": {
+                "command": "advagg-enable"
+            },
+            "example_usages": {
+                "Standard example": "drush advagg-enable"
+            },
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "clearAllFiles": {
+            "schema": 3,
+            "class": "Drupal\\advagg\\Commands\\AdvaggCommands",
+            "method_name": "clearAllFiles",
+            "mtime": 1518241222,
+            "name": "advagg-clear-all-files",
+            "description": "Remove all generated files.",
+            "help": "",
+            "aliases": [
+                "advagg-caf"
+            ],
+            "annotations": {
+                "command": "advagg-clear-all-files"
+            },
+            "example_usages": {
+                "Standard example": "drush advagg-clear-all-files"
+            },
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "forceNewAggregates": {
+            "schema": 3,
+            "class": "Drupal\\advagg\\Commands\\AdvaggCommands",
+            "method_name": "forceNewAggregates",
+            "mtime": 1518241222,
+            "name": "advagg-force-new-aggregates",
+            "description": "Force the creation of all new files by incrementing a global counter.",
+            "help": "",
+            "aliases": [
+                "advagg-fna"
+            ],
+            "annotations": {
+                "command": "advagg-force-new-aggregates"
+            },
+            "example_usages": {
+                "Standard example": "drush advagg-force-new-aggregates"
+            },
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

@@ -1,0 +1,148 @@
+Return-Path: <mikelocarizes@gmail.com>
+Delivered-To: construccionesreis@construccionesreis.es
+Received: from hosting1.pixelwattstudio.com
+	by hosting1.pixelwattstudio.com with LMTP id 2LyfAoMUGltTEgAAPYmTOQ
+	for <construccionesreis@construccionesreis.es>; Fri, 08 Jun 2018 08:30:43 +0300
+Return-path: <mikelocarizes@gmail.com>
+Envelope-to: construccionesreis@construccionesreis.es
+Delivery-date: Fri, 08 Jun 2018 08:30:43 +0300
+Received: from mail-lf0-f52.google.com ([209.85.215.52]:41961)
+	by hosting1.pixelwattstudio.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <mikelocarizes@gmail.com>)
+	id 1fR9yw-0001BQ-2Y
+	for construccionesreis@construccionesreis.es; Fri, 08 Jun 2018 08:30:42 +0300
+Received: by mail-lf0-f52.google.com with SMTP id d24-v6so18108650lfa.8
+        for <construccionesreis@construccionesreis.es>; Thu, 07 Jun 2018 22:30:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=g4gbGf5WrF9rR/l9mOoV+ScnemwvvT66OUmYvyslBNk=;
+        b=XEGNW81FFLSEti04qcfku5zYTYctKez9hYp9VXGog4q1sw+Q/m9EEBDHIdkp00kckY
+         eYJOyfDjip4QqiMVNHQkWLh+h5hiWukHVFKa62exIbysqpyjXl1Qvyw2utbNGTCI8+M3
+         H8qitwoMPvKqZLJXg6srJ2kqXDaMc8pcgbt1MdcwLytpJxvEQYhilzZt9ZMmZOtW03fP
+         MfThOW4YzWIOHK7K9kt6h8E/bD/rwqkVnjM4rGgxtSVGxeBtwyREUzzAnLp8Fysx16N/
+         1cnj4ZWguuxXD1g5TTcA9rh+g8MbsMGoFifOiIooYJpVoVlrOqF45g0i+x7c4aV0O3HQ
+         DElg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=g4gbGf5WrF9rR/l9mOoV+ScnemwvvT66OUmYvyslBNk=;
+        b=ipWqjUk1eQNxEoW3eyXDdqcfDzNcUpNdWDQ9V04xHAR/89AZ7yEXcjVqwBcPZpWR+X
+         WIMGtSH2NA2gBTlTmC3NVSaXWwvbN8P8weE5N5L3qbzpOjvkfDkN7PNSvcYCN0SRFNCh
+         FwO1WEW1C0pVfG3BwkmPwbrCnQ/4GBdGvIBbyKiLZysOSBqLmP9foWVIKDrBQZZA0s1C
+         pb8FBm8mYJmnydOqmtSIfn/Zm/9juO2XmIa5WZ2X4zjQ3w9cIMAbvwsnECzeTLUSWXiy
+         WOVwbhrPK0BsHptZVRNDUrX/lYqk1AGpyqvHZdpGgzTb1J8bWfTT/69kxDacvX0PwU/e
+         XWjA==
+X-Gm-Message-State: APt69E2qCpwK9npnidVSQk+DG45Wa4MArh4TIKyhLinej4heSqOA+DIU
+	w4uhlGkfqCnXClIYUpKH+K6PsI4e/mokGfjrt0A=
+X-Google-Smtp-Source: ADUXVKJ/aHerwAzO1uQZ+dHUOmaKxSC7noVmeuDy3yIznvJePTvu1eU0jhz8/JoecTlukKCjfieTK5R9wMvUcHxXAUY=
+X-Received: by 2002:a2e:4dcc:: with SMTP id c73-v6mr3274797ljd.135.1528435796980;
+ Thu, 07 Jun 2018 22:29:56 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a2e:aa:0:0:0:0:0 with HTTP; Thu, 7 Jun 2018 22:29:56 -0700 (PDT)
+In-Reply-To: <5b17b489.1c69fb81.1be49.e5baSMTPIN_ADDED_MISSING@mx.google.com>
+References: <5b17b489.1c69fb81.1be49.e5baSMTPIN_ADDED_MISSING@mx.google.com>
+From: Mikel Ocariz Estalayo <mikelocarizes@gmail.com>
+Date: Fri, 8 Jun 2018 07:29:56 +0200
+Message-ID: <CAAwLWivZdR1LZkENNjvogwB=Sw=GWyWv7z6M5Q_a53TY=W27Qw@mail.gmail.com>
+Subject: Re: Recibo.pdf
+To: construccionesreis <construccionesreis@construccionesreis.es>
+Content-Type: multipart/alternative; boundary="000000000000bdb841056e1ab0f9"
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hosting1.pixelwattstudio.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Tranquilo estoy la semana que viene con Roberto y lo arreglamos.
+    Un saludo, (te indicare como lo resolvemos) Mikel Ocariz ITM mikelocarizes@gmail.com
+    [...] 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.215.52 listed in wl.mailspike.net]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (mikelocarizes[at]gmail.com)
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: construccionesreis.es]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+X-Spam-Flag: NO
+
+--000000000000bdb841056e1ab0f9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Tranquilo estoy la semana que viene con Roberto y lo arreglamos.
+
+Un saludo,
+(te indicare como lo resolvemos)
+
+Mikel Ocariz
+ITM
+mikelocarizes@gmail.com
+
+El 6 de junio de 2018, 13:17, construccionesreis <
+construccionesreis@construccionesreis.es> escribi=C3=B3:
+
+> Buenos d=C3=ADas Mikel .
+> Esto es el Recibo que nos han ingresado.
+> Es la misma cantidad que el mes de Marzo.
+> Creo que ha habido una confusi=C3=B3n.
+> La cantidad que deber=C3=ADa de ser es 2784 euros faltan 504 euros.
+> Tu me dir=C3=A1s como hacemos porque no hay factura con ese importe de Ab=
+ril.
+> Te mando en otro correo las facturas de Goitu.
+> Gracias .
+> Un Saludo.
+>
+>
+>
+> Enviado de Samsung Mobile
+>
+
+--000000000000bdb841056e1ab0f9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Tranquilo estoy la semana que viene con Roberto y lo =
+arreglamos.</div><div><br></div><div>Un saludo,</div><div>(te indicare como=
+ lo resolvemos)<br></div></div><div class=3D"gmail_extra"><br clear=3D"all"=
+><div><div class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><di=
+v dir=3D"ltr"><div><font face=3D"verdana,sans-serif">Mikel Ocariz</font></d=
+iv><div><font face=3D"Verdana" size=3D"1">ITM</font></div><div><a href=3D"m=
+ailto:mikelocarizes@gmail.com" target=3D"_blank"><font face=3D"verdana,sans=
+-serif" size=3D"1">mikelocarizes@gmail.com</font></a></div></div></div></di=
+v>
+<br><div class=3D"gmail_quote">El 6 de junio de 2018, 13:17, construcciones=
+reis <span dir=3D"ltr">&lt;<a href=3D"mailto:construccionesreis@construccio=
+nesreis.es" target=3D"_blank">construccionesreis@construccionesreis.es</a>&=
+gt;</span> escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"mar=
+gin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div><div>Bueno=
+s d=C3=ADas Mikel .</div><div>Esto es el Recibo que nos han ingresado.</div=
+><div>Es la misma cantidad que el mes de Marzo.</div><div>Creo que ha habid=
+o una confusi=C3=B3n.</div><div>La cantidad que deber=C3=ADa de ser es 2784=
+ euros faltan 504 euros.</div><div>Tu me dir=C3=A1s como hacemos porque no =
+hay factura con ese importe de Abril.</div><div>Te mando en otro correo las=
+ facturas de Goitu.</div><div>Gracias .</div><div>Un Saludo.</div><div><br>=
+</div><div><br></div><div><br></div><div id=3D"m_-3320634297184580332compos=
+er_signature"><div style=3D"font-size:85%;color:#575757" dir=3D"auto">Envia=
+do de Samsung Mobile</div></div></div></blockquote></div><br></div>
+
+--000000000000bdb841056e1ab0f9--

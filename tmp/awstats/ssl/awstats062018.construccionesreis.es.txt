@@ -1,0 +1,1145 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/armindo/tmp/awstats/ssl/awstats.construccionesreis.es.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2709                
+POS_VISITOR 16962               
+POS_DAY 26156               
+POS_DOMAIN 3679                
+POS_LOGIN 4237                
+POS_ROBOT 4392                
+POS_WORMS 5497                
+POS_EMAILSENDER 5628                
+POS_EMAILRECEIVER 5771                
+POS_SESSION 27006               
+POS_SIDER 27218               
+POS_FILETYPES 5906                
+POS_DOWNLOADS 6254                
+POS_OS 6330                
+POS_BROWSER 6626                
+POS_SCREENSIZE 8341                
+POS_UNKNOWNREFERER 8415                
+POS_UNKNOWNREFERERBROWSER 9253                
+POS_ORIGIN 9651                
+POS_SEREFERRALS 9798                
+POS_PAGEREFS 10073               
+POS_SEARCHWORDS 10382               
+POS_KEYWORDS 10590               
+POS_MISC 2371                
+POS_ERRORS 10717               
+POS_CLUSTER 4093                
+POS_SIDER_404 10916               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180630144353 30711 8152970 20945504474613
+FirstTime 20180601045730
+LastTime 20180630064932
+LastUpdate 20180630154747 163 0 162 1 0
+TotalVisits 340                 
+TotalUnique 173                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 253                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 163 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 23 180 8467450 194 411 8705432
+1 74 361 14457394 197 314 4365405
+2 7 16 404314 145 191 1978644
+3 15 30 944445 223 301 6350248
+4 18 18 1040308 373 474 10716953
+5 350 1868 26860840 278 430 5613972
+6 480 1046 47045084 379 465 4890996
+7 480 1569 39998774 296 564 7670592
+8 357 2491 83886769 340 1057 20625946
+9 52 308 9194378 243 403 7969108
+10 244 2561 76685515 247 1209 32195051
+11 85 455 17886194 190 390 10475323
+12 195 1696 19432909 224 435 6281770
+13 334 1810 61360167 807 1472 28563038
+14 35 245 9959412 155 308 5602856
+15 22 114 3765100 127 227 3353878
+16 51 400 14905209 212 371 6124592
+17 114 591 20149461 195 613 15403248
+18 38 256 10730986 174 279 2130568
+19 90 545 17677989 153 228 4039235
+20 35 373 16432342 187 279 5314467
+21 77 1077 16763492 270 664 12958335
+22 141 467 14887830 190 358 5328811
+23 37 256 8913102 166 270 5872404
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+es 2242 11472 264071952
+us 1042 6755 255059801
+ca 12 123 4913329
+ru 12 14 259222
+fr 11 57 2109115
+gr 6 53 1882186
+in 5 43 1842744
+bg 4 51 1861636
+cn 4 21 800478
+sg 3 43 1760775
+ua 3 3 157396
+nl 3 43 1778141
+vn 3 38 1757290
+ch 2 2 144818
+au 1 1 14303
+de 1 1 73102
+pe 0 1 323216
+mx 0 6 1939296
+do 0 1 43672
+cr 0 1 323216
+ve 0 2 646432
+uy 0 2 87344
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 23
+Googlebot/ 6052 117299279 20180630144146 187
+MJ12bot/ 732 11201349 20180630012941 57
+bingbot/ 653 20852744 20180630130750 88
+AhrefsBot/ 371 2613297 20180630132736 32
+no_user_agent 306 10651635 20180627003519 2
+YandexBot/ 251 6938058 20180630124236 46
+Google[\x20]Web[\x20]Preview 223 8123423 20180626003855 0
+bot[\s_+:,\.\;\/\\-] 218 3998555 20180628130350 45
+(firefox/)([0-9]\.|[0-1][0]\.) 153 5866549 20180629025529 36
+AdsBot\-Google[\x20]\( 120 4560848 20180629135848 0
+bingpreview 90 18311546 20180625041610 0
+linkdexbot/ 73 881209 20180630095835 3
+facebookexternalhit/ 66 4948126 20180624044751 0
+Googlebot\-Image/ 41 484359 20180630143713 0
+DotBot/ 16 72187 20180629221924 15
+Wget/ 14 1016471 20180630025713 0
+unknown 9 7301 20180626235442 9
+RukiCrawler/ 6 67464 20180619201057 0
+YandexImages/ 3 21394 20180612221244 0
+php 2 73102 20180625014300 0
+curl 2 143282 20180614230845 0
+Applebot/ 2 14982 20180627154430 1
+DuckDuckGo\-Favicons\-Bot/ 1 13869 20180613125000 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+woff 6 587478 0 0
+ttf 255 63285129 0 0
+xml 1 2857 0 0
+gif 441 4886545 0 0
+js 4349 79538164 0 0
+html 471 19690497 0 0
+svg 478 323922 0 0
+jpg 1061 139691940 0 0
+css 5550 44122669 0 0
+png 3499 78889226 0 0
+Unknown 2354 91272610 0 0
+txt 1 399 0 0
+woff2 255 19521936 0 0
+php 12 36092 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/core/CHANGELOG.txt 1 0 399
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linuxandroid 2909 270
+linux 3820 335
+macosx12 45 23
+ios_ipad 22 3
+winlong 3 3
+Unknown 292 61
+ios_iphone 619 49
+unix 75 9
+win10 2466 355
+win7 339 46
+win8.1 156 21
+winxp 35 14
+macosx10 429 429
+macosx11 2 0
+macosx 7519 1736
+win8 2 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 79
+chrome52.0.2743.82 9 9
+chrome45.0.2454.101 6 6
+firefox14.0.1 1 1
+chrome51.0.2704.90 151 12
+safari4.0.2 1 1
+chrome30.0.0.0 2 0
+chrome16.0.912.63 1 1
+Unknown 25 23
+chrome56.0.2924.87 1 1
+msie7.0 1 0
+chrome11.0.696.3 1 1
+iphone 1 0
+chrome15.0.900.1 1 1
+msie6.0 7 6
+firefox32.0 1 1
+edge16 48 8
+chrome61.0.3116.0 175 18
+chrome14.0.812.0 1 1
+chrome38.0.2125.104 44 5
+chrome41.0.2272.96 754 65
+chrome62.0.3202.89 1 0
+chrome64.0.3282.119 8 1
+firefox61.0 52 4
+chrome67.0.3396.68 39 3
+firefox45.0 5 5
+firefox15.1 1 1
+chrome13.0.800.1 1 1
+chrome59.0.3071.125 57 7
+safari11.1.1 1 0
+firefox60.0 117 9
+chrome60.0.3112.113 24 3
+safari11.1 38 3
+chrome15.0.861.0 1 1
+chrome17.0.963.66 1 1
+safari11.0 177 16
+chrome67.0.3396.79 39 3
+mozilla 288 42
+chrome67.0.3396.81 1 0
+chrome53.0.2785.116 1 1
+firefox52.0 45 4
+chrome66.0.3359.158 7 0
+firefox57.0 1 1
+chrome66.0.3359.203 1 0
+chrome11.0.696.71 2 2
+chrome41.0.2272.118 3377 232
+chrome66.0.3359.181 1947 308
+chrome63.0.3239.132 1 1
+chrome40.0.2214.85 38 3
+safari6.0 1 1
+chrome52.0.2743.116 1 0
+chrome43.0.2357.132 1 1
+chrome50.0.2661.102 11 1
+chrome49.0.2623.112 26 7
+chrome51.0.2704.84 122 12
+chrome66.0.3359.139 1 0
+chrome11.0.696.68 1 1
+chrome65.0.3325.109 1 0
+safari10.0 1 0
+chrome49.0.2623.75 57 57
+chrome63.0.3239.111 18 3
+chrome66.0.3359.126 884 105
+opera53.0.2907.68 1 0
+chrome55.18.2883.75 1 0
+chrome19.0.1061.1 1 1
+chrome67.0.3396.87 7988 1761
+chrome20.0.1150.1 1 1
+safari9.0 461 36
+firefox58.0 3 3
+chrome20.0.1092.0 1 1
+firefox15.1.1 1 1
+firefox62.0 43 3
+chrome61.0.3163.100 19 19
+msie8.0 2 2
+chrome67.0.3396.99 191 27
+firefox30.0 42 4
+chrome60.0.3095.0 922 72
+msie11.0 4 0
+chrome55.0.2883.95 423 423
+chrome49.0.2623.91 2 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+Mozilla/5.0_(compatible;_Google-Structured-Data-Testing-Tool__https://search.google.com/structured-data/testing-tool)_AppleWebKit/536.26_(KHTML,_like_Gecko)_Version/6.0_Mobile/10A5376e_Safari/8536.25 20180605193658
+\ 20180616031319
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20180624121311
+WhatsApp/0.2.9737_N 20180616234920
+ls 20180608234354
+Go-http-client/1.1 20180621131614
+Ruby 20180626220523
+python-requests/2.18.3 20180630064931
+python-requests/2.13.0 20180612093407
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180622181255
+Mozilla/5.0_(compatible;_Google-Structured-Data-Testing-Tool__https://search.google.com/structured-data/testing-tool) 20180627184839
+drupalgeddon2 20180624192057
+yk 20180624013647
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+python-requests/2.13.0 20180612093407
+python-requests/2.18.3 20180630064931
+yk 20180624013647
+drupalgeddon2 20180624192057
+com.google.GoogleMobile/36.0.0_iPad/9.3.5_hw/iPad3_1 20180620010506
+Ruby 20180626220523
+Go-http-client/1.1 20180621131614
+WhatsApp/0.2.9737_N 20180616234920
+ls 20180608234354
+\ 20180616031319
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 782 4423
+From1 2 2
+From2 54 106
+From3 12 12
+From4 2504 14190
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+google_com 6 6
+www_google_com_pe 0 1
+www_google_es 32 71
+www_google_com_uy 0 1
+www_google_com_mx 0 3
+bing 1 1
+www_google_com 15 23
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://securityheaders.com 9 9
+http://empresite.eleconomista.es/CONSTRUCCIONES-REIS-2006.html 1 1
+https://www.facebook.com 1 1
+https://l.facebook.com/l.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+construcciones+reis+2006+sl+san+sebasti%c3%a1n+spanje 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+2006 1
+reis 1
+spanje 1
+san 1
+construcciones 1
+sl 1
+sebasti%c3%a1n 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 57 381102
+500 16 1151
+400 149 9675
+206 6 74234
+404 813 3399942
+302 100 27636
+303 166 62004
+401 8 184634
+301 796 174900
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 152
+/sites/default/files/js/js__LZGJTurWwpaOcErNPHUwfwAu2TRlIcvCz_9dhhOA5g.js 2 https://construccionesreis.es/
+/en/partners 4 -
+/construccion/construccion-de-garajes 1 -
+/sites/default/files/js/js__gHY6Yg__-5-poK1EtcWvEycXBgDMwZ_Xg_VHrNxy9Q.js 2 https://construccionesreis.es/
+/eu/form/contact 1 -
+/es/node/3 1 -
+/es/node/83 1 -
+/eu/node/75 4 -
+/sites/default/files/js/js_Xw95sP9pntV2Eap_hGD8263AdcB5G3QqkdeG_gKlfr8.js 1 https://construccionesreis.es/
+/path6 2 -
+/en/portfolio 5 -
+/share-image.png 450 -
+/en/how-future-could-resemble 2 -
+/sitemap_index.xml 12 -
+/modules/gavias_sliderlayer/vendor/revolution/css/navigation.css 1 https://construccionesreis.es/es/node/88
+/construccion 1 -
+/clientaccesspolicy.xml 1 -
+/en/portfolio-2 3 -
+/en/special-bikes 2 -
+/en/business-card 2 -
+/en/typography 2 -
+/apple-touch-icon-precomposed.png 3 -
+/en/element-tabs 4 -
+/construccionesreis.es/pixel 4 https://construccionesreis.es/
+/en/home-1 3 -
+/crossdomain.xml 1 -
+/file/ajax/name/%23value/ 6 -
+/en/portfolio-1 2 -
+/en/country-big-concert-report 2 -
+/en/team-list 3 -
+/c/contacto 1 -
+/sites/default/files/js/js_Bn7SlSVBlzUS6hhUGklnnmWbBDoTHvhdDNSowbGp2sg.js 2 https://construccionesreis.es/
+/path5 2 -
+/sites/default/files/2018-04/2018-04/particulares.png 1 https://construccionesreis.es/
+/en/blogs-masonry 3 -
+/en/mobile-weather-app 2 -
+/en/home-2 3 -
+/apple-touch-icon.png 9 -
+/es/node/71 1 -
+/eu/node/88 1 -
+/en/home-5 2 -
+/eu/node/78 2 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/application-mobile 1 -
+/es 4 -
+/es/node/79 2 -
+/cdn-cgi/l/email-protection 3 -
+/en/home-4 1 -
+/eu/node/3 1 -
+/en/business-card-red 3 -
+/eu/node/73 1 -
+/sites/default/files/languages/es_xI9zB8WN_ymeJFdE2kGBqJ2WuPYk_cO-jrUWWJQFSqs.js 1 https://construccionesreis.es/es/node/88
+/node/92 1 -
+/en/team-grid 1 -
+/exactarget 1 -
+/sites/default/files/js/js_pk9YxAfFxuzfmWEHaZ3oUZTZVtBH7ZWVOH1L13zLFco.js 1 https://construccionesreis.es/
+/modules/gavias_sliderlayer/vendor/revolution/css/settings.css 1 https://construccionesreis.es/es/node/88
+/es/node/2 1 -
+/sites/default/files/js/js_kUzmL8lD0WoYRsaSfhHtArFG_lq8YeBavkgkqsergyg.js 2 https://construccionesreis.es/
+/en/element-quote 2 -
+/quickedit/metadata 1 https://construccionesreis.es/node/preview/daf002b1-e15d-4d50-ac0a-1533c7cb4d64/full
+/construccion/construccion-de-muros 1 -
+/en 3 -
+/eu/node/92 1 -
+/robots.txt 4 -
+/es/politica-de-privacidad 3 -
+/en/4-springtime-color-schemes-try-home 1 -
+/4-springtime-color-schemes-try-home/ 1 -
+/sites/default/files/js/js_XpjkuFzS7qiZ43CUvwx5_i10ARmFTXzmKD1Puow5VoM.js 1 https://construccionesreis.es/
+/es/node/80 1 -
+/en/home-3 2 -
+/es/blogs-list 1 -
+/eu/logo.png 2 -
+/en/careers 1 -
+/path7 2 -
+/es/node/89 2 -
+/node/preview/3d517895-d19d-4444-95bb-213845f5be76/full 1 -
+/en/lowpoly-social 4 -
+/path4 2 -
+/admin/config/search/redirect/add 4 https://construccionesreis.es/admin/config/search/redirect/add
+/en/how-decorate-black-and-white 2 -
+/sites/default/files/js/js_8lPVrQZNKfDn7_OlokRinB4nEsvG30g5RdyPKYnPerk.js 1 https://construccionesreis.es/
+/../../../../construccion1 16 https://construccionesreis.es
+/eu/c/contacto 1 -
+/path3 2 -
+/es/node/84 1 -
+/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css 1 https://construccionesreis.es/
+/.well-known/assetlinks.json 10 -
+/eu/node/2 2 -
+/sites/default/files/logo.png 1 -
+/en/blogs-list 3 -
+/en/element-piechart-skillbar 3 -
+/sites/default/files/2018-04/albanil.png 1 https://construccionesreis.es/
+/%C3%A2%E2%82%AC%C5%93 2 -
+/eu/share-image.png 4 -
+/en/node/92 1 -
+/en/business-card-0 3 -
+/es/node/87 2 -
+/sites/default/files/js/js_AxJ70thKQiej8gYt3Cos3waVidSsjootIKTWvtV-XGk.js 2 https://construccionesreis.es/
+/home-2 1 -
+/en/coffeeshops-continue-conquer 3 -
+/admin/config/system/google_tag 3 https://construccionesreis.es/admin/modules
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.carousel.min.js 1 https://construccionesreis.es/es/node/88
+/path11 2 -
+/en/node/62 1 -
+/en/element-call-action 2 -
+/modules/gavias_sliderlayer/vendor/revolution/css/layers.css 1 https://construccionesreis.es/es/node/88
+/sites/default/files/js/js_wfahkQz6A-yq4L629DJCXHkqsjUDEEThSsvr8Whh1jg.js 2 https://construccionesreis.es/
+/apple-touch-icon-120x120.png 1 -
+/admin/config/content/amp 1 https://construccionesreis.es/admin/structure/types/manage/page/display
+/en/element-heading-style 4 -
+/en/our-awards 3 -
+/es/node/88 2 -
+/construccion/construccion-de-casas 1 -
+/en/element-button 2 -
+/path9 2 -
+/sites/default/files/google_tag/google_tag.script.js 6 https://construccionesreis.es/contactenos
+/en/about 2 -
+/home-3 1 -
+/about 1 -
+/en/element-icon-box 4 -
+/privacidad 1 https://www.facebook.com/
+/contribute.json 1 -
+/es/node/81 1 -
+/logo.png 7 -
+/en/services 2 -
+/path12 2 -
+/es/team-grid 1 -
+/modules/gva_blockbuilder/assets/css/frontend.css 1 https://construccionesreis.es/es/node/88
+/blog/ 1 -
+/es/user/password 2 -
+/core/modules/block/block.module 1 -
+/eu/profiles/contrib/lightning/README.md 1 -
+/google4f0a465472f89cd8.html 1 -
+/node/12345 2 -
+/en/contact-us 3 -
+/sitemapindex.xml 12 -
+/en/blogs-grid 3 -
+/en/contact-0 3 -
+/sites/default/files/gbb-uploads/icon-10.png 1 https://construccionesreis.es/
+/path10 2 -
+/eu/node/74 1 -
+/sites/default/files/js/js_KXKcYzpiQNviahNtlmuG3JosrasWm4xNkTpmPyt_NU8.js 1 https://construccionesreis.es/
+/eu/eraikinak 1 -
+/sites/default/files/css/css_NftZT9dwQaRj4LqXbF-5tGVr8yl46nbz-KZSTk48RsU.css 10 https://construccionesreis.es/
+/sites/default/files/js/js_ZYZHTOIVpAfZc3_PD4cbz_VeGa-9iGuVbD-BAoxJdaA.js 3 https://construccionesreis.es/
+/sites/default/files/js/js_W3HfpRnC5BmmLtUSR0JYaioRc53BVKOkuSVlRqIHDSc.js 2 https://construccionesreis.es/
+/path8 2 -
+/logout 1 -
+/es/aviso-legal 4 -
+/en/user/register 1 -
+/sitemap.xml.gz 12 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 253
+2.139.30.13 1458 5794 132006704 20180623194315
+81.45.33.255 298 2074 26885235 20180629131530
+2.139.105.101 120 989 10184293 20180609051406
+176.86.57.138 93 392 11610151 20180602145131
+34.216.239.147 69 69 1732112 20180616081651
+66.249.93.90 59 467 17065534 20180629130254
+66.249.93.88 49 489 18983871 20180629130254
+195.135.249.119 45 456 16573409 20180620170724
+66.249.93.86 44 453 15209585 20180626130428
+34.218.254.207 39 79 2119920 20180621132159
+176.86.90.52 37 218 9478114 20180613123555
+52.10.66.88 36 36 340913 20180612015925
+54.201.47.133 36 36 359145 20180623194357
+34.208.22.67 36 36 359174 20180626132518
+54.186.148.138 36 36 359177 20180626132518
+66.102.6.182 36 608 24783293 20180621102009
+34.217.128.251 36 36 343054 20180605113411
+35.163.164.236 36 36 363252 20180616081701
+52.24.215.108 35 35 324518 20180610223023
+52.24.103.141 34 34 313835 20180610223022
+34.220.3.157 33 33 1207315 20180616081034
+66.102.6.184 32 532 25175355 20180621101959
+85.87.194.26 31 154 4889199 20180627190355
+66.102.8.22 27 240 9820695 20180629130917
+195.135.248.127 27 244 9132998 20180621163526
+85.84.129.29 0 1 43672 
+34.215.245.159 3 43 1760779 20180626132523
+66.102.9.152 1 17 489998 20180604201416
+195.135.248.176 3 6 81629 20180606114343
+201.206.93.234 0 1 323216 
+83.36.208.67 0 1 43672 
+88.26.217.90 3 38 1757290 20180613144127
+66.102.9.154 2 15 840477 20180604201430
+88.9.103.147 0 1 43672 
+193.153.6.252 0 1 43672 
+115.112.139.214 4 42 1828437 20180615112509
+77.230.81.91 1 29 859476 20180601152924
+88.11.129.101 0 1 43672 
+66.102.6.186 24 428 15021616 20180621102009
+54.149.126.232 3 44 2113085 20180616081036
+195.135.250.141 9 52 1413260 20180619093905
+34.221.22.189 3 38 1757290 20180612015905
+66.102.6.249 3 23 884222 20180626130418
+66.249.92.95 1 3 212708 20180604201418
+80.245.0.35 0 1 43672 
+83.49.251.188 2 4 140612 20180623195535
+176.85.246.114 3 17 999089 20180605182738
+81.34.49.78 4 44 1894590 20180604182909
+189.208.150.232 0 2 646432 
+54.191.190.52 3 44 2081674 20180616081029
+46.118.115.22 1 1 71332 20180601064600
+158.69.133.31 0 1 399 
+46.25.206.209 0 1 43672 
+88.16.67.127 0 1 43672 
+34.210.99.98 3 43 1760779 20180626132523
+34.220.253.13 3 43 1760775 20180621132112
+195.135.251.103 1 5 126683 20180611122845
+109.86.72.27 1 1 14303 20180625142907
+85.57.243.26 0 1 43672 
+77.247.181.165 3 43 1778141 20180616234430
+186.48.89.30 0 1 43672 
+64.41.200.108 1 1 71757 20180605114245
+173.252.92.119 0 11 404416 
+66.249.84.24 1 11 289520 20180610213339
+84.78.144.19 0 1 43672 
+54.185.133.255 3 44 1810236 20180616081640
+180.163.220.62 0 3 10944 
+85.152.0.59 0 1 43672 
+90.71.136.35 0 1 43672 
+104.131.186.82 1 1 73102 20180622181255
+201.230.44.130 0 1 323216 
+52.37.8.199 3 44 2081674 20180616081036
+193.144.39.220 0 1 43672 
+173.252.92.112 1 13 912644 20180606084250
+54.149.253.174 6 88 3571404 20180616081705
+83.63.183.245 0 1 43672 
+78.30.6.110 0 2 87344 
+106.120.160.109 1 1 71641 20180614110157
+18.236.213.154 3 43 1760775 20180621132144
+176.86.42.19 6 45 2129362 20180609150303
+63.245.214.162 3 3 42909 20180621131615
+195.135.251.93 17 108 2497341 20180616093211
+66.249.92.218 0 1 281 
+186.7.76.235 0 1 43672 
+94.130.167.248 1 1 71761 20180608031827
+34.220.147.186 6 37 1611363 20180610223004
+104.131.179.239 1 1 71757 20180606093857
+212.8.107.199 11 103 3702457 20180627134425
+85.251.61.18 0 1 43672 
+83.247.136.67 0 1 43672 
+52.43.48.161 3 44 2113085 20180616081029
+80.93.187.145 1 1 14303 20180623134803
+95.16.128.174 0 1 43672 
+80.31.229.150 0 1 43672 
+92.187.244.95 11 55 2021771 20180607141320
+94.142.200.184 0 1 43672 
+175.156.118.78 3 43 1760775 20180621170113
+35.232.193.243 4 4 57212 20180621131614
+201.242.186.32 0 2 646432 
+72.55.136.152 12 122 4912930 20180621131644
+167.56.43.199 0 1 43672 
+83.63.29.117 0 1 43672 
+77.49.5.148 6 53 1882186 20180616085254
+47.63.18.252 9 57 1942335 20180618132746
+159.65.189.116 1 1 14307 20180628150023
+66.102.9.150 1 9 460678 20180604201416
+180.163.220.45 0 1 78674 
+2.136.147.61 0 1 43672 
+104.236.199.79 1 1 73102 20180621185535
+37.29.204.26 0 1 43672 
+52.41.234.11 3 43 1760779 20180626132519
+66.102.8.24 14 193 7386464 20180629130829
+104.245.35.228 1 1 13925 20180608081835
+195.135.250.33 2 4 52288 20180619125055
+34.221.84.182 3 44 2081674 20180616080952
+34.211.57.249 3 38 1757290 20180612015934
+66.249.83.84 1 5 140893 20180619185956
+45.76.30.89 1 1 13869 20180613205112
+66.249.93.24 1 1 13950 20180607120802
+18.236.210.122 3 43 1760779 20180626132517
+66.249.81.58 3 9 487545 20180605193658
+83.213.139.179 3 43 1760775 20180616235703
+95.120.86.56 0 1 43672 
+84.78.24.26 3 18 746091 20180609225748
+66.249.92.94 1 18 386913 20180604201429
+81.184.183.57 0 1 43672 
+18.237.159.116 3 43 1760775 20180623194413
+88.9.72.28 0 1 27726 
+95.61.100.230 0 1 43672 
+66.249.83.85 24 274 9767886 20180626131746
+34.214.117.19 3 43 1760775 20180623194407
+180.163.220.100 1 3 28697 20180614110602
+101.199.120.145 1 8 316037 20180614110229
+83.35.177.175 0 1 43672 
+104.236.229.223 1 1 71641 20180615181851
+34.219.119.219 3 18 746091 20180610223030
+182.71.87.52 1 1 14307 20180626211358
+52.42.26.252 3 38 1757366 20180605113351
+69.28.88.47 1 1 13950 20180607223538
+187.232.16.240 0 1 323216 
+66.249.84.22 0 13 265178 
+104.236.54.111 1 1 73102 20180622174932
+189.216.198.114 0 1 323216 
+213.4.184.188 0 1 43672 
+176.9.82.219 1 1 73102 20180628011115
+195.135.251.189 6 66 2510338 20180622221613
+2.136.5.133 5 43 1795843 20180601102003
+89.131.157.211 0 1 43672 
+66.249.84.26 2 14 1202592 20180610213341
+34.217.43.145 3 38 1757366 20180605113406
+81.34.53.210 3 19 861133 20180612233511
+64.41.200.101 1 1 71641 20180612111127
+17.110.173.15 1 1 14303 20180619142638
+34.221.124.69 3 44 1761168 20180616081650
+90.174.3.57 0 1 43672 
+81.32.94.35 0 1 43672 
+66.249.92.216 0 4 24892 
+83.45.5.9 0 1 43672 
+195.135.249.112 1 7 153039 20180607170715
+180.163.220.125 0 3 203371 
+83.247.138.68 0 1 43672 
+139.47.71.3 3 23 749563 20180616173815
+66.249.92.22 0 2 88968 
+18.221.240.176 4 19 675427 20180630064932
+18.236.116.235 3 19 865272 20180610223032
+90.174.3.185 0 1 43672 
+66.102.6.247 2 30 1606296 20180626130418
+185.35.63.248 1 1 71716 20180608234354
+66.102.7.166 1 11 579031 20180610213350
+66.249.81.56 0 5 108113 
+54.215.254.26 4 4 55684 20180611164130
+209.85.238.54 3 3 13922 20180611121306
+66.249.92.150 1 1 14303 20180624121311
+138.68.46.186 9 9 633420 20180621131614
+31.184.194.114 11 11 157575 20180626220523
+52.37.83.41 6 86 3521558 20180626132453
+195.77.214.18 0 1 43672 
+84.126.209.193 0 1 43672 
+84.78.21.189 0 1 43672 
+185.35.63.171 1 1 73102 20180624013647
+66.249.81.54 1 5 139035 20180605193655
+95.120.184.123 0 1 43672 
+88.5.44.58 0 1 43672 
+66.249.92.214 3 15 674564 20180604201432
+64.41.200.103 1 1 71641 20180612112348
+187.143.29.39 0 1 323216 
+13.57.233.99 3 3 42913 20180629024804
+173.252.92.117 2 10 353817 20180606084250
+91.116.74.231 0 1 43672 
+13.56.232.243 1 1 13876 20180601082359
+42.114.110.157 3 38 1757290 20180611114940
+162.213.38.180 1 1 14303 20180621233827
+173.252.92.115 0 2 79116 
+95.16.93.91 3 22 684386 20180622112125
+95.21.122.59 0 1 43672 
+66.102.7.170 1 11 654086 20180610213350
+66.249.83.86 25 306 10958966 20180627184839
+193.33.2.114 0 1 43672 
+52.53.201.78 4 4 57220 20180628235441
+195.135.248.118 2 17 480362 20180613154838
+163.117.155.157 1 1 14303 20180619195503
+18.237.154.124 3 38 1757290 20180612015933
+104.132.20.75 6 52 1838288 20180629095338
+34.212.174.216 6 88 3571404 20180616081624
+195.135.250.91 3 38 1757366 20180601184241
+85.84.37.116 8 47 1855798 20180601163721
+2.139.27.4 3 43 1760891 20180628181648
+173.252.92.118 0 2 7373 
+64.41.200.102 2 2 144743 20180621131621
+132.148.89.107 17 17 1212750 20180601050712
+95.123.161.204 8 88 3640668 20180622144309
+66.249.92.149 1 1 53 20180603000254
+62.99.73.66 0 1 27726 
+89.141.42.238 0 1 43672 
+83.42.34.101 0 1 43672 
+66.249.92.21 1 13 353663 20180604201430
+187.167.202.190 0 1 323216 
+139.59.124.103 1 1 14303 20180622173938
+89.107.243.25 0 1 43672 
+180.163.220.42 0 1 19473 
+66.249.83.87 27 265 8921151 20180627184834
+37.10.149.61 3 43 1760775 20180621210720
+192.169.214.168 6 7 435841 20180601181211
+194.224.120.98 0 1 43672 
+62.14.160.76 0 1 43672 
+87.222.25.205 0 1 43672 
+66.249.87.22 1 1 13869 20180612111425
+37.10.138.217 3 43 1760775 20180621162800
+54.201.68.21 3 44 2113085 20180616081004
+54.202.247.166 3 43 1760775 20180623194337
+13.57.220.0 7 7 171517 20180620135630
+80.31.39.137 0 1 43672 
+66.102.6.245 1 33 1031034 20180626130412
+52.43.89.110 3 18 746091 20180610223028
+92.187.103.207 0 1 43672 
+188.85.176.117 0 1 43672 
+182.118.20.151 1 1 71641 20180614110211
+95.63.164.90 0 1 43672 
+84.78.254.186 7 26 725037 20180619193835
+176.86.9.33 1 16 507085 20180613121233
+85.84.103.215 3 43 1760775 20180617013808
+149.28.59.165 3 38 1757288 20180614104145
+66.102.8.26 10 97 2187712 20180629130829
+45.32.120.249 3 3 41680 20180612093407
+62.57.249.220 1 1 9675 20180611110715
+34.219.246.78 3 38 1757366 20180605113410
+34.208.13.77 3 19 865272 20180610223031
+159.65.190.219 1 1 73102 20180621165213
+66.102.7.168 1 16 524173 20180610213347
+47.60.44.125 0 1 43672 
+85.187.21.242 4 51 1861636 20180621164520
+85.48.57.37 4 20 873605 20180610214429
+80.31.194.43 0 1 43672 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180601 143 650 23074649 16
+20180602 9 80 3873966 5
+20180603 3 4 71615 3
+20180604 37 417 18665648 15
+20180605 95 382 11007633 12
+20180606 94 919 9890472 10
+20180607 17 80 2810144 8
+20180608 19 72 2807483 6
+20180609 43 157 4636601 7
+20180610 120 402 15334667 21
+20180611 22 139 5943756 15
+20180612 77 332 13691619 15
+20180613 11 76 2814082 7
+20180614 11 63 2613523 8
+20180615 8 48 2013083 5
+20180616 1737 7742 208139643 36
+20180617 17 145 5745223 8
+20180618 22 141 4495502 4
+20180619 42 391 9032379 15
+20180620 143 995 28382616 15
+20180621 209 2175 85272305 29
+20180622 23 184 7595004 12
+20180623 70 322 11580476 15
+20180624 4 7 483298 4
+20180625 10 52 2214697 4
+20180626 283 2099 36354360 25
+20180627 16 137 4930001 6
+20180628 6 47 2185823 4
+20180629 59 453 15382753 9
+20180630 4 22 806443 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 18
+0s-30s 267
+15mn-30mn 10
+30s-2mn 11
+1h+ 6
+30mn-1h 10
+2mn-5mn 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 280
+/ 468 19690391 236 144
+/admin/coffee/get-data 366 8226930 0 0
+/batch 266 1300312 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 255 19521936 25 34
+/themes/gavias_buildpro/fonts/icon/icon.ttf 254 63186732 20 87
+/contextual/render 103 118933 0 4
+/quickedit/attachments 66 80451 0 0
+/admin/config/search/redirect/add 46 460397 0 0
+/rehabilitacion-de-fachadas-reforma-de-fachadas 44 1961903 3 4
+/admin/structure/views/view/search/preview/page 40 435711 0 0
+/admin/config/development/performance 39 1329730 0 0
+/eu 36 1288933 8 4
+/obras-menores1 33 464481 6 2
+/contactenos 31 378147 3 4
+/construccion1 30 290726 1 4
+/user/login 30 245290 9 11
+/history/34/read 29 330 0 0
+/admin/structure/views/view/buscar_todo/preview/page_1 27 269457 0 0
+/reformas1 26 371427 4 0
+/admin/config 25 577015 0 1
+/admin/config/search/redirect 24 454878 0 1
+/buscar-todo 21 4936854 0 0
+/admin/structure/block 21 7287283 0 0
+/admin/config/development/performance/advagg 19 1120713 0 0
+/admin/structure/views 19 3562845 0 0
+/admin/structure/contact/messages/3 1 15755 0 0
+/node/32/translations 1 140095 0 0
+/admin/config/search/path/patterns/construccion/translate 1 15267 1 0
+/admin/config/search/search-api/index/content/fields/remove/vid 1 73 0 0
+/admin/structure/menu/parents 3 4661 0 0
+/admin/config/search/metatag/node 1 866891 0 0
+/admin/structure/views/ajax/display/search/page/style 2 37631 0 0
+/admin/structure/views/ajax/display/buscar_todo/page_1/row_options 1 9682 0 0
+/admin/config/search/search-api/index/content/edit 9 1432688 0 0
+/glossary/g 1 32007 0 0
+/reformas-viviendas 13 145671 0 0
+/core/authorize.php/core/authorize.php 1 92 0 0
+/admin/structure/taxonomy/manage/construccion/overview/display 1 17889 0 0
+/admin/config/search/metatag/global/translate 2 276928 0 0
+/admin/structure/views/ajax/handler/search/page/filter/langcode 1 40159 0 0
+/admin/structure/views/ajax/handler/search/page/filter/status 3 117949 0 0
+/admin/structure/types/manage/service/display/full 1 20392 0 0
+/taxonomy/term/5/feed 1 1873 0 0
+/admin/config/development/performance/advagg/info 2 290022 0 0
+/eu/node/32/edit 1 1095989 0 0
+/node/34/delete 2 286360 0 0
+/admin/structure/block/manage/formularioexpuestobuscar_todopage_1/delete 1 138309 0 0
+/admin/config/search/metatag/global 7 1317389 0 1
+/admin/structure/views/view/buscar_todo 7 1036028 0 0
+/admin/structure/views/view/search 11 1855173 0 0
+/admin/reports/updates/update 2 303218 0 0
+/admin/structure/views/ajax/handler/search/page/filter/status_1_1 3 83689 0 0
+/eu/sukaldeen-erreformak 2 42120 0 0
+/admin/config/search/search-api/index/content/fields/edit/label 1 62619 0 0
+/admin/structure/taxonomy/manage/construccion/overview/fields 1 15491 0 0
+/admin/structure/views/add 2 24261 0 0
+/admin/config/search/path/patterns 2 35144 0 0
+/eu/hormen-eraikuntzak 2 40599 0 0
+/eu/aviso-legal 3 82068 0 0
+/admin/config/development/performance/advagg/mod 5 841002 0 0
+/admin/modules 15 3065020 0 1
+/admin/config/system/lightning 5 682680 0 0
+/admin/config/search/search-api/index/content/fields/remove/description 1 81 0 0
+/admin/config/search/path 2 37517 0 0
+/empresa-de-reformas-integrales-en-donostia 13 204991 0 0
+/reforma/reformas-locales-comerciales 1 8718 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff 6 587478 0 2
+/node/32/edit 2 2213032 0 0
+/eu/quickedit/attachments 4 4447 0 0
+/quickedit/metadata 14 7445 0 0
+/admin/config/system/lightning/roles 1 139795 0 0
+/admin/structure/views/view/buscar_todo/edit/block_1 2 338550 0 0
+/admin/config/development/maintenance 7 133161 0 0
+/admin/structure/taxonomy 3 51021 0 0
+/eu/teilatuak 2 40959 0 0
+/admin/structure/types/manage/service/fields/node.service.field_meta_tags/storage 2 32537 0 0
+/admin/config/search/metatag/add 1 74439 0 0
+/proba 4 59948 0 1
+/eu/irazgaiztasunak 3 51084 1 0
+/aviso-legal 12 175646 0 0
+/admin/structure/views/ajax/add-handler/buscar_todo/page_1/filter 7 204188 0 0
+/admin/structure/block/add/views_exposed_filter_block%3Asearch-page/gavias_buildpro 1 39957 0 0
+/admin/structure/views/ajax/display/buscar_todo/page_1/exposed_form 2 54414 0 0
+/admin/structure/views/ajax/add-handler/search/page/filter 12 374320 0 0
+/construccion/construccion-garajes 1 8591 0 0
+/eu/pladurra 2 40818 0 0
+/eu/kontaktua 3 56297 1 1
+/admin/config/regional 1 16621 0 0
+/history/7/read 2 60 0 0
+/taxonomy/term/28/feed 1 4638 0 0
+/admin/config/system/lightning/api 2 279666 0 0
+/admin/structure/views/view/buscar_todo/edit/page_1 4 675530 0 0
+/admin/structure/views/ajax/display/search/page/exposed_form_options 3 66322 0 0
+/reformas-de-hoteles 10 111386 0 0
+/admin/structure/types/manage/service/display 6 465768 0 0
+/sitemap.xml 1 2857 0 0
+/admin/structure/contact 1 15916 0 0
+/admin/structure/taxonomy/manage/construccion/overview/form-display 2 35509 0 0
+/toolbar/subtrees/A8Fl7glH2LAumJJhD9YRqHhMZPvwyf4YP75jDWks3es 1 9871 0 0
+/admin/config/search/metatag/global/translate/eu/edit 2 521591 0 0
+/admin/config/search/path/patterns/add 1 16409 0 0
+/toolbar/subtrees/L5s76K9MMK2a9rbjj-m78JjjMf8PTfDYutVpQJYDYX0 1 9872 0 0
+/admin/config/search/search-api/index/content/fields/remove/name 1 74 0 0
+/admin/config/system/site-information 3 50047 0 0
+/node/34/latest 1 40471 0 0
+/eu/garajeen-eraikuntzak 3 48558 1 0
+/openapi/jsonapi 1 23290 0 0
+/construccion-de-muros 10 107945 0 0
+/node/34/edit 5 2634284 0 0
+/eu/history/32/read 1 10 0 0
+/node/1/edit 2 177454 0 0
+/admin/config/search/search-api/server/database/edit 4 470383 0 0
+/node/5/edit 1 94058 0 0
+/reforma/rehabilitacion-fachadas 1 9160 0 0
+/admin/config/system/lightning/layout 1 148190 0 0
+/admin/structure/types/manage/service/fields/node.service.field_meta_tags 2 33694 0 0
+/admin/config/system/google_tag 1 19759 0 0
+/admin/config/regional/content-language 3 109807 0 1
+/admin/structure/views/view/buscar_todo/disable 1 98387 0 0
+/admin/config/search/search-api/index/content/fields/remove/status_1 1 78 0 0
+/admin/structure/contact/messages/delete 1 15655 0 0
+/admin/structure/types/manage/service/display/token 3 384495 0 0
+/trabajos-verticales 10 109780 0 0
+/eu/node/34/edit 1 1114511 0 0
+/admin/reports/updates/settings 1 148099 0 0
+/admin/structure/views/ajax/display/search/page/exposed_form 1 6856 0 0
+/eu/node/7/edit 1 90982 0 0
+/admin/structure/views/ajax/handler/search/page/empty/area 1 17771 0 0
+/admin/reports/translations 4 582781 0 0
+/toolbar/subtrees/mMbifD7_yt3ulcfWqIHfaWOe_4OGempFBPoPzpZ4L9s 1 96063 0 0
+/admin/structure/views/ajax/handler/buscar_todo/page_1/filter/title 1 28699 0 0
+/admin/people 2 47202 0 0
+/eu/politica-de-cookies 2 50842 0 0
+/update.php/selection 10 29679 0 0
+/eu/quickedit/metadata 4 838 0 0
+/admin/appearance 6 115887 0 0
+/admin/structure/views/ajax/handler/search/page/filter/title_1 1 31143 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.ttf 1 98397 0 0
+/admin/config/development/performance/advagg/operations 5 300257 0 0
+/eu/marmolariak 2 41650 0 0
+/pintores 15 165701 1 0
+/eu/glossary/g 1 31894 1 0
+/sitemap 19 258977 0 0
+/admin/config/search/search-api/index/content/fields/remove/title 1 75 0 0
+/admin/structure/types 2 33555 0 0
+/admin/reports/updates 5 459222 0 1
+/admin/structure/views/ajax/handler/buscar_todo/page_1/filter/status_1 5 124349 0 0
+/admin/config/search/search-api/index/content 7 1006337 0 0
+/eu/politica-de-privacidad 2 43562 0 2
+/node/34/translations 1 139736 0 0
+/eu/parkeristak 2 41412 0 0
+/admin/structure/views/ajax/display/search/page/style_options 2 14966 0 0
+/eu/erreformak1 4 75335 1 0
+/admin/structure/taxonomy/manage/construccion/add 1 18925 0 0
+/admin/structure/views/ajax/rearrange-filter/search/default 2 52002 0 0
+/admin/appearance/settings/gavias_buildpro 4 76016 0 0
+/admin/config/search/search-api 15 1619242 0 0
+/admin/structure/block/library/gavias_buildpro 4 566299 0 0
+/admin/config/system/lightning/media 1 138157 0 0
+/admin/structure/views/ajax/handler/buscar_todo/page_1/filter/search_api_fulltext 2 81074 0 0
+/node/7/edit 4 366179 0 0
+/admin/content 6 269595 0 0
+/eu/contextual/render 12 23529 0 0
+/construccion-de-casas 15 201659 0 1
+/admin/structure/types/manage/page/fields/add-field 1 19335 0 0
+/admin 4 309794 0 0
+/admin/config/search/search-api/index/content/fields/remove/langcode 1 78 0 0
+/eu/hotelen-erreformak 2 40513 0 0
+/aislamiento 13 144204 0 2
+/eu/igeltseroak 2 42355 0 0
+/eu/etxeen-eraikuntzak 2 41955 0 0
+/admin/structure/types/manage/page/display/token 1 181055 0 0
+/eu/obra-txikiak1 3 70249 0 0
+/eu/mikrozementu 2 40921 0 0
+/admin/structure/block/manage/gavias_buildpro_branding 3 58099 0 0
+/admin/config/development/performance/advagg/js-minify 4 594922 0 0
+/admin/structure/block/add/views_exposed_filter_block%3Abuscar_todo-page_1/gavias_buildpro 1 39994 0 0
+/admin/structure/views/ajax/handler/buscar_todo/page_1/filter/menu_link 3 83704 0 0
+/eu/eraikinen-errehabilitazioa 2 42428 0 0
+/core/authorize.php 2 5006 0 0
+/admin/config/search/search-api/index/content/fields/add/ajax 12 637339 0 0
+/rehabilitacion-de-cubiertas 12 131982 0 0
+/admin/structure/views/ajax/handler/search/page/filter/langcode_1 1 42841 0 0
+/admin/structure/views/view/search/preview/default 2 14329 0 0
+/admin/structure/types/manage/service/fields 3 177862 0 0
+/admin/structure/legal/manage/aviso_legal/manage/aviso_legal_1524321522 1 20707 0 0
+/admin/structure/taxonomy/manage/reforma 1 17641 0 0
+/eu/komun-erreformatuak-komuneko-erreformak 2 43149 0 0
+/marmolistas 15 236191 0 1
+/admin/config/search/path/patterns/construccion 1 17162 0 1
+/admin/structure/legal/manage/aviso_legal 2 37760 0 0
+/admin/structure/types/manage/page/display 3 397471 0 0
+/eu/igeltseroak-0 2 42320 0 0
+/eu/etxebizitzen-erreformak 2 41963 0 0
+/eu/sitemap 2 50878 0 0
+/pladur 11 121745 0 0
+/admin/config/performance/advagg/cdn 2 297170 0 0
+/eu/lan-bertikalak 2 40087 0 0
+/admin/config/search/search-api/index/content/fields 17 2962660 0 0
+/eu/aterpeen-erreabilitazioa 2 41379 0 0
+/reforma/reformas-cocinas 1 8333 1 0
+/admin/structure/taxonomy/manage/construccion 2 35225 0 1
+/admin/structure/types/manage/page 2 55636 0 0
+/admin/structure/legal 1 15355 0 0
+/admin/config/search/search-api/index/content/fields/remove/menu_link 1 79 0 0
+/admin/structure/views/view/buscar_todo/preview/block_1 2 15770 0 0
+/node/preview/daf002b1-e15d-4d50-ac0a-1533c7cb4d64/full 1 35147 0 0
+/admin/config/search/metatag 11 613457 0 0
+/update.php 9 30994 0 0
+/eu/eraikinak1 3 50140 0 0
+/rehabilitacion-de-edificios 11 125336 0 0
+/construccion-y-reformas-de-locales-comerciales 10 115314 0 0
+/eu/admin/coffee/get-data 7 153561 0 0
+/admin/structure/views/ajax/rearrange-filter/search/page 10 229511 0 0
+/admin/config/content/amp 3 58432 0 0
+/admin/config/development/performance/advagg/bundler 2 297464 0 0
+/admin/structure/views/ajax/handler/search/page/filter/menu_link 1 43911 0 0
+/admin/structure/types/manage/service/fields/add-field 1 17843 0 0
+/admin/structure/block/add/views_block%3Abuscar_todo-block_1/gavias_buildpro 2 81860 0 0
+/admin/structure/views/ajax/handler/search/page/filter/uid 3 41806 0 0
+/admin/structure/views/ajax/display/buscar_todo/page_1/exposed_block 2 33754 0 0
+/yeseros 10 115253 0 0
+/impermeabilizaciones 14 153103 1 1
+/api-docs 1 16645 0 0
+/admin/structure/types/manage/service/form-display 6 298110 0 0
+/admin/config/search/path/patterns/contenido 1 17323 0 0
+/googleb8bc79e3de72efad.html 3 106 2 3
+/parquetistas 10 114305 0 0
+/tejados 12 130858 0 1
+/admin/config/development/performance/advagg/css-minify 4 591614 0 0
+/admin/modules/uninstall 8 1163445 0 0
+/politica-de-cookies 11 154370 1 0
+/eu/lokal-komertzialen-eraikuntza-eta-berrikuntzak 2 42407 0 0
+/eu/aislamendua 2 41903 0 0
+/admin/structure/taxonomy/manage/reforma/overview/fields 1 15530 0 0
+/construccion-de-garajes 13 220389 0 0
+/admin/structure/views/ajax/display/buscar_todo/page_1/exposed_form_options 3 66911 0 0
+/admin/structure/types/manage/service 1 205428 0 0
+/admin/structure/types/manage/service/display/teaser 2 204574 0 0
+/eu/node/11 5 39565 5 3
+/admin/structure/block/list/gavias_buildpro 5 2044425 0 0
+/admin/config/search/search-api/index/content/reindex 1 141796 0 0
+/admin/modules/install 2 34955 0 0
+/admin/structure/views/ajax/handler/search/page/sort/search_api_relevance 1 9988 0 0
+/eu/pintoreak 2 41955 0 0
+/politica-de-privacidad 17 210641 4 11
+/admin/config/search/search-api/index/content/fields/edit/rendered 1 8218 0 0
+/admin/config/search/search-api/index/content/fields/remove/gva_breadcrumb 1 84 0 0
+/microcemento 11 123210 0 0
+/admin/structure/views/ajax/handler/search/page/filter/title 1 28760 0 0
+/admin/structure/legal/manage/aviso_legal/translate/eu/add 1 15963 0 0
+/admin/modules/uninstall/confirm 4 188109 0 0
+/eu/history/34/read 2 20 0 0
+/admin/reports 2 30108 0 0
+/machine_name/transliterate 4 126 0 0
+/reformas-de-cocinas 14 176194 0 0
+/albaniles 17 187999 1 2
+/admin/structure/views/ajax/display/search/page/row_options 2 37938 0 0
+/admin/structure/types/manage/service/display/amp 1 22070 0 0
+/empresa-de-reformas-integrales-en-san-sebastian 1 8465 1 1
+/banos-reformados-reformas-de-banos 18 291428 0 1
+/admin/reports/status 8 292512 0 0
+/admin/structure/views/ajax/handler/search/page/filter/search_api_fulltext 12 443270 0 0
+/taxonomy/term/29/feed 1 5719 0 0
+/empresa-de-construccion-en-donostia 8 90167 0 0
+/admin/structure/views/ajax/handler/search/page/filter/gva_breadcrumb 1 43746 0 0
+/search 18 2234808 0 0
+/user/1 15 476532 0 0
+/admin/config/search/path/patterns/construccion/translate/eu/edit 1 16067 0 0
+/admin/structure/legal/manage/aviso_legal/translate 2 31414 0 0
+/history/32/read 4 40 0 0
+/admin/structure/views/ajax/handler/search/page/filter/status_1 1 40891 0 0
+/admin/structure/block/manage/views_block__buscar_todo_block_1/delete 2 276560 0 0
+/admin/structure 9 261402 1 0
+/admin/structure/contact/messages 3 50619 0 0
+/admin/config/search/search-api/index/content/processors 3 895484 0 0
+/eu/fatxaden-erreabilitazioa-fatxaden-erreforma 6 331963 1 1
+/admin/structure/taxonomy/manage/reforma/overview/form-display 1 17796 0 0
+/admin/structure/views/nojs/display/search/page/path 1 138274 0 0
+/admin/structure/types/manage/page/fields 1 17695 0 0
+END_SIDER

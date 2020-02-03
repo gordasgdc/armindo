@@ -1,0 +1,102 @@
+{
+    "cid": "Drush\\Commands\\ExampleCommands",
+    "data": {
+        "exampleTable": {
+            "schema": 3,
+            "class": "Drush\\Commands\\ExampleCommands",
+            "method_name": "exampleTable",
+            "mtime": 1527094040,
+            "name": "example:table",
+            "description": "Demonstrate output formatters.  Default format is 'table'.",
+            "help": "",
+            "aliases": [
+                "tf"
+            ],
+            "annotations": {
+                "command": "example:table",
+                "field-labels": "\n   first: I\n   second: II\n   third: III",
+                "default-string-field": "second",
+                "hidden": ""
+            },
+            "example_usages": {
+                "example-table --format=yaml": "",
+                "example-table --format=csv": "",
+                "example-table --fields=first,third": "",
+                "example-table --fields=III,II": ""
+            },
+            "return_type": "\\Consolidation\\OutputFormatters\\StructuredData\\RowsOfFields",
+            "arguments": [],
+            "options": {
+                "format": {
+                    "description": "",
+                    "default": "table"
+                }
+            }
+        },
+        "alterFormatters": {
+            "schema": 3,
+            "class": "Drush\\Commands\\ExampleCommands",
+            "method_name": "alterFormatters",
+            "mtime": 1527094040,
+            "name": "alter:formatters",
+            "description": "Demonstrate an alter hook with an option",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "alter example-table"
+            },
+            "example_usages": {
+                "example-table --french": ""
+            },
+            "return_type": null,
+            "arguments": {
+                "result": {
+                    "description": ""
+                }
+            },
+            "options": {
+                "french": {
+                    "description": "Add a row with French numbers."
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

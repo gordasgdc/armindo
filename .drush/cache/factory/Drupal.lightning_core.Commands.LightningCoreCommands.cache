@@ -1,0 +1,62 @@
+{
+    "cid": "Drupal\\lightning_core\\Commands\\LightningCoreCommands",
+    "data": {
+        "update": {
+            "schema": 3,
+            "class": "Drupal\\lightning_core\\Commands\\LightningCoreCommands",
+            "method_name": "update",
+            "mtime": 1528378282,
+            "name": "update:lightning",
+            "description": "Executes Lightning configuration updates from a specific version.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "command": "update:lightning"
+            },
+            "example_usages": {
+                "update:lightning": "Runs all available configuration updates."
+            },
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

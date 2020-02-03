@@ -1,0 +1,122 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\sql\\SanitizeUserFieldsCommands",
+    "data": {
+        "getDatabase": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\sql\\SanitizeUserFieldsCommands",
+            "method_name": "getDatabase",
+            "mtime": 1527094040
+        },
+        "getEntityManager": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\sql\\SanitizeUserFieldsCommands",
+            "method_name": "getEntityManager",
+            "mtime": 1527094040
+        },
+        "sanitize": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\sql\\SanitizeUserFieldsCommands",
+            "method_name": "sanitize",
+            "mtime": 1527094040,
+            "name": "sanitize",
+            "description": "Sanitize string fields associated with the user.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "todo": "Use Drupal services to get field info.",
+                "hook": "post-command sql-sanitize",
+                "inheritdoc": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "result": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "messages": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\sql\\SanitizeUserFieldsCommands",
+            "method_name": "messages",
+            "mtime": 1527094040,
+            "name": "messages",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "on-event sql-sanitize-confirms",
+                "inheritdoc": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "messages": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "options": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\sql\\SanitizeUserFieldsCommands",
+            "method_name": "options",
+            "mtime": 1527094040,
+            "name": "options",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "option sql-sanitize"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": {
+                "whitelist-fields": {
+                    "description": "A comma delimited list of fields exempt from sanitization.",
+                    "default": ""
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

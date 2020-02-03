@@ -1,0 +1,173 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+    "data": {
+        "getConfigManager": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getConfigManager",
+            "mtime": 1527094040
+        },
+        "getConfigStorage": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getConfigStorage",
+            "mtime": 1527094040
+        },
+        "getConfigStorageSync": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getConfigStorageSync",
+            "mtime": 1527094040
+        },
+        "getModuleHandler": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getModuleHandler",
+            "mtime": 1527094040
+        },
+        "getEventDispatcher": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getEventDispatcher",
+            "mtime": 1527094040
+        },
+        "getLock": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getLock",
+            "mtime": 1527094040
+        },
+        "getConfigTyped": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getConfigTyped",
+            "mtime": 1527094040
+        },
+        "getModuleInstaller": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getModuleInstaller",
+            "mtime": 1527094040
+        },
+        "getThemeHandler": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getThemeHandler",
+            "mtime": 1527094040
+        },
+        "getStringTranslation": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "getStringTranslation",
+            "mtime": 1527094040
+        },
+        "import": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "import",
+            "mtime": 1527094040,
+            "name": "config:import",
+            "description": "Import config from a config directory.",
+            "help": "",
+            "aliases": [
+                "cim",
+                "config-import"
+            ],
+            "annotations": {
+                "command": "config:import",
+                "interact-config-label": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "label": {
+                    "description": "A config directory label (i.e. a key in \\$config_directories array in settings.php).",
+                    "default": null
+                }
+            },
+            "options": {
+                "preview": {
+                    "description": "Deprecated. Format for displaying proposed changes. Recognized values: list, diff.",
+                    "default": "list"
+                },
+                "source": {
+                    "description": "An arbitrary directory that holds the configuration files. An alternative to label argument",
+                    "default": 2
+                },
+                "partial": {
+                    "description": "Allows for partial config imports from the source directory. Only updates and new configs will be processed with this flag (missing configs will not be deleted).",
+                    "default": false
+                },
+                "diff": {
+                    "description": "Show preview as a diff.",
+                    "default": false
+                }
+            }
+        },
+        "doImport": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "doImport",
+            "mtime": 1527094040
+        },
+        "validate": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigImportCommands",
+            "method_name": "validate",
+            "mtime": 1527094040,
+            "name": "validate",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "validate config-import"
+            },
+            "example_usages": [],
+            "return_type": "\\Consolidation\\AnnotatedCommand\\CommandError|null",
+            "arguments": {
+                "commandData": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

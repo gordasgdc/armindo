@@ -1,0 +1,111 @@
+{
+    "cid": "Drush\\Commands\\core\\LoginCommands",
+    "data": {
+        "login": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\LoginCommands",
+            "method_name": "login",
+            "mtime": 1527094040,
+            "name": "user:login",
+            "description": "Display a one time login link for user ID 1, or another user.",
+            "help": "",
+            "aliases": [
+                "uli",
+                "user-login"
+            ],
+            "annotations": {
+                "command": "user:login",
+                "bootstrap": "none",
+                "handle-remote-commands": ""
+            },
+            "example_usages": {
+                "drush user:login": "Open default web browser and browse to homepage, logged in as uid=1.",
+                "drush user:login --name=ryan node\/add\/blog": "Open default web browser (if configured or detected) for a one-time login link for username ryan that redirects to node\/add\/blog.",
+                "drush user:login --browser=firefox --mail=drush@example.org": "Open firefox web browser, and login as the user with the e-mail address drush@example.org."
+            },
+            "return_type": null,
+            "arguments": {
+                "path": {
+                    "description": "Optional path to redirect to after logging in.",
+                    "default": ""
+                }
+            },
+            "options": {
+                "name": {
+                    "description": "A user name to log in as. If not provided, defaults to uid=1.",
+                    "default": "1"
+                },
+                "browser": {
+                    "description": "Optional value denotes which browser to use (defaults to operating system default). Use --no-browser to suppress opening a browser.",
+                    "default": true
+                },
+                "redirect-port": {
+                    "description": "A custom port for redirecting to (e.g., when running within a Vagrant environment)",
+                    "default": 2
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        },
+        "setSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\LoginCommands",
+            "method_name": "setSiteAliasManager",
+            "mtime": 1527094040
+        },
+        "siteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\LoginCommands",
+            "method_name": "siteAliasManager",
+            "mtime": 1527094040
+        },
+        "hasSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\LoginCommands",
+            "method_name": "hasSiteAliasManager",
+            "mtime": 1527094040
+        },
+        "startBrowser": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\LoginCommands",
+            "method_name": "startBrowser",
+            "mtime": 1527094040
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

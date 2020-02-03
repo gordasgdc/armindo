@@ -1,0 +1,103 @@
+{
+    "cid": "Drush\\Commands\\core\\XhprofCommands",
+    "data": {
+        "optionsetXhProf": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\XhprofCommands",
+            "method_name": "optionsetXhProf",
+            "mtime": 1527094040,
+            "name": "optionset:xh-prof",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "option *"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": {
+                "xh-link": {
+                    "description": "URL to your XHProf report site.",
+                    "default": 2
+                }
+            }
+        },
+        "xhprofPost": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\XhprofCommands",
+            "method_name": "xhprofPost",
+            "mtime": 1527094040,
+            "name": "xhprof:post",
+            "description": "Enable profiling via XHProf",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "post-command *"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "result": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "xhprofInitialize": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\XhprofCommands",
+            "method_name": "xhprofInitialize",
+            "mtime": 1527094040,
+            "name": "xhprof:initialize",
+            "description": "Enable profiling via XHProf",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "init *"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

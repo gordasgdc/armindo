@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+c0f37032450474460c9c8208dc490d6a05f30368 refs/heads/8.x-1.x
+fff91bc63be024011b0915107a8fbad347c792cb refs/heads/phpunit-6
+870a48630968fdc46c4ffc278a812ba060ad8c02 refs/pull/1/head
+170716a14adf11303974871e7315880c4f857c1c refs/pull/2/head
+9ce79e2497a7e8a71775c1e45b024ac32fbc9086 refs/pull/3/head
+4e5e0a086de9bbbf55024f99bb32344f5028ee4f refs/pull/4/head

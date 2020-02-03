@@ -1,0 +1,965 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /home/armindo/tmp/awstats/ssl/awstats.construccionesreis.es.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2687                
+POS_VISITOR 8863                
+POS_DAY 10915               
+POS_DOMAIN 3648                
+POS_LOGIN 4013                
+POS_ROBOT 4168                
+POS_WORMS 4588                
+POS_EMAILSENDER 4719                
+POS_EMAILRECEIVER 4862                
+POS_SESSION 11685               
+POS_SIDER 11893               
+POS_FILETYPES 4997                
+POS_DOWNLOADS 5391                
+POS_OS 5926                
+POS_BROWSER 6144                
+POS_SCREENSIZE 6622                
+POS_UNKNOWNREFERER 6696                
+POS_UNKNOWNREFERERBROWSER 7086                
+POS_ORIGIN 7253                
+POS_SEREFERRALS 7395                
+POS_PAGEREFS 7554                
+POS_SEARCHWORDS 7794                
+POS_KEYWORDS 7946                
+POS_MISC 2350                
+POS_ERRORS 8005                
+POS_CLUSTER 3869                
+POS_SIDER_404 8220                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180401002421 12 2109 10170428525724
+FirstTime 0
+LastTime 20180331012612
+LastUpdate 20180401150413 12 0 11 0 0
+TotalVisits 98                  
+TotalUnique 43                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 48                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 52 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 65 794 18988741 115 145 2349978
+1 297 1316 31308461 138 154 3990069
+2 341 1246 33386485 111 172 3160526
+3 204 1560 35028135 149 201 4185552
+4 243 1595 31251079 105 113 2287551
+5 254 800 30989870 53 206 5605706
+6 566 2610 57760696 105 122 1828364
+7 134 3434 84031622 77 85 1159540
+8 49 1473 42035914 108 289 4666583
+9 58 606 14860759 51 185 4417143
+10 47 337 12161817 45 90 1432750
+11 29 699 14343250 38 44 1255881
+12 89 550 24705994 82 99 1304970
+13 118 637 25528076 147 169 5885586
+14 41 1361 36337273 92 96 3280201
+15 15 250 8426132 124 130 2225473
+16 15 331 11204139 198 223 7179696
+17 71 596 14620424 50 52 998661
+18 462 3201 54647531 313 374 8320660
+19 132 348 10914753 114 121 3592591
+20 20 53 3315390 40 50 1417980
+21 325 1960 53440832 154 161 1838647
+22 308 1401 79819422 261 325 7023126
+23 141 2034 40413329 83 326 8957956
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+es 3444 22894 544907444
+fr 383 1063 75783941
+us 134 3991 116791125
+vn 37 703 14363752
+ro 13 198 7061990
+gb 10 162 5806535
+gr 3 148 4293305
+in 0 33 512032
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 1442 43489416 20180331233500 15
+MJ12bot/ 754 31843297 20180331135020 26
+bingbot/ 62 1967724 20180324095320 7
+facebookexternalhit/ 44 3035420 20180331052305 0
+Googlebot\-Image/ 34 552927 20180328015832 0
+no_user_agent 9 1887085 20180331052310 1
+unknown 7 11172 20180321012756 7
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+gif 140 1422584 0 0
+jpg 2339 120002502 0 0
+zip 19 26808060 0 0
+woff 62 2403180 0 0
+css 11423 109183086 0 0
+xml 1 31823 0 0
+woff2 83 6251928 0 0
+svg 1260 924140 0 0
+js 7905 125454378 0 0
+ttf 79 38663232 0 0
+png 2082 23998425 0 0
+php 19 151442 0 0
+Unknown 3670 303695593 0 0
+map 62 310704 0 0
+body 3 380957 0 0
+html 45 9838090 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 19
+/logo.zip 1 0 15635
+/visual_editor.zip 1 0 2572446
+/locations.zip 1 0 16006
+/themes.zip 1 0 6106973
+/construccion.zip 1 0 570980
+/articles.zip 1 0 34966
+/banner.zip 1 0 22057
+/composer.zip 1 0 1054
+/gva-sliderlayer-upload.zip 1 0 1257844
+/styles.zip 1 0 612902
+/portfolio.zip 1 0 36226
+/modules.zip 1 0 13459695
+/services.zip 1 0 14308
+/inline-images.zip 1 0 7800
+/gbb-uploads.zip 1 0 1941335
+/team.zip 1 0 20134
+/setting.zip 1 0 11068
+/testimonial.zip 1 0 72475
+/gallery.zip 1 0 34156
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linuxandroid 2097 72
+winxp 1421 47
+win7 61 2
+macosx 20981 3512
+ios_iphone 475 17
+Unknown 154 55
+win8.1 33 0
+win10 2456 265
+linux 1502 42
+macosx12 12 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+firefox58.0 14220 1972
+chrome65.0.3325.146 148 3
+chrome56.0.2924.76 60 1
+safari11.0.3 163 5
+chrome41.0.2272.118 894 18
+chrome61.0.3163.100 12 12
+chrome65.0.3325.109 193 8
+Unknown 54 50
+chrome64.0.3282.186 736 37
+chrome65.0.3325.181 1765 412
+safari5.0.4 1421 47
+mozilla 100 5
+firefox59.0 6792 1347
+chrome61.0.3116.0 1503 50
+chrome64.0.3282.137 417 24
+firefox32.0 1 1
+chrome49.0.2623.75 1 1
+safari11.0 475 17
+safari11.0.1 237 14
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180308212952
+Mozilla/5.0_(compatible;_Google-Structured-Data-Testing-Tool__https://search.google.com/structured-data/testing-tool) 20180322040053
+Scrapy/1.0.3_(_http://scrapy.org) 20180324235601
+PostmanRuntime/7.1.1 20180322013418
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Scrapy/1.0.3_(_http://scrapy.org) 20180324235601
+PostmanRuntime/7.1.1 20180322013418
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 231 1644
+From1 0 0
+From2 1 1
+From3 6 6
+From4 3786 27541
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://www.facebook.com 3 3
+https://codecanyon.net 2 2
+https://json-ld.org/playground/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+404 91 22512
+403 19 458940
+504 4 428304
+500 91 29013
+303 219 125350
+301 188 71008
+400 194 472701
+503 636 3583680
+302 66 30756
+401 3 73525
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/en/node/94/568d2c12-a14a-426e-997a-3b86413c851c 1 -
+/es/jsonapi/node/local_business568d2c12-a14a-426e-997a-3b86413c851c 2 -
+/es/jsonapi/node/local_business/568d2c12-a14a-426e-997a-3b86413c851c_format 6 -
+/libraries/font-awesome/css/font-awesome.min.css 81 https://construccionesreis.es/es/node/6/edit
+/recordings//theme/main.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 48
+88.16.120.117 1746 12167 263559559 20180314143048
+176.86.93.118 1208 6093 149136444 20180330055244
+82.255.11.169 383 1063 75783941 20180330053622
+81.45.33.255 239 2111 67020180 20180326134715
+79.155.94.165 148 806 23532351 20180320010912
+64.74.215.96 47 1357 39654033 20180314085558
+163.117.155.155 45 49 2517073 20180324235601
+118.71.13.100 37 703 14363752 20180309185911
+176.86.60.100 21 626 12068527 20180316003259
+88.16.121.119 16 326 9699150 20180315182143
+66.249.93.88 14 465 12523927 20180314143029
+79.119.131.67 13 198 7061990 20180328221418
+66.249.93.90 10 427 13518713 20180314143023
+66.249.93.86 10 453 13159285 20180321211226
+87.125.131.72 10 162 5806535 20180309120749
+54.183.165.74 6 6 581999 20180329185318
+54.67.59.131 6 6 604668 20180331012612
+195.135.251.129 6 159 5655039 20180309160210
+66.102.9.150 5 101 3928458 20180313075532
+66.249.84.22 5 106 2789580 20180314143025
+95.123.165.168 5 167 5708493 20180330121734
+195.135.250.105 5 6 424974 20180309194837
+91.138.198.224 3 148 4293305 20180314025605
+66.249.84.24 3 91 2462126 20180314143036
+66.102.6.247 3 46 1465496 20180314143034
+66.249.81.56 2 31 1136667 20180322040052
+163.117.155.150 1 1 90206 20180313080854
+66.249.88.52 2 42 2121496 20180313072800
+195.135.251.225 0 33 512032 
+66.102.6.249 2 56 1883942 20180314143025
+66.102.8.150 1 54 2184238 20180313075544
+66.249.81.54 1 37 1223092 20180322035946
+159.65.242.222 1 1 93505 20180308212952
+65.154.226.100 0 9 300840 
+66.249.88.50 2 44 716239 20180313072753
+66.249.81.58 1 31 556892 20180322035942
+88.9.122.193 2 204 1480433 20180316233855
+182.71.118.242 0 33 512032 
+64.74.215.1 0 64 1020298 
+66.249.88.48 1 63 1576306 20180313072811
+81.0.18.231 2 146 3502983 20180321231024
+66.249.84.26 2 104 3681994 20180314143018
+66.102.9.152 3 103 2841359 20180313075541
+66.102.8.154 2 52 1110241 20180313075535
+66.102.8.152 2 42 1074641 20180313075529
+64.74.215.139 1 51 1271377 20180313083623
+66.102.6.245 0 49 1126162 
+66.102.9.154 2 100 2183551 20180313072811
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20180302 55 768 22653467 4
+20180303 420 2498 57624172 5
+20180304 3 5 204940 1
+20180307 1 1 93505 1
+20180308 45 948 14929553 2
+20180309 531 3860 114663164 10
+20180310 80 81 3254456 1
+20180311 104 818 19734252 3
+20180312 59 633 17107409 2
+20180313 782 6763 145184369 21
+20180314 79 2543 73325009 12
+20180315 2 67 1877743 2
+20180316 23 863 14060992 2
+20180317 0 3 100280 0
+20180318 29 463 10091894 1
+20180319 12 326 6549854 2
+20180320 467 2211 52538625 3
+20180321 280 1285 45661658 5
+20180322 544 2414 50325332 5
+20180323 12 178 6257115 1
+20180324 45 49 2517073 1
+20180325 2 2 209682 2
+20180326 23 446 10019374 2
+20180328 317 1027 70582880 3
+20180329 17 17 2382238 2
+20180330 91 922 27466241 4
+20180331 1 1 104847 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 8
+30mn-1h 5
+30s-2mn 10
+2mn-5mn 6
+5mn-15mn 6
+15mn-30mn 13
+0s-30s 50
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 562
+/en/admin/coffee/get-data 879 20370486 0 11
+/en/batch 315 1885643 0 0
+/en 191 33148740 53 32
+/es/admin/coffee/get-data 156 3812211 0 3
+/admin/coffee/get-data 153 3340948 0 1
+/en/history/4/read 97 970 0 3
+/themes/gavias_buildpro/fonts/icon/icon.ttf 79 38663232 3 11
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 71 5478360 9 4
+/en/contextual/render 63 520276 0 0
+/es 50 9660092 7 4
+/ 45 9838090 10 3
+/en/admin/modules 41 20470338 1 0
+/es/batch 35 462424 0 0
+/history/4/read 34 340 0 1
+/modules/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.woff 32 241152 0 4
+/en/node/add/local_business 30 2580220 0 0
+/es/history/4/read 29 290 0 3
+/en/devel/php 27 8576834 1 0
+/en/admin/structure/types 25 2591069 0 0
+/en/admin/structure/gavias_blockbuilder/save 24 552 0 0
+/en/admin/structure/gavias_blockbuilder/edit/17 23 28369749 1 0
+/en/admin/content 23 4477228 0 0
+/en/machine_name/transliterate 22 270 0 0
+/contextual/render 22 204964 0 0
+/core/assets/vendor/backbone/backbone-min.map 21 167750 0 1
+/en/toolbar/subtrees/PL-E-wsoBjvroTBhEnTDwP5IOj926xz6HjSKRKzZ88k 1 66976 0 1
+/admin/structure/menu/manage/main/translate/es/edit 1 92559 0 0
+/es/node/add 3 278330 0 0
+/en/admin/structure/views/ajax/display/local_business/rest_export_1/auth 2 30047 0 0
+/node/80/edit 8 1305630 0 0
+/admin/config/regional/content-language 4 1296845 0 0
+/es/admin/modules/install 2 190913 0 0
+/en/admin/structure/types/manage/proba_json/fields/node.proba_json.body 2 255148 0 0
+/es/node/6 12 1980491 0 2
+/es/block/5 1 130264 0 0
+/en/history/87/read 1 10 0 0
+/admin/structure/block/manage/languageswitcher 2 249001 0 0
+/es/admin/reports/status 2 221601 0 0
+/en/admin/config/search/search404 1 108843 0 0
+/en/admin/config/regional/config-translation/contact_form 1 92380 0 0
+/en/history/86/read 1 10 0 0
+/admin/structure/gavias_blockbuilder/edit/4 2 2427222 0 0
+/en/admin/structure/types/manage/local_business/fields/add-field 6 614645 0 0
+/en/contact-0 9 1385533 0 1
+/en/admin/structure/gavias_sliderlayer/1/sliders 1 97356 0 0
+/es/admin/config/regional/language 2 217042 0 0
+/en/admin/structure/views/nojs/display/local_business/rest_export_1/path 5 473216 0 0
+/en/admin/modules/list/confirm 1 93507 0 0
+/en/admin/structure/views/ajax/display/artulos/rest_export_1/display_title 2 29093 0 0
+/team-list 1 41026 0 0
+/en/editor/filter_xss/json 1 5 0 0
+/admin/config/search/path 3 374713 0 0
+/en/jsonapi/node/page 1 226304 0 0
+/es/admin/structure/contact/manage/feedback 1 104127 0 0
+/admin/config/regional/language 3 314930 0 0
+/en/admin/structure/gavias_blockbuilder/form/9 1 97123 0 0
+/es/toolbar/subtrees/YKMX5fRdkZFxhY8s50ieMuIht6FlpyaU8jcFopRzEy8 4 275404 0 1
+/en/portfolio-1 1 43561 0 0
+/admin/config/regional/language/detection 4 545814 0 0
+/es/admin/config/system/site-information 3 298596 0 0
+/admin/structure/menu/manage/main 1 408667 0 0
+/en/node/preview/08fde8b3-a955-4dc3-8b4d-e129d0b665e4/teaser 1 194349 0 0
+/en/admin/structure/views/view/probajson/edit/page_1 2 264868 0 0
+/admin/structure/legal/add 1 95959 0 0
+/en/node/28/edit 1 160252 0 0
+/en/admin/config/media/image-toolkit 1 97497 0 0
+/en/admin/structure/block/manage/languageswitcher 4 489376 0 0
+/admin/config/people/accounts 1 124359 0 0
+/en/admin/structure/views/ajax/add-handler/proba_json/rest_export_1/sort 2 201165 0 0
+/eu/block/5 1 128504 0 0
+/eu/admin/config 1 99563 0 0
+/es/admin/structure/contact 1 97031 0 0
+/en/admin/structure/types/manage/local_business/fields 9 877889 0 0
+/en/4-springtime-color-schemes-try-home 1 48294 0 0
+/en/admin/structure/types/manage/local_business/fields/node.local_business.field_real_time_seo 1 107661 0 0
+/admin/structure/contact/manage/feedback/display 7 717186 0 0
+/en/admin/structure/contact/manage/feedback/fields/contact_message.feedback.field_address/translate 1 96235 0 0
+/en/history/92/read 1 10 0 0
+/en/home-2 2 177489 0 0
+/en/admin/config/development/backup_migrate/backups 2 196342 0 0
+/en/node/add/article 8 13610277 0 0
+/en/admin/reports/views-plugins 1 120911 0 0
+/en/admin/structure/contact/manage/feedback/display 5 537839 0 0
+/modules/gva_blockbuilder/vendor/tinymce/skins/lightgray/fonts/tinymce.woff 10 172040 0 0
+/en/rss.xml 1 31823 0 0
+/en/admin/structure/views/ajax/add-handler/articulos/rest_export_1/filter 12 1322467 0 0
+/admin/config/system/site-information/translate/es/edit 1 94147 0 0
+/themes/gavias_buildpro/fonts/icon/icon.woff 1 489484 1 0
+/en/admin/structure/taxonomy/manage/category/overview 1 111634 0 0
+/en/admin/config/search/metatag 1 103268 0 0
+/es/node/5 1 73205 0 0
+/en/admin/structure/types/manage/local_business/fields/node.local_business.field_metatag 1 101974 0 0
+/en/admin/structure/gavias_blockbuilder/edit/6 2 895638 0 0
+/admin/appearance 1 96403 0 0
+/en/mobile-weather-app 1 38774 0 0
+/en/admin/structure/types/manage/page/fields 2 198546 0 0
+/en/admin 1 91767 0 0
+/en/admin/structure/views/ajax/display/frontpage/page_2/row_options 2 36251 0 0
+/en/admin/structure/gavias_blockbuilder/edit/12 1 399109 0 0
+/mas-informacion-sobre-las-cookies 1 45499 1 0
+/en/admin/structure/views/nojs/display/probajson/page_1/path 1 96850 0 0
+/es/admin/structure/types/manage/article/translate 4 385391 0 0
+/en/node/preview/cc36e4b4-c6d4-4eb8-a07e-10f5da90b9fe/full 1 1573866 0 0
+/en/lowpoly-social 1 39719 0 0
+/en/admin/structure/views/nojs/display/frontpage/page_1/path 1 96845 0 0
+/en/admin/structure/types/manage/proba 1 149864 0 0
+/en/admin/appearance 4 396431 0 0
+/en/admin/structure/block/manage/gavias_buildpro_topbar 1 120846 0 0
+/en/admin/structure/types/manage/proba_json/form-display 1 155064 0 0
+/en/admin/reports/updates/settings 3 304934 0 0
+/eu/node/6 1 44635 0 0
+/en/admin/config/services/rest/resource/entity%3Anode_type/edit 6 130079 0 0
+/eu/contextual/render 4 49692 0 0
+/en/admin/structure/field_collections 2 188932 0 0
+/en/admin/config/content/formats 9 993040 0 0
+/en/admin/config/regional/content-language 3 1089331 0 0
+/en/admin/structure/types/manage/page/display/semantic_views 4 463465 0 0
+/es/admin/structure/menu/item/12/edit 1 139913 0 0
+/core/assets/vendor/jquery-once/jquery.once.min.js.map 21 5004 0 1
+/en/admin/structure/types/manage/local_business/form-display 5 795441 0 0
+/core/assets/vendor/underscore/underscore-min.map 20 137950 0 0
+/es/admin/structure/contact/manage/feedback/form-display 2 181908 0 0
+/en/admin/structure/views/view/content/preview/page_1 2 414578 0 0
+/en/admin/structure/contact/manage/feedback/translate 2 184640 0 0
+/en/admin/structure/views/view/probajson/preview/page_1 9 634117 0 0
+/en/editor/filter_xss/full_html 4 1901 0 0
+/en/admin/structure/legal/add 1 103091 0 0
+/en/admin/structure/display-modes 1 92316 0 0
+/en/team-list 2 84652 0 0
+/en/admin/config/content/formats/manage/simplu 1 172674 0 0
+/admin/structure/contact 2 180090 0 0
+/en/admin/structure/types/manage/page/display 10 1215691 0 0
+/en/admin/config/regional 4 361323 0 0
+/en/admin/structure/contact/manage/personal/form-display 3 272114 0 0
+/es/admin/structure/block/block-content 1 115611 0 0
+/es/admin/structure/contact/manage/feedback/fields/contact_message.feedback.field_address 1 120377 0 0
+/en/admin/structure/views/ajax/display/probajson/page_1/display_title 2 34074 0 0
+/en/node/preview/677e4973-05be-45a0-ab32-a5e68f49fe3c/full 1 210162 0 0
+/admin/config/people/accounts/translate/eu/add 1 127287 0 0
+/en/country-big-concert-report 2 96110 0 0
+/es/admin/structure/gavias_blockbuilder/edit/17 1 1242018 0 0
+/en/admin/structure/gavias_blockbuilder/edit/4 2 2430696 0 0
+/en/node/add 3 277194 0 0
+/es/admin/structure/types/manage/page/display 1 118038 0 0
+/en/admin/structure/views/ajax/handler/articulos/rest_export_1/filter/body_value_2 1 24850 0 0
+/en/admin/config/user-interface 1 94828 0 0
+/en/admin/structure/types/manage/article/translate 1 94135 0 0
+/en/history/85/read 2 20 0 0
+/es/legal/document/aviso_legal 1 199694 0 0
+/en/admin/config/user-interface/shortcut/manage/default 1 99587 0 0
+/en/admin/structure/views/view/frontpage/preview/page_2 6 147440 0 0
+/en/jsonapi/node/local_business 2 9373 0 0
+/en/admin/structure/views/view/frontpage/edit/page_2 3 403393 0 0
+/en/editor/filter_xss/basic_html 5 7138 0 0
+/en/admin/structure/contact/manage/feedback/form-display 12 1095400 0 0
+/en/team-grid 1 46557 0 0
+/en/admin/config/development/backup_migrate/settings/destination/backups/public 1 96157 0 0
+/en/admin/structure/views/ajax/display/proba_json/rest_export_1/style 1 6755 0 0
+/update.php/selection 7 69248 0 0
+/en/node/17/edit 8 323041 0 0
+/en/admin/config/development/backup_migrate/settings/destination/edit/public 3 312741 0 0
+/admin/config/search/path/patterns 2 192526 0 0
+/admin/reports 1 88943 0 0
+/en/admin/structure/gavias_sliderlayer 1 96481 0 0
+/en/admin/structure/views/view/proba_json 2 260526 0 0
+/en/admin/structure/types/manage/article/display 3 469436 0 0
+/en/admin/structure/gavias_blockbuilder/export/6 1 4340 0 0
+/en/node/95 2 406303 0 0
+/en/node/6/edit 1 155782 0 0
+/en/node/88 1 201668 0 0
+/es/politica-de-privacidad 3 284238 0 0
+/es/jsonapi/node/local_business 2 5134 0 0
+/en/services 1 42290 0 0
+/en/admin/reports/dblog 10 1381177 0 0
+/es/admin/config/regional 1 93581 0 0
+/eu/admin/structure/block/block-content 2 229266 0 0
+/en/admin/structure/gavias_blockbuilder/edit/10 3 1225929 0 0
+/es/admin/reports/updates/update 1 97036 0 0
+/careers 1 46215 0 0
+/es/admin/structure/contact/manage/feedback/display 1 113237 0 0
+/user/login 3 110569 0 0
+/admin/structure/menu/item/1/edit 1 132586 0 0
+/element-tabs 2 742 0 1
+/en/admin/structure/views/ajax/add-handler/artulos/rest_export_1/filter 2 207657 0 0
+/es/admin/structure/types/manage/page/form-display 1 159557 0 0
+/es/admin 1 94368 0 0
+/es/imce 8 178785 0 0
+/admin/structure/contact/manage/personal/fields 1 90032 0 0
+/es/admin/config/people/accounts 1 130923 0 0
+/en/blogs-list 2 97537 0 0
+/user/1/shortcuts 1 92966 0 0
+/en/admin/config/regional/language 2 211016 0 0
+/en/admin/structure/types/manage/proba_json/fields/add-field 3 317176 0 0
+/en/admin/structure/views/ajax/handler/articulos/rest_export_1/filter/body_value 1 24218 0 0
+/en/admin/structure/views/view/local_business/edit/rest_export_1 2 253448 0 0
+/es/admin/content 3 665071 0 0
+/en/admin/structure/views/view/artulos 3 373823 0 0
+/en/admin/structure/gavias_blockbuilder/duplicate_popup/4/rhpmhikbax 3 7084 0 0
+/en/admin/config/development/maintenance 14 1330998 1 0
+/en/admin/structure/contact/manage/feedback/fields/contact_message.feedback.field_address/translate/es/add 1 98566 0 0
+/contact-us 2 242725 0 0
+/en/admin/config/regional/config-translation 1 105424 0 0
+/en/admin/config/search/metatag/global 1 1342947 0 0
+/en/admin/structure/contact/manage/personal/translate 1 93749 0 0
+/en/admin/config/development/backup_migrate/schedule 1 97938 0 0
+/en/node/96/edit 2 355046 0 0
+/admin/structure/contact/manage/feedback/translate/es/edit 1 94133 0 0
+/en/admin/structure/views/ajax/display/local_business/rest_export_1/style_options 2 32617 0 0
+/en/element-button 2 108434 0 0
+/es/admin/structure/views/view/artulos/preview/rest_export_1 3 35420 1 0
+/en/imce 12 354933 0 0
+/es/admin/structure/gavias_blockbuilder/save 4 92 0 0
+/admin/structure/legal/manage/aviso_legal/translate 2 181602 0 0
+/en/jsonapi/node/article 1 105313 0 0
+/history/80/read 2 20 0 0
+/en/node/preview/09e7b156-b140-46f6-86c1-e3e526487fdd/full 1 1573861 0 0
+/en/admin/config/user-interface/shortcut/add-set 1 97967 0 0
+/en/admin/structure/types/manage/proba_json 2 304328 0 0
+/en/node/preview/08fde8b3-a955-4dc3-8b4d-e129d0b665e4/full 2 395306 0 0
+/en/admin/structure/display-modes/view/add/node 3 290323 0 0
+/en/admin/config/development/backup_migrate/settings/source 2 200308 0 0
+/admin/config/regional 3 267639 0 0
+/en/our-awards 2 85150 0 0
+/en/toolbar/subtrees/LyYWD5JXfsRJ2wArYBFfH2xOWttA7ubRdzfwbkySnXo 1 70394 0 1
+/en/element-call-action 2 79378 0 0
+/node/92 6 718382 1 0
+/admin/structure/menu 1 92911 0 0
+/en/element-icon-box 2 248360 0 0
+/en/admin/structure/views/ajax/handler/articulos/rest_export_1/filter/type 2 42303 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff 15 1470360 0 1
+/es/admin/structure/contact/manage/feedback/fields 2 197346 0 0
+/es/history/6/read 9 90 0 0
+/en/admin/appearance/settings 2 200599 0 0
+/en/admin/structure/views/view/frontpage/preview/feed_1 3 128277 0 0
+/en/admin/config/development/logging 1 98979 0 0
+/our-awards 1 41293 0 0
+/en/admin/structure/views/ajax/display/articulos/rest_export_1/row 2 37691 0 0
+/en/admin/structure/contact/manage/feedback/fields/contact_message.feedback.field_address 2 237952 0 0
+/en/admin/structure/views/ajax/add-handler/local_business/rest_export_1/filter 2 218660 0 0
+/en/upgrade 1 99756 0 0
+/node/preview/08fde8b3-a955-4dc3-8b4d-e129d0b665e4/full 2 389731 0 0
+/en/admin/reports/updates/update 6 584310 0 0
+/legal/document/aviso_legal 2 392334 0 0
+/en/history/73/read 2 20 0 0
+/admin/structure/contact/manage/feedback 1 96773 0 0
+/en/admin/structure/views/view/local_business/preview/rest_export_1 12 93892 0 0
+/en/element-piechart-skillbar 1 40769 0 0
+/en/coffeeshops-continue-conquer 1 48164 0 0
+/admin/config/system/site-information/translate 1 92392 0 0
+/en/business-card-0 2 77332 0 0
+/en/history/88/read 2 20 0 0
+/en/admin/config/development/maintenance/translate/es/edit 1 94084 0 0
+/core/install.php 1 7480 0 0
+/es/node/6/edit 1 157610 0 0
+/en/history/90/read 1 10 0 0
+/en/history/94/read 3 30 0 0
+/admin/reports/updates/update 1 91956 0 0
+/en/admin/config/development/backup_migrate/settings/source/edit/entire_site/translate 1 96813 0 0
+/en/admin/config/content/formats/manage/plain_text 2 347724 0 0
+/eu/block/5/translations/add/en/eu 1 128418 0 0
+/en/admin/structure/legal 2 191732 0 0
+/en/admin/config/content 1 94609 0 0
+/en/history/79/read 1 10 0 0
+/es/node/77 1 53796 0 0
+/en/admin/reports/translations 6 644410 0 0
+/en/special-bikes 1 39940 0 0
+/en/user/login 6 232318 1 0
+/en/admin/modules/install 10 948621 0 0
+/en/admin/structure/views/ajax/handler/local_business/rest_export_1/filter/title 1 22864 0 0
+/system/timezone/CET/3600/0 1 16 0 0
+/en/admin/structure/views/ajax/add-handler/probajson/page_1/footer 1 35216 0 0
+/es/node/3 1 97018 0 0
+/en/typography 2 261398 0 0
+/es/admin/update/ready 1 94571 0 0
+/en/element-heading-style 2 77232 0 0
+/en/admin/structure/views/ajax/display/local_business/rest_export_1/row 1 7048 0 0
+/en/admin/structure/views/ajax/edit-details/proba_json/rest_export_1 2 30729 0 0
+/admin/structure/legal/manage/aviso_legal/acceptances 1 91570 0 0
+/es/blogs-grid 1 43608 0 0
+/admin/config/regional/language/detection/selected 1 94545 0 0
+/admin/structure/menu/item/12/edit 1 132142 0 0
+/es/admin/structure/views 1 139126 0 0
+/en/admin/structure/types/manage/article 6 891726 0 0
+/admin/structure/views/view/artulos 2 249210 0 0
+/en/admin/modules/uninstall 8 1784459 0 0
+/en/admin/structure/views/ajax/handler/articulos/rest_export_1/filter/body_value_1 1 24534 0 0
+/en/admin/structure/views/view/frontpage/edit/feed_1 2 268539 0 0
+/es/admin/modules 1 455141 0 0
+/en/history/95/read 2 20 0 0
+/en/admin/structure/views/view/local_business 5 638685 0 0
+/es/admin/structure/gavias_blockbuilder 2 202306 0 0
+/en/node/preview/fc812302-a8d5-4384-bc35-81a11774eee9/full 1 198566 0 0
+/es/admin/structure/gavias_blockbuilder/edit/6 6 2689040 0 0
+/en/admin/structure/views/view/frontpage/edit/page_1 1 134162 0 0
+/admin/config/regional/language/detection/session 1 94554 0 0
+/en/admin/structure/views/view/content 2 272328 0 0
+/admin/structure/legal/manage/aviso_legal 3 300048 0 0
+/block/5/translations 1 92487 0 0
+/eu 21 3943843 1 2
+/en/node/add/page 8 1286137 0 0
+/en/toolbar/subtrees/jcHFQeOn4DhkXupsBkHVy7TD-y_Ee6eYOaxvNdmyv2I 1 66976 0 0
+/en/admin/structure/types/manage/proba_json/fields 5 490315 0 0
+/admin/config/people/accounts/translate 2 182036 0 0
+/en/admin/structure/views/ajax/display/frontpage/page_1/style_options 1 7353 0 0
+/en/admin/structure/menu/parents 17 65076 0 0
+/en/node/95/edit 1 1683146 0 0
+/en/how-future-could-resemble 3 329915 0 0
+/en/admin/structure/gavias_blockbuilder 9 902136 0 0
+/en/upgrade/credentials 1 109835 0 0
+/en/admin/config/regional/translate 3 417023 0 0
+/admin/structure/contact/manage/personal/form-display 1 116248 0 0
+/en/admin/structure/views/view/categories_post/preview/block_1 1 12151 0 0
+/es/admin/structure/views/view/artulos 1 128215 0 0
+/en/admin/structure/types/manage/proba_json/display/semantic_views 2 223997 0 0
+/es/admin/structure/types/manage/article/fields 2 213622 0 0
+/es/admin/structure/menu/parents 4 15276 0 0
+/en/api/articul 2 36 0 0
+/es/admin/structure/types/manage/page/translate 2 193371 0 0
+/es/history/93/read 1 10 0 0
+/es/admin/appearance/settings/gavias_buildpro 1 114153 0 0
+/history/92/read 3 30 0 0
+/en/admin/config/regional/settings 1 127088 0 0
+/en/admin/structure/gavias_blockbuilder/form/6 1 91038 0 0
+/en/element-tabs 8 1073720 1 1
+/es/portfolio-1 1 42439 0 0
+/user/register 1 63066 0 0
+/es/admin/appearance/settings 1 102134 0 0
+/admin 2 180183 0 0
+/en/home-3 2 209877 0 0
+/en/editor/filter_xss/visual_editor 3 15 0 0
+/block/5 2 246544 0 0
+/es/admin/structure/menu/link/standard.front_page/edit 1 125604 0 0
+/en/history/15/read 1 10 0 0
+/en/admin/config/services/rest 4 473454 0 0
+/en/admin/structure/types/manage/local_business/fields/node.local_business.field_team_email 1 103725 0 0
+/en/home-1 1 101617 0 0
+/eu/user/register 2 125660 0 0
+/en/admin/structure/types/manage/article/fields 9 955365 0 0
+/en/admin/structure/views/view/categories_post 1 128369 0 0
+/es/admin/reports/translations 3 326715 0 0
+/en/admin/structure/contact/manage/feedback/fields 7 658968 0 0
+/en/admin/structure/views/view/articulos/preview/rest_export_1 21 298605 0 0
+/es/admin/config/regional/language/detection 3 415640 0 0
+/admin/config 4 388150 0 0
+/en/user/1 9 1761439 0 0
+/en/admin/structure/views/ajax/display/probajson/page_1/row_options 2 34290 0 0
+/en/admin/structure/gavias_sliderlayer/1/sliders/1/edit 1 142427 0 0
+/en/admin/structure/types/manage/local_business 2 298790 0 0
+/es/node/4/edit 1 161758 0 0
+/en/admin/structure/types/manage/article/form-display 6 1161783 0 0
+/en/admin/structure/views/ajax/handler/articulos/rest_export_1/filter/body_value_4 1 25823 0 0
+/en/token/tree 1 927052 0 0
+/es/node/80 2 78666 0 0
+/en/history/72/read 7 70 0 0
+/es/admin/structure/types/manage/page/translate/es/edit 1 99493 0 0
+/en/admin/structure/display-modes/view/manage/node.semantic_views 1 99346 0 0
+/en/admin/config/development/backup_migrate/settings 4 406636 0 0
+/partners 2 82120 0 0
+/en/admin/config/development/backup_migrate 9 3377363 0 0
+/es/admin/structure/types/manage/page/fields/add-field 1 101678 0 0
+/modules/gavias_sliderlayer/vendor/font-awesome/fonts/fontawesome-webfont.woff2 1 64464 0 0
+/en/admin/structure/types/manage/page/display/teaser 1 116540 0 0
+/en/admin/modules/list/confirm-experimental 1 96372 0 0
+/admin/structure/legal/manage/aviso_legal/manage/aviso_legal_1520042050 4 496479 0 0
+/en/admin/structure/block/block-content 3 344007 0 0
+/en/node/72/edit 3 514554 0 0
+/en/admin/structure/views/nojs/display/frontpage/feed_1/path 1 96814 0 0
+/lowpoly-social 1 38397 0 0
+/en/node/4/edit 6 982615 0 0
+/en/node 1 66415 0 0
+/en/admin/structure/types/manage/proba/fields/node.proba.body 1 125809 0 0
+/en/admin/structure/types/manage/page 1 149276 0 0
+/es/admin/structure/menu 2 192650 0 0
+/en/admin/reports/status 4 453738 0 0
+/en/node/preview/96fd2bc1-8699-4a2e-adf4-192ca7c0aef7/full 1 200331 0 0
+/es/admin/reports/checklistapi 1 92098 0 0
+/en/node/preview/d2e8d858-efb3-44e4-8245-0c09aabc8115/full 4 790027 0 0
+/en/portfolio-2 2 102614 0 0
+/es/admin/structure/types/manage/page 1 150815 0 0
+/en/admin/structure/types/manage/proba/form-display 1 153301 0 0
+/editor/filter_xss/full_html 1 5220 0 0
+/en/admin/structure/taxonomy 1 103830 0 0
+/en/history/82/read 1 10 0 0
+/en/admin/structure/types/manage/proba_json/display 2 235622 0 0
+/en/admin/structure/views/ajax/display/artulos/rest_export_1/path 3 34654 0 0
+/en/admin/structure/views/view/frontpage 3 405462 0 0
+/en/admin/structure/views/view/artulos/preview/rest_export_1 14 160980 0 0
+/en/home-5 2 148477 0 0
+/es/history/1/read 1 10 0 0
+/en/admin/structure/gavias_blockbuilder/edit/3 1 928120 0 0
+/es/node/add/page 2 311250 0 0
+/en/admin/appearance/settings/gavias_buildpro 5 561336 0 0
+/history/6/read 1 10 0 0
+/en/admin/reports/fields 2 226908 0 0
+/en/admin/structure/types/manage/local_business/fields/node.local_business.field_team_email/delete 2 191366 0 0
+/en/admin/structure/types/add 5 723262 0 0
+/es/user/login 2 72817 0 0
+/es/admin/reports 3 279399 0 0
+/user/1 3 574785 0 0
+/en/admin/structure/views/ajax/display/frontpage/page_2/style_options 2 38374 0 0
+/en/admin/config/regional/language/detection 2 270260 0 0
+/es/admin/structure/menu/manage/main 2 826072 0 0
+/admin/structure/legal/manage/aviso_legal/translate/es/add 2 182974 0 0
+/update.php/results 1 10042 0 0
+/admin/config/search/redirect/settings 4 381851 0 0
+/en/toolbar/subtrees/zHBTIsxIOpDW1Cvif0MoXlBWXwkYBxsG7itc5fWAnIM 1 67773 0 1
+/en/admin/structure/views/add 16 1308648 0 0
+/es/admin/config/regional/translate 3 427064 0 0
+/en/admin/structure/gavias_blockbuilder/form/0 1 91391 0 0
+/en/admin/config/development/devel/toolbar 1 123059 0 0
+/en/admin/structure/contact/manage/feedback 5 500394 0 0
+/admin/config/regional/config-translation 1 102723 0 0
+/admin/config/system/site-information 2 191707 0 0
+/en/admin/structure/views/ajax/handler/articulos/rest_export_1/filter/body_format 1 25172 0 0
+/es/admin/reports/updates 4 485751 0 0
+/en/admin/structure/views/ajax/handler/proba_json/rest_export_1/sort/created_1 3 61713 0 0
+/en/admin/structure/block/block-content/types 1 93263 0 0
+/admin/appearance/settings/gavias_buildpro 1 110557 0 0
+/en/admin/structure/display-modes/view 4 452259 0 0
+/en/admin/structure/views/ajax/display/proba_json/rest_export_1/style_options 4 63896 0 0
+/es/admin/config 3 303987 0 0
+/admin/config/regional/language/edit/en 1 97971 0 0
+/en/admin/config 11 1122930 0 0
+/en/admin/structure/types/manage/local_business/display 5 416021 0 0
+/en/admin/reports/packages 2 186194 0 0
+/batch 2 87028 0 0
+/en/admin/structure/display-modes/form/add/contact_message 1 95658 0 0
+/update.php 6 63553 0 0
+/en/toolbar/subtrees/kGdguf1N_hQIP2Hp7L4TIx1HmcxCceI2j31C-Hh0-LY 1 69112 1 0
+/en/about 1 48612 0 0
+/modules/gva_blockbuilder/vendor/font-awesome/fonts/fontawesome-webfont.woff2 11 709104 0 0
+/es/node/2 1 84797 0 0
+/toolbar/subtrees/W8tss-zRuBfU1AFd8kMX8gwWu9ncSsfQVpsV8tP5iNo 3 199284 1 0
+/core/authorize.php/core/authorize.php 4 305 0 0
+/admin/content 2 430230 0 0
+/eu/system/timezone/CET/3600/0 2 32 0 0
+/es/node/72 1 35515 0 0
+/en/partners 1 42400 0 0
+/en/admin/config/user-interface/module-filter 1 96902 0 0
+/en/admin/structure/views/view/proba_json/preview/rest_export_1 8 62025 0 0
+/en/admin/structure/views/ajax/display/probajson/page_1/style_options 2 49473 0 0
+/admin/structure/contact/manage/personal/display 1 102068 0 0
+/en/node/80/edit 5 830544 0 0
+/en/node/add/proba_json 2 303883 0 0
+/eu/admin/structure/block/block-content/types 1 93521 0 0
+/editor/filter_xss/visual_editor 1 5 0 0
+/en/probaJson 3 699099 0 0
+/admin/structure/contact/manage/feedback/fields 1 90254 0 0
+/user/38/edit 1 124771 0 0
+/en/history/80/read 7 70 0 0
+/es/system/timezone/CET/3600/0 1 16 0 0
+/en/contact-us 9 1396046 0 0
+/en/business-card-red 1 39973 0 0
+/es/admin/structure/types/manage/article/translate/es/edit 2 197346 0 0
+/en/admin/structure/types/manage/proba/fields/node.proba.body/storage 1 98114 0 0
+/en/portfolio 1 42930 0 0
+/node/92/edit 2 320807 0 0
+/es/admin/structure 2 189456 0 0
+/en/admin/structure/views/view/articulos 4 500854 0 0
+/core/authorize.php 8 80104 0 0
+/en/block/1 4 533600 0 0
+/es/admin/structure/gavias_blockbuilder/edit/11 1 542873 0 0
+/en/admin/structure/views/view/probajson 4 533914 0 0
+/es/blogs-masonry 1 47391 0 0
+/en/admin/structure/contact/manage/personal/fields 1 91811 0 0
+/en/admin/config/user-interface/easy-breadcrumb 2 208953 0 0
+/admin/reports/status 1 106235 0 0
+/en/admin/structure/views 15 2155325 0 0
+/es/admin/gaviasthemer_customize/preview 5 795 0 0
+/en/node/94 3 439122 0 0
+/admin/config/search/path/settings 1 121486 0 0
+/en/admin/reports/updates 15 1812671 0 0
+/es/admin/structure/types/manage/article 3 453511 0 0
+/en/admin/structure/types/manage/article/translate/es/edit 1 97027 0 0
+/en/how-decorate-black-and-white 2 96272 0 0
+/en/admin/structure/views/nojs/display/probajson/page_1/title 1 97113 0 0
+/en/business-card 1 39936 0 0
+/es/blogs-list 1 47689 0 0
+/es/admin/structure/types/manage/page/fields 2 192342 0 0
+/en/admin/config/development/maintenance/translate 1 93201 0 0
+/update.php/start 2 11209 0 0
+/en/admin/structure/types/manage/proba/fields/add-field 5 517991 0 0
+/modules/imce/css/fonts/imce-icons.woff 4 30144 0 0
+/en/blogs-masonry 1 48460 0 0
+/en/history/6/read 7 70 0 1
+/en/admin/config/development/backup_migrate/advanced 7 914403 0 0
+/en/blogs-grid 3 133968 0 0
+/es/jsonapi/node/local_business/568d2c12-a14a-426e-997a-3b86413c851c 3 7843 1 0
+/en/admin/config/regional/language/detection/url 1 98108 0 0
+/toolbar/subtrees/r2hEgiBTdSxZAyFsc98Af0ixNIwSuI0fUVUkKJ93i2w 1 65434 0 0
+/en/admin/structure 10 952154 0 0
+/en/admin/structure/display-modes/view/add 1 95736 0 0
+/es/block/5/translations 1 96229 0 0
+/admin/structure/menu/manage/main/translate 1 90525 0 0
+/en/admin/structure/views/view/frontpage/preview/page_1 5 211269 0 0
+/es/node/1 2 350672 0 0
+/admin/config/search 1 88736 0 0
+/admin/structure/contact/manage/feedback/form-display 4 372977 0 0
+/en/admin/structure/contact/manage/feedback/fields/add-field 2 195662 0 0
+/admin/structure/contact/manage/feedback/translate 1 91246 0 0
+/en/admin/structure/contact/manage/personal/translate/es/edit 1 96926 0 0
+/en/admin/config/development/devel 1 120510 0 0
+/es/admin/structure/types 6 622749 0 0
+/en/history/96/read 3 30 0 1
+/es/admin/structure/gavias_blockbuilder/form/0 1 93471 0 0
+/en/admin/structure/display-modes/form/add 1 93624 0 0
+/en/history/93/read 1 10 0 0
+/eu/admin/structure/block/block-visibility-group 1 92667 0 0
+/en/admin/structure/types/manage/article/translate/eu/edit 1 96988 0 0
+/en/admin/structure/contact/manage/feedback/fields/contact_message.feedback.field_address/storage 2 198571 0 0
+/en/admin/config/development/backup_migrate/settings/destination 8 833025 0 0
+/eu/history/4/read 11 110 0 0
+/en/admin/structure/views/ajax/handler/articulos/rest_export_1/filter/body_value_3 1 25495 0 0
+/admin/structure/menu/item/12/edit/translations 1 90883 0 0
+/es/admin/structure/menu/item/12/edit/translations/add/en/es 1 139239 0 0
+/about 1 47272 0 0
+/es/block/5/translations/add/en/es 1 129605 0 0
+/en/admin/config/user-interface/shortcut 1 96090 0 0
+/es/history/92/read 1 10 0 0
+/en/admin/structure/views/ajax/display/articulos/rest_export_1/row_options 1 23904 0 0
+/en/admin/reports/dblog/confirm 5 525543 0 0
+/en/node/72/delete 2 194350 0 0
+/en/admin/structure/block 4 1066290 0 0
+/admin/config/search/redirect 2 186760 0 0
+/en/toolbar/subtrees/p40ltMyo_bP1sFD3CAlIaXwq4StcHOUW0lo9S3ib5tU 2 133952 1 0
+/en/admin/reports/status/php 1 100699 0 0
+/en/admin/reports 3 283795 0 0
+/en/admin/structure/types/manage/article/fields/add-field 4 403765 0 0
+/en/node/80/delete 1 91387 0 0
+/admin/config/regional/language/detection/browser 2 238873 0 0
+/en/admin/config/development/backup_migrate/settings/destination/add 1 98711 0 0
+/en/admin/structure/views/ajax/display/frontpage/page_2/path 2 36610 0 0
+/en/admin/structure/display-modes/form 1 96573 0 0
+/admin/update/ready 1 89480 0 0
+/en/admin/config/content/formats/add 8 603913 0 0
+/es/admin/structure/contact/manage/feedback/fields/contact_message.feedback.field_address/storage 1 100067 0 0
+/es/admin/structure/comment 1 94936 0 0
+/en/admin/structure/types/manage/proba/fields 5 479022 0 0
+/en/careers 6 613855 1 1
+/es/node/6/delete 1 93654 0 0
+/eu/admin/coffee/get-data 18 416302 0 1
+/admin/structure/types/manage/article/translate 1 94556 0 0
+/en/admin/modules/uninstall/confirm 5 497515 0 0
+/en/history/89/read 1 10 0 0
+/admin/structure/legal 2 177318 0 0
+/admin/config/people/accounts/translate/es/edit 1 127728 0 0
+/en/node/85 1 201549 0 0
+/es/contextual/render 20 260890 0 0
+/en/admin/structure/views/view/probajson/edit/rest_export_1 1 129226 0 0
+/en/admin/structure/contact 6 563623 0 0
+/contact-0 1 35233 0 0
+/en/admin/help 1 103360 0 0
+/en/admin/config/services/rest/resource/entity%3Anode/edit 1 97400 0 0
+/es/aviso-legal 5 366104 0 0
+/en/block/2 7 904112 0 0
+/en/admin/structure/contact/manage/feedback/translate/es/edit 1 95190 0 0
+/es/user/register 1 66085 0 0
+/en/probaaaa 2 407609 0 0
+/en/element-quote 1 38861 0 0
+/en/admin/structure/views/view/probajson/preview/rest_export_1 1 163709 0 0
+/en/admin/structure/views/ajax/display/local_business/rest_export_1/path 2 28637 0 0
+/admin/structure/gavias_blockbuilder/save 2 46 0 0
+END_SIDER

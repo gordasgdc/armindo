@@ -1,0 +1,86 @@
+{
+    "cid": "Drupal\\lightning_scheduler\\Commands\\MigrationCommands",
+    "data": {
+        "migrate": {
+            "schema": 3,
+            "class": "Drupal\\lightning_scheduler\\Commands\\MigrationCommands",
+            "method_name": "migrate",
+            "mtime": 1528747326,
+            "name": "lightning:scheduler:migrate",
+            "description": "Migrates scheduled transition data to the new base fields.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "command": "lightning:scheduler:migrate"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "entity_type_id": {
+                    "description": "(optional) The entity type ID to migrate.",
+                    "default": null
+                }
+            },
+            "options": []
+        },
+        "purge": {
+            "schema": 3,
+            "class": "Drupal\\lightning_scheduler\\Commands\\MigrationCommands",
+            "method_name": "purge",
+            "mtime": 1528747326,
+            "name": "lightning:scheduler:purge",
+            "description": "Deletes old scheduled transition data for an entity type without migrating.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "command": "lightning:scheduler:purge"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "entity_type_id": {
+                    "description": "The entity type ID to migrate."
+                }
+            },
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

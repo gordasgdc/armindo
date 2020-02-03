@@ -1,0 +1,74 @@
+--- 
+matched_count: 14
+results: 
+  - 
+    Metabrik::Crypto::Letsencrypt: 
+      description: Metabrik::Crypto::Letsencrypt - latest:undef
+      distfile: G/GO/GOMOR/Metabrik-Repository-1.30.tar.gz
+      version: undef
+  - 
+    Net::ACME2::LetsEncrypt: 
+      description: Net::ACME2::LetsEncrypt - latest:undef
+      distfile: F/FE/FELIPE/Net-ACME2-0.10.tar.gz
+      version: undef
+  - 
+    Net::ACME::LetsEncrypt: 
+      description: Net::ACME::LetsEncrypt - latest:undef
+      distfile: F/FE/FELIPE/Net-ACME-0.12.tar.gz
+      version: undef
+  - 
+    Toadfarm::Plugin::Letsencrypt: 
+      description: Toadfarm::Plugin::Letsencrypt - latest:0.01
+      distfile: S/SA/SADAMS/Toadfarm-Plugin-Letsencrypt-0.01.tar.gz
+      version: '0.01'
+  - 
+    WWW::LetsEncrypt: 
+      description: WWW::LetsEncrypt - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+  - 
+    WWW::LetsEncrypt::JWA: 
+      description: WWW::LetsEncrypt::JWA - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+  - 
+    WWW::LetsEncrypt::JWK: 
+      description: WWW::LetsEncrypt::JWK - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+  - 
+    WWW::LetsEncrypt::JWK::RSA: 
+      description: WWW::LetsEncrypt::JWK::RSA - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+  - 
+    WWW::LetsEncrypt::JWS: 
+      description: WWW::LetsEncrypt::JWS - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+  - 
+    WWW::LetsEncrypt::Message: 
+      description: WWW::LetsEncrypt::Message - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+  - 
+    WWW::LetsEncrypt::Message::Authorization: 
+      description: WWW::LetsEncrypt::Message::Authorization - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+  - 
+    WWW::LetsEncrypt::Message::Certificate: 
+      description: WWW::LetsEncrypt::Message::Certificate - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+  - 
+    WWW::LetsEncrypt::Message::Directory: 
+      description: WWW::LetsEncrypt::Message::Directory - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+  - 
+    WWW::LetsEncrypt::Message::Registration: 
+      description: WWW::LetsEncrypt::Message::Registration - latest:0.002
+      distfile: B/BA/BALLARD/WWW-LetsEncrypt-0.002.tar.gz
+      version: '0.002'
+total_rows: 209807

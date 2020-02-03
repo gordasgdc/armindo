@@ -1,0 +1,151 @@
+{
+    "cid": "Drush\\Commands\\core\\CoreCommands",
+    "data": {
+        "globalOptions": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\CoreCommands",
+            "method_name": "globalOptions",
+            "mtime": 1527094040,
+            "name": "core:global-options",
+            "description": "All global options.",
+            "help": "",
+            "aliases": [
+                "core-global-options"
+            ],
+            "annotations": {
+                "command": "core:global-options",
+                "hidden": "",
+                "topic": "",
+                "table-style": "default",
+                "field-labels": "\n   name: Name\n   description: Description",
+                "default-fields": "name,description"
+            },
+            "example_usages": [],
+            "return_type": "\\Consolidation\\OutputFormatters\\StructuredData\\RowsOfFields",
+            "arguments": [],
+            "options": {
+                "format": {
+                    "description": "",
+                    "default": "table"
+                }
+            }
+        },
+        "version": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\CoreCommands",
+            "method_name": "version",
+            "mtime": 1527094040,
+            "name": "version",
+            "description": "Show Drush version.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "command": "version",
+                "table-style": "compact",
+                "list-delimiter": ":",
+                "field-labels": "\n   drush-version: Drush version"
+            },
+            "example_usages": [],
+            "return_type": "\\Consolidation\\OutputFormatters\\StructuredData\\PropertyList",
+            "arguments": [],
+            "options": {
+                "format": {
+                    "description": "",
+                    "default": "table"
+                }
+            }
+        },
+        "execute": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\CoreCommands",
+            "method_name": "execute",
+            "mtime": 1527094040,
+            "name": "core:execute",
+            "description": "Execute a shell command. Usually used with a site alias.",
+            "help": "Used by shell aliases that start with !.",
+            "aliases": [
+                "exec",
+                "execute",
+                "core-execute"
+            ],
+            "annotations": {
+                "command": "core:execute",
+                "optionset_proc_build": "",
+                "handle-remote-commands": "",
+                "topics": "docs:aliases"
+            },
+            "example_usages": {
+                "drush core:execute git pull origin rebase -- --no-ff": "Retrieve latest code from git"
+            },
+            "return_type": null,
+            "arguments": {
+                "args": {
+                    "description": "The shell command to be executed.",
+                    "default": []
+                }
+            },
+            "options": {
+                "escape": {
+                    "description": "Escape parameters before executing them with the shell. Default is escape; use --no-escape to disable.",
+                    "default": true
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        },
+        "setSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\CoreCommands",
+            "method_name": "setSiteAliasManager",
+            "mtime": 1527094040
+        },
+        "siteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\CoreCommands",
+            "method_name": "siteAliasManager",
+            "mtime": 1527094040
+        },
+        "hasSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\CoreCommands",
+            "method_name": "hasSiteAliasManager",
+            "mtime": 1527094040
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

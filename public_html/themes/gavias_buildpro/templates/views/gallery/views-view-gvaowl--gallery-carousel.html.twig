@@ -1,0 +1,17 @@
+{% if attributes -%}
+   <div id="gva-images-carousel" {{ attributes.addClass('slider-gallery-v1') }}>
+{% endif %}
+
+   {% set i = 0 %}
+   {% for row in rows %}
+      {% set i = i + 1 %}
+      {% if i % 2 == 1 %}<div class="view-row">{% endif %}
+         {{ row.content }}  
+      {% if i % 2 == 0 or i == rows|length %}</div>{% endif %}    
+   {% endfor %} 
+
+{% if attributes -%}
+    </div>
+{% endif %}
+
+

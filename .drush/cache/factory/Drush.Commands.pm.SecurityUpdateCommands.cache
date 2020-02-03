@@ -1,0 +1,90 @@
+{
+    "cid": "Drush\\Commands\\pm\\SecurityUpdateCommands",
+    "data": {
+        "security": {
+            "schema": 3,
+            "class": "Drush\\Commands\\pm\\SecurityUpdateCommands",
+            "method_name": "security",
+            "mtime": 1527094040,
+            "name": "pm:security",
+            "description": "Check Drupal Composer packages for pending security updates.",
+            "help": "This uses the Drupal security advisories package to determine if updates\nare available.",
+            "aliases": [
+                "sec",
+                "pm-security"
+            ],
+            "annotations": {
+                "see": "https:\/\/github.com\/drupal-composer\/drupal-security-advisories",
+                "command": "pm:security",
+                "bootstrap": "none",
+                "table-style": "default",
+                "field-labels": "\n   name: Name\n   version: Installed Version\n   min-version: Suggested version",
+                "default-fields": "name,version,min-version",
+                "throws": "\\Exception"
+            },
+            "example_usages": [],
+            "return_type": "\\Consolidation\\OutputFormatters\\StructuredData\\RowsOfFields",
+            "arguments": [],
+            "options": []
+        },
+        "suggestComposerCommand": {
+            "schema": 3,
+            "class": "Drush\\Commands\\pm\\SecurityUpdateCommands",
+            "method_name": "suggestComposerCommand",
+            "mtime": 1527094040,
+            "name": "suggest:composer-command",
+            "description": "Emit suggested Composer command for security updates.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "post-command pm:security"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "result": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

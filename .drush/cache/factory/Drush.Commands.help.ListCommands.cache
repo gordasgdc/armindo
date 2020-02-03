@@ -1,0 +1,96 @@
+{
+    "cid": "Drush\\Commands\\help\\ListCommands",
+    "data": {
+        "helpList": {
+            "schema": 3,
+            "class": "Drush\\Commands\\help\\ListCommands",
+            "method_name": "helpList",
+            "mtime": 1527094040,
+            "name": "list",
+            "description": "List available commands.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "command": "list",
+                "bootstrap": "max"
+            },
+            "example_usages": {
+                "drush list": "List all commands.",
+                "drush list --filter=devel_generate": "Show only commands starting with devel-",
+                "drush list --format=xml": "List all commands in Symfony compatible xml format."
+            },
+            "return_type": "Drush\\Commands\\help\\string",
+            "arguments": [],
+            "options": {
+                "format": {
+                    "description": "",
+                    "default": "listcli"
+                },
+                "raw": {
+                    "description": "Show a simple table of command names and descriptions.",
+                    "default": false
+                },
+                "filter": {
+                    "description": "Restrict command list to those commands defined in the specified file. Omit value to choose from a list of names.",
+                    "default": 2
+                }
+            }
+        },
+        "buildDom": {
+            "schema": 3,
+            "class": "Drush\\Commands\\help\\ListCommands",
+            "method_name": "buildDom",
+            "mtime": 1527094040
+        },
+        "getTerminalWidth": {
+            "schema": 3,
+            "class": "Drush\\Commands\\help\\ListCommands",
+            "method_name": "getTerminalWidth",
+            "mtime": 1527094040
+        },
+        "renderListRaw": {
+            "schema": 3,
+            "class": "Drush\\Commands\\help\\ListCommands",
+            "method_name": "renderListRaw",
+            "mtime": 1527094040
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

@@ -1,0 +1,119 @@
+{
+    "cid": "Drush\\Commands\\core\\PhpCommands",
+    "data": {
+        "evaluate": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\PhpCommands",
+            "method_name": "evaluate",
+            "mtime": 1527094040,
+            "name": "php:eval",
+            "description": "Evaluate arbitrary php code after bootstrapping Drupal (if available).",
+            "help": "",
+            "aliases": [
+                "eval",
+                "ev",
+                "php-eval"
+            ],
+            "annotations": {
+                "command": "php:eval",
+                "bootstrap": "max"
+            },
+            "example_usages": {
+                "drush php:eval 'variable_set(\"hello\", \"world\");'": "Sets the hello variable using Drupal API.'",
+                "drush php:eval '$node = node_load(1); print $node-\u003etitle;'": "Loads node with nid 1 and then prints its title.",
+                "drush php:eval \"file_unmanaged_copy(\\'$HOME\/Pictures\/image.jpg\\', \\'public:\/\/image.jpg\\');\"": "Copies a file whose path is determined by an environment\\'s variable. Note the use of double quotes so the variable $HOME gets replaced by its value.",
+                "drush php:eval \"node_access_rebuild();\"": "Rebuild node access permissions."
+            },
+            "return_type": null,
+            "arguments": {
+                "code": {
+                    "description": "PHP code"
+                }
+            },
+            "options": {
+                "format": {
+                    "description": "",
+                    "default": "var_export"
+                }
+            }
+        },
+        "script": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\PhpCommands",
+            "method_name": "script",
+            "mtime": 1527094040,
+            "name": "php:script",
+            "description": "Run php a script after a full Drupal bootstrap.",
+            "help": "A useful alternative to eval command when your php is lengthy or you\ncan't be bothered to figure out bash quoting. If you plan to share a\nscript with others, consider making a full Drush command instead, since\nthat's more self-documenting.  Drush provides commandline options to the\nscript via a variable called $extra.",
+            "aliases": [
+                "scr",
+                "php-script"
+            ],
+            "annotations": {
+                "command": "php:script",
+                "bootstrap": "max",
+                "throws": "\\Exception"
+            },
+            "example_usages": {
+                "drush php:script example": "--script-path=\/path\/to\/scripts:\/another\/path Run a script named example.php from specified paths",
+                "drush php:script": "List all available scripts.",
+                "drush php:script foo -- apple --cider": "Run foo.php script with argument 'apple' and option 'cider'. Note the -- separator."
+            },
+            "return_type": null,
+            "arguments": {
+                "extra": {
+                    "description": "",
+                    "default": []
+                }
+            },
+            "options": {
+                "format": {
+                    "description": "",
+                    "default": "var_export"
+                },
+                "script-path": {
+                    "description": "Additional paths to search for scripts, separated by : (Unix-based systems) or ; (Windows).",
+                    "default": 2
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

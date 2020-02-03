@@ -1,0 +1,74 @@
+{%
+  set classes = [
+    'node',
+    'node-detail',
+    'node--type-' ~ node.bundle|clean_class,
+    node.isPromoted() ? 'node--promoted',
+    node.isSticky() ? 'node--sticky',
+    not node.isPublished() ? 'node--unpublished',
+    view_mode ? 'node--view-mode-' ~ view_mode|clean_class,
+    'clearfix',
+  ]
+%}
+
+<!-- Start Display article for teaser page -->
+
+{% if view_mode == 'teaser' %}
+
+<div class="portfolio-v1 isotope-item margin-bottom-30 grid">      
+  <div class="simpleslider">{{ field_portfolio_images }}</div>
+    <div class="content">
+       <div class="content-inner">
+           <div class="category">{{ field_portfolio_tags}}</div>  
+          <div class="title">{{ title }}</div>  
+       </div>    
+   </div>
+</div>
+
+
+{% else %}
+<!-- Start Display article for detail page -->
+
+<article{{ attributes.addClass(classes) }}>
+  <div class="post-block portfolio-single">
+    
+    <div class="row">
+      <div class="col-md-6 col-sm-12 col-xs-12"> 
+        <div class="post-thumbnail">
+          {% if content.field_portfolio_images %}
+            {{ content.field_portfolio_images }} 
+          {% endif %}
+        </div>
+      </div>
+      
+      <div class="col-md-6 col-sm-12 col-xs-12">
+        <div class="post-content">
+          
+          {{ title_prefix }}
+            <h1{{ title_attributes.addClass('post-title') }}>{{ label }}</h1>
+          {{ title_suffix }}  
+
+          {% if informations %}
+            <div class="portfolio-informations">
+              {{ informations|raw }}
+            </div>
+          {% endif %}
+
+          <div{{ content_attributes.addClass('node__content', 'clearfix') }}>
+            {{ content|without('field_portfolio_images','field_portfolio_tags', 'field_portfolio_information', 'comment') }}
+          </div>
+
+          {% if content.comment %}
+            <div id="node-single-comment">{{ content.comment }}</div>
+          {% endif %}
+
+        </div>  
+      </div>  
+    </div> 
+
+  </div>
+
+</article>
+
+<!-- End Display article for detail page -->
+{% endif %}

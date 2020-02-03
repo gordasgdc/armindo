@@ -1,0 +1,102 @@
+{
+    "cid": "Drush\\Commands\\help\\HelpCommands",
+    "data": {
+        "help": {
+            "schema": 3,
+            "class": "Drush\\Commands\\help\\HelpCommands",
+            "method_name": "help",
+            "mtime": 1527094040,
+            "name": "help",
+            "description": "Display usage details for a command.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "command": "help",
+                "bootstrap": "max",
+                "topics": "docs:readme"
+            },
+            "example_usages": {
+                "drush help pm-uninstall": "Show help for a command.",
+                "drush help pmu": "Show help for a command using an alias.",
+                "drush help --format=xml": "Show all available commands in XML format.",
+                "drush help --format=json": "All available commands, in JSON format."
+            },
+            "return_type": "\\Consolidation\\AnnotatedCommand\\Help\\HelpDocument",
+            "arguments": {
+                "command_name": {
+                    "description": "A command name",
+                    "default": ""
+                }
+            },
+            "options": {
+                "format": {
+                    "description": "",
+                    "default": "helpcli"
+                },
+                "include-field-labels": {
+                    "description": "",
+                    "default": false
+                },
+                "table-style": {
+                    "description": "",
+                    "default": "compact"
+                }
+            }
+        },
+        "validate": {
+            "schema": 3,
+            "class": "Drush\\Commands\\help\\HelpCommands",
+            "method_name": "validate",
+            "mtime": 1527094040,
+            "name": "validate",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "validate help"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

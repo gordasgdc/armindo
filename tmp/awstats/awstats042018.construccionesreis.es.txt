@@ -1,0 +1,294 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /home/armindo/tmp/awstats/awstats.construccionesreis.es.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2698                
+POS_VISITOR 3396                
+POS_DAY 4509                
+POS_DOMAIN 4659                
+POS_LOGIN 4900                
+POS_ROBOT 5055                
+POS_WORMS 5218                
+POS_EMAILSENDER 5349                
+POS_EMAILRECEIVER 5492                
+POS_SESSION 5568                
+POS_SIDER 5725                
+POS_FILETYPES 6140                
+POS_DOWNLOADS 6375                
+POS_OS 6423                
+POS_BROWSER 6558                
+POS_SCREENSIZE 6720                
+POS_UNKNOWNREFERER 6794                
+POS_UNKNOWNREFERERBROWSER 6881                
+POS_ORIGIN 6963                
+POS_SEREFERRALS 7094                
+POS_PAGEREFS 7247                
+POS_SEARCHWORDS 7395                
+POS_KEYWORDS 7547                
+POS_MISC 2362                
+POS_ERRORS 7606                
+POS_CLUSTER 4756                
+POS_SIDER_404 7720                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180501001709 244 44761 9784822070699
+FirstTime 20180430190605
+LastTime 20180430222923
+LastUpdate 20180508150950 244 0 239 3 1
+TotalVisits 11                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 36                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 1 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 3 3 708
+17 0 0 0 12 12 2802
+18 0 0 0 1 1 52
+19 2 2 24882 1 1 52
+20 10 49 1990940 4 5 21701
+21 0 0 0 2 2 24880
+22 3 8 138003 105 105 17909
+23 0 0 0 51 51 12148
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 36
+172.68.94.153 5 6 246986 20180430203755
+141.101.69.200 1 1 12440 20180430190605
+172.68.146.37 1 1 12440 20180430200750
+162.158.255.99 1 1 12442 20180430195000
+172.68.58.226 1 1 12442 20180430202731
+162.158.74.68 1 1 12440 20180430222614
+172.68.94.195 1 2 83834 20180430203713
+172.68.189.156 1 1 12440 20180430222923
+172.69.62.147 1 1 12440 20180430222903
+162.158.75.153 1 1 12440 20180430202731
+172.68.94.213 1 3 235431 20180430203713
+172.68.94.177 0 1 9824 
+172.68.94.27 0 1 1831 
+172.68.94.39 0 2 324972 
+162.158.75.99 0 1 753 
+172.68.94.15 0 3 3576 
+108.162.216.189 0 1 1460 
+172.68.94.9 0 2 82346 
+172.68.94.75 0 1 78674 
+172.68.94.63 0 1 302455 
+172.68.94.135 0 2 31223 
+172.68.94.165 0 1 10139 
+172.68.94.189 0 1 1611 
+172.68.94.123 0 2 54123 
+172.68.94.231 0 4 49164 
+172.68.94.87 0 1 369 
+172.68.94.45 0 1 701 
+172.68.94.207 0 1 746 
+172.68.94.147 0 4 5865 
+172.68.94.21 0 3 178115 
+172.68.94.117 0 1 10459 
+172.68.94.57 0 1 173713 
+172.68.94.129 0 2 67461 
+162.158.74.104 0 1 78674 
+172.68.58.76 0 1 369 
+162.158.75.207 0 1 19427 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20180430 15 59 2153825 11
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 14 58 2141385
+eu 1 1 12440
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Wget/ 2 24880 20180430212829 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 9 111964 9 8
+/contactenos 1 9647 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 1 77162 1 1
+/themes/gavias_buildpro/fonts/icon/icon.ttf 1 232382 1 1
+/banos-reformados-reformas-de-banos 1 8839 0 1
+/construccion-y-reformas-de-locales-comerciales 1 8509 0 0
+/construccion1 1 7910 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 9 217919 0 0
+js 8 210831 0 0
+html 9 111964 0 0
+woff2 1 77162 0 0
+png 18 399407 0 0
+ttf 1 232382 0 0
+jpg 7 865964 0 0
+Unknown 4 34905 0 0
+svg 1 746 0 0
+gif 1 2545 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+linuxandroid 46 7
+macosx 1 1
+winxp 3 3
+win7 6 1
+win10 1 1
+macosx7 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome64.0.3282.167 1 1
+msie8.0 8 3
+chrome66.0.3359.126 46 7
+firefox 1 1
+firefox53.0 1 1
+chrome13.0.782.215 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 6 6
+From1 0 0
+From2 1 1
+From3 0 0
+From4 8 52
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+400 43 2255
+404 3 21363
+301 131 31487
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/loikfd.php 2 -
+/ps.php 1 -
+END_SIDER_404

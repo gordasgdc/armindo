@@ -1,0 +1,734 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /home/armindo/tmp/awstats/ssl/awstats.construccionesreis.es.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2706                
+POS_VISITOR 23312               
+POS_DAY 26225               
+POS_DOMAIN 3561                
+POS_LOGIN 4002                
+POS_ROBOT 4157                
+POS_WORMS 4937                
+POS_EMAILSENDER 5068                
+POS_EMAILRECEIVER 5211                
+POS_SESSION 26720               
+POS_SIDER 26926               
+POS_FILETYPES 5346                
+POS_DOWNLOADS 5697                
+POS_OS 5773                
+POS_BROWSER 6020                
+POS_SCREENSIZE 6667                
+POS_UNKNOWNREFERER 6741                
+POS_UNKNOWNREFERERBROWSER 7105                
+POS_ORIGIN 7309                
+POS_SEREFERRALS 7452                
+POS_PAGEREFS 7772                
+POS_SEARCHWORDS 8266                
+POS_KEYWORDS 8467                
+POS_MISC 2368                
+POS_ERRORS 8585                
+POS_CLUSTER 3858                
+POS_SIDER_404 8782                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180717164539 6410 1702108 15256407977825
+FirstTime 20180701025138
+LastTime 20180717163739
+LastUpdate 20180717164617 84 0 84 0 0
+TotalVisits 110                 
+TotalUnique 52                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 80                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 101 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 50 2037248 33 58 1501623
+1 9 27 744585 23 47 487287
+2 35 121 4422290 71 143 2706681
+3 5 5 205629 36 71 3399523
+4 4 4 177068 28 56 1746111
+5 0 1 43672 44 88 1341583
+6 3 3 177015 45 91 1162145
+7 0 0 0 42 72 1795495
+8 5 45 1775139 47 246 1569481
+9 68 125 3518987 52 158 1365589
+10 40 131 3452161 129 329 2122706
+11 41 197 5606220 33 142 1953653
+12 57 362 11225881 79 338 8822511
+13 60 269 7021020 38 147 1681858
+14 21 205 8001277 78 255 6968348
+15 7 8 114146 105 150 1024708
+16 127 289 9264513 163 375 3952714
+17 1 2 337523 27 105 1348800
+18 25 181 6274473 68 165 6744789
+19 12 100 3892138 33 77 1828490
+20 100 162 3981543 164 225 877858
+21 6 28 880098 202 224 1535485
+22 0 1 43672 29 67 1781558
+23 21 193 6731207 30 97 587054
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+es 236 1485 47129678
+tn 192 192 2751622
+us 174 663 22901663
+fr 42 89 3180329
+ru 4 6 145113
+gb 3 44 1804451
+ro 2 20 444166
+so 2 2 146204
+za 0 1 323216
+mx 0 1 323216
+uy 0 2 87344
+dk 0 1 43672
+ca 0 1 399
+co 0 1 323216
+pe 0 1 323216
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+Googlebot/ 1378 20234259 20180717163353 45
+bingbot/ 402 10563689 20180717162543 43
+MegaIndex\.ru/ 165 1158796 20180702215424 1
+AhrefsBot/ 115 749008 20180717035752 16
+YandexBot/ 105 2820403 20180717020410 19
+AdsBot\-Google[\x20]\( 66 2526878 20180712165010 0
+bingpreview 54 9640794 20180717004510 0
+linkdexbot/ 53 642254 20180717164157 1
+MJ12bot/ 52 1378148 20180716060232 22
+facebookexternalhit/ 46 4738702 20180717054512 0
+Googlebot\-Image/ 31 680143 20180714193959 0
+no_user_agent 13 1072376 20180717125322 2
+(firefox/)([0-9]\.|[0-1][0]\.) 9 578015 20180703163258 0
+bot[\s_+:,\.\;\/\\-] 3 11168 20180713165846 2
+unknown 3 2025 20180703132949 3
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+Unknown 212 2875251 0 0
+svg 108 1254175 0 0
+js 472 10050538 0 0
+cur 2 267 0 0
+woff 16 696925 0 0
+eot 30 1307250 0 0
+html 299 5472704 0 0
+gif 84 800564 0 0
+xml 1 2856 0 0
+css 302 4719264 0 0
+woff2 43 3114706 0 0
+jpg 202 25199429 0 0
+png 685 15333741 0 0
+ttf 52 9099436 0 0
+txt 1 399 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/core/CHANGELOG.txt 1 0 399
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win7 33 8
+macosx10 38 38
+linux 291 91
+macosx 84 19
+Unknown 155 154
+macosx12 32 32
+win8.1 200 25
+ios_ipad 2 0
+ios_iphone 253 23
+win10 786 208
+winxp 2 2
+winnt 2 2
+linuxandroid 631 53
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+firefox28.0 50 50
+firefox44.0 2 2
+firefox51.0 2 2
+safari9.0 43 3
+chrome30.0.0.0 1 0
+chrome57.0.2987.133 29 29
+chrome41.0.2272.96 129 9
+chrome51.0.2704.90 53 5
+safari11.1.1 1 0
+iphone 4 1
+chrome55.0.2883.95 36 36
+mozilla 203 74
+safari10.0 22 2
+chrome41.0.2272.118 129 9
+chrome45.0.2454.101 2 2
+msie11.0 1 0
+chrome26.0.1410.63 2 2
+chrome67.0.3396.87 405 36
+firefox61.0 2 0
+chrome60.0.3095.0 86 6
+firefox32.1 2 2
+chrome43.0.2357.93 43 3
+chrome61.0.3163.100 12 12
+chrome67.0.3396.99 863 153
+firefox57.0 2 2
+firefox52.0 21 21
+safari11.0 186 17
+chrome49.0.2623.75 24 24
+firefox37.0 4 4
+Unknown 150 149
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+python-requests/2.19.1 20180707163113
+drupalgeddon2 20180706113253
+WhatsApp/2.18.203_A 20180713100108
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180708002626
+Ruby 20180712164527
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20180711161417
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+drupalgeddon2 20180706113253
+WhatsApp/2.18.203_A 20180713100108
+Ruby 20180712164527
+python-requests/2.19.1 20180707163113
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 377 385
+From1 0 0
+From2 25 43
+From3 57 85
+From4 196 1996
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+www_google_com_pe 0 1
+www_google_com_ar 0 1
+www_google_com_mx 0 1
+www_google_es 18 29
+bing 1 1
+www_google_ca 0 1
+www_google_com_uy 0 1
+www_google_com_co 0 1
+www_google_com 6 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+https://webmail.construccionesreis.es/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 40 50
+https://webmail.construccionesreis.es/cPanel_magic_revision_1525848439/unprotected/cpanel/style_v2_optimized.css 15 30
+https://www.facebook.com 1 1
+http://m.facebook.com 1 1
+https://webmail.construccionesreis.es 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+empresas+de+construccion+en+san+sebasti%c3%a1n 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+de 1
+construccion 1
+en 1
+sebasti%c3%a1n 1
+empresas 1
+san 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+301 274 59721
+500 105 9332
+401 8 109110
+302 22 4666
+206 3 34147
+303 13 12200
+403 21 168154
+404 472 1081609
+400 194 11665
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 179
+/sites/default/files/js/js_KXKcYzpiQNviahNtlmuG3JosrasWm4xNkTpmPyt_NU8.js 4 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/card.component.css 1 https://construccionesreis.es/
+/sites/default/files/js/js_lNackcWdzsoMg3k8qv4UT1RrSBHPGLaqi-bmQvdam74.js 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/theme/content.theme.css 1 https://construccionesreis.es/
+/themes/gavias_buildpro/vendor/ytplayer/css/images/raster@2x.png 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/en/portfolio-2 1 -
+/es/aviso-legal 1 -
+/themes/contrib/vartheme/bootstrap/js/popover.js 1 https://construccionesreis.es/
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.video.min.js 6 https://construccionesreis.es/es/node/17
+/en/home-4 2 -
+/modules/contrib/varbase_heroslider_media/js/varbase_hero_slider_media.scripts.js 1 https://construccionesreis.es/
+/sites/default/files/languages/en_vrWOv-AC3wStdbsORlM7kdSkEn1cv-DOTallPFLjRKQ.js 6 https://construccionesreis.es/en/summer
+/modules/gavias_sliderlayer/vendor/revolution/css/settings.css 9 https://construccionesreis.es/es/node/17
+/google4f0a465472f89cd8.html 1 -
+/sites/default/files/js/js_Bn7SlSVBlzUS6hhUGklnnmWbBDoTHvhdDNSowbGp2sg.js 1 https://construccionesreis.es/empresa-de-construccion-en-donostia
+/en/4-springtime-color-schemes-try-home 2 -
+/en/home-2 2 -
+/sites/default/files/languages/es_F0RbDgj5yVlqy-rYvsgEs5BvwjJDCiGcXz3gtiLVh64.js 1 https://construccionesreis.es/
+/sites/default/files/js/js_ixTXPt2ZMH5Fwc3WY6hSxVCvS-oueSgknO2rmG90jqo.js 4 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/tabs.component.css 1 https://construccionesreis.es/
+/themes/contrib/bootstrap/js/attributes.js 1 https://construccionesreis.es/
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.actions.min.js 6 https://construccionesreis.es/en/summer
+/eu/profiles/contrib/lightning/README.md 2 -
+/modules/gavias_sliderlayer/vendor/revolution/css/layers.css 9 https://construccionesreis.es/es/node/17
+/en/careers 3 -
+/en/portfolio 2 -
+/'/sites/default/files/gbb-uploads/bg-10.jpg' 1 https://construccionesreis.es/
+/sites/default/files/js/js_wfahkQz6A-yq4L629DJCXHkqsjUDEEThSsvr8Whh1jg.js 1 https://construccionesreis.es/pladur
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.navigation.min.js 6 https://construccionesreis.es/eu/node/86
+/themes/contrib/vartheme/bootstrap/js/alert.js 1 https://construccionesreis.es/
+/themes/gavias_buildpro/vendor/ytplayer/css/font/ytp-regular.ttf 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/themes/contrib/vartheme/bootstrap-no-spacing/css/bootstrap-no-spacing.css 1 https://construccionesreis.es/
+/modules/contrib/webform/js/webform.form.js 1 https://construccionesreis.es/
+/logo.png 1 -
+/themes/contrib/vartheme/css/component/panel.component.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/bootstrap/js/carousel.js 1 https://construccionesreis.es/
+/en/home-3 4 -
+/themes/contrib/vartheme/css/component/navbar.component.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/outside-in.component.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/autocomplete.component.css 1 https://construccionesreis.es/
+/modules/contrib/varbase_heroslider_media/js/youtube/player.min.js 1 https://construccionesreis.es/
+/en/country-big-concert-report 2 -
+/themes/contrib/vartheme/css/component/ajax.component.css 1 https://construccionesreis.es/
+/themes/gavias_buildpro/css/fonts/glyphicons-halflings-regular.ttf 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/themes/contrib/vartheme/css/component/bs-callouts.component.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/toolbar.component.css 1 https://construccionesreis.es/
+/en/mountain-drift 2 -
+/en/flippin-bird 1 -
+/themes/contrib/vartheme/css/component/table-drag.component.css 1 https://construccionesreis.es/
+/en/how-future-could-resemble 3 -
+/modules/gavias_sliderlayer/vendor/revolution/js/source/jquery.themepunch.tools.min.js 6 https://construccionesreis.es/en/how-decorate-black-and-white
+/themes/contrib/vartheme/css/component/form.component.css 1 https://construccionesreis.es/
+/sites/default/files/languages/eu_6Iff8mn5MjbDZ7Zv4ggSfoJwr8tJo6B9S08hlmMXI7o.js 5 https://construccionesreis.es/eu/node/86
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.carousel.min.js 6 https://construccionesreis.es/es/node/17
+/en/portfolio-1 3 -
+/en/business-card 2 -
+/sites/default/files/js/js_juh4bcIdWiEd4O6muiQO-j88QuQMvKtpnqMrGTPYVFk.js 1 https://construccionesreis.es/
+/eu/logo.png 1 -
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.migration.min.js 6 https://construccionesreis.es/eu/node/86
+/en/how-decorate-black-and-white 2 -
+/share-image.png 93 -
+/themes/contrib/vartheme/css/component/file.component.css 1 https://construccionesreis.es/
+/modules/contrib/webform/modules/webform_bootstrap/css/webform_bootstrap.css 1 https://construccionesreis.es/
+/themes/contrib/bootstrap/js/tooltip.js 1 https://construccionesreis.es/
+/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js 4 https://construccionesreis.es/
+/modules/gva_blockbuilder/vendor/main.js 6 https://construccionesreis.es/en/summer
+/themes/gavias_buildpro/vendor/ytplayer/css/images/raster_dot@2x.png 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/sites/default/files/css/css_NftZT9dwQaRj4LqXbF-5tGVr8yl46nbz-KZSTk48RsU.css 8 https://construccionesreis.es/
+/en/team-list 2 -
+/sites/default/files/js/js_HORBwuWnEnYb1EEZ0Io64X5Fg5D1-VRyVkfGXmphMRk.js 4 https://construccionesreis.es/
+/en/blogs-list 2 -
+/modules/contrib/varbase_heroslider_media/js/vimeo/player.min.js 1 https://construccionesreis.es/
+/en/blogs-masonry 2 -
+/en/partners 1 -
+/file/ajax/name/%23value/ 2 -
+/en/business-card-0 1 -
+/themes/contrib/vartheme/bootstrap/js/affix.js 1 https://construccionesreis.es/
+/en/typography 3 -
+/en/element-quote 3 -
+/en/element-icon-box 2 -
+/themes/contrib/vartheme/bootstrap/js/dropdown.js 1 https://construccionesreis.es/
+/themes/contrib/vartheme/bootstrap/js/modal.js 1 https://construccionesreis.es/
+/themes/gavias_buildpro/css/fonts/glyphicons-halflings-regular.svg 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/themes/contrib/vartheme/bootstrap-print/css/bootstrap-print-sm.css 1 https://construccionesreis.es/
+/en/node/85 1 -
+/themes/contrib/vartheme/bootstrap-print/css/bootstrap-print.css 1 https://construccionesreis.es/
+/en/contact-us 1 -
+/en/taxonomy/term/4 1 -
+/themes/contrib/vartheme/css/component/field.component.css 1 https://construccionesreis.es/
+/en/element-button 2 -
+/node/preview/3d517895-d19d-4444-95bb-213845f5be76/full 2 -
+/themes/contrib/vartheme/bootstrap/js/tab.js 1 https://construccionesreis.es/
+/modules/gavias_sliderlayer/vendor/revolution/css/navigation.css 8 https://construccionesreis.es/es/node/17
+/themes/contrib/vartheme/js/script.js 1 https://construccionesreis.es/
+/form/contact 1 -
+/en/element-call-action 2 -
+/en/about 2 -
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.parallax.min.js 6 https://construccionesreis.es/es/node/17
+/themes/contrib/vartheme/css/layout/equal-height.layout.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/filter.component.css 1 https://construccionesreis.es/
+/themes/gavias_buildpro/css/fonts/glyphicons-halflings-regular.eot 2 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/themes/gavias_buildpro/vendor/ytplayer/css/font/ytp-regular.eot 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/nmaplowercheck1531281229 1 -
+/modules/contrib/anchor_link/css/anchor_link.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/alert.component.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/bootstrap/js/scrollspy.js 1 https://construccionesreis.es/
+/modules/contrib/varbase_heroslider_media/css/varbase_hero_slider_media.style.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/navbar.admin.component.css 1 https://construccionesreis.es/
+/'/sites/default/files/gbb-uploads/bg-1.jpg' 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/theme/footer.theme.css 1 https://construccionesreis.es/
+/sites/default/files/js/js_8lPVrQZNKfDn7_OlokRinB4nEsvG30g5RdyPKYnPerk.js 1 https://construccionesreis.es/
+/sites/default/files/js/js_kUzmL8lD0WoYRsaSfhHtArFG_lq8YeBavkgkqsergyg.js 2 https://construccionesreis.es/pladur
+/sites/default/files/js/js_2G2kFgvwaV9SxXCrZGPJOGAC9WRSZi6R_1CJlgVkSXA.js 1 https://construccionesreis.es/
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.layeranimation.min.js 5 https://construccionesreis.es/es/node/20
+/themes/contrib/vartheme/bootstrap/js/transition.js 1 https://construccionesreis.es/
+/en/coffeeshops-continue-conquer 3 -
+/en/our-awards 2 -
+/en/element-piechart-skillbar 1 -
+/.well-known/assetlinks.json 6 -
+/sites/default/files/js/js_W3HfpRnC5BmmLtUSR0JYaioRc53BVKOkuSVlRqIHDSc.js 1 https://construccionesreis.es/pladur
+/node/12345 2 -
+/modules/contrib/webform/js/webform.element.details.save.js 1 https://construccionesreis.es/
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.slideanims.min.js 6 https://construccionesreis.es/en/summer
+/libraries/slick/slick/slick.min.js 1 https://construccionesreis.es/
+/en/mobile-weather-app 3 -
+/themes/contrib/vartheme/css/base/bootstrap.base.css 1 https://construccionesreis.es/
+/es/blogs-grid 1 -
+/eu/share-image.png 2 -
+/es 2 -
+/themes/contrib/vartheme/css/theme/vbp-colors.theme.css 1 https://construccionesreis.es/
+/sites/default/files/js/js_m9NBRXque31GgYfNjqynt9FACvjH6HpxO_7FHTZHr_0.js 4 https://construccionesreis.es/
+/sites/default/files/js/js_8QSi8xrXcXngayFBWej8ZoUr-OGAWG_ikAKkqHBPsxo.js 3 https://construccionesreis.es/
+/themes/gavias_buildpro/css/fonts/glyphicons-halflings-regular.woff 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/%C3%A2%E2%82%AC%C5%93 3 -
+/sites/default/files/js/js_XpjkuFzS7qiZ43CUvwx5_i10ARmFTXzmKD1Puow5VoM.js 2 https://construccionesreis.es/
+/en/services 2 -
+/en/blogs-grid 2 -
+/sites/default/files/js/js_ZYZHTOIVpAfZc3_PD4cbz_VeGa-9iGuVbD-BAoxJdaA.js 3 https://construccionesreis.es/
+/'/sites/default/files/gbb-uploads/gdc1.jpg' 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/progress-bar.component.css 1 https://construccionesreis.es/
+/modules/contrib/webform/js/webform.element.details.toggle.js 1 https://construccionesreis.es/
+/en/element-tabs 2 -
+/sites/default/files/js/js_3UBbqsmR0UPiozmCUEnTfddVOj-FsTq8BOb9wXcdPUA.js 1 https://construccionesreis.es/
+/themes/contrib/bootstrap/js/misc/states.js 1 https://construccionesreis.es/
+/en/element-heading-style 2 -
+/themes/contrib/vartheme/css/theme/header.theme.css 1 https://construccionesreis.es/
+/en/special-bikes 2 -
+/themes/contrib/bootstrap/js/drupal.bootstrap.js 1 https://construccionesreis.es/
+/sites/default/files/js/js_Xw95sP9pntV2Eap_hGD8263AdcB5G3QqkdeG_gKlfr8.js 1 https://construccionesreis.es/
+/sites/default/files/languages/es_xI9zB8WN_ymeJFdE2kGBqJ2WuPYk_cO-jrUWWJQFSqs.js 7 https://construccionesreis.es/es/node/20
+/themes/contrib/vartheme/css/theme/betterlogin.theme.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/node.component.css 1 https://construccionesreis.es/
+/themes/contrib/vartheme/css/component/vb-tags.component.css 1 https://construccionesreis.es/
+/themes/gavias_buildpro/imagesgrid-slide.png 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/en/team-grid 3 -
+/themes/contrib/vartheme/bootstrap/js/button.js 1 https://construccionesreis.es/
+/modules/gva_blockbuilder/assets/css/frontend.css 8 https://construccionesreis.es/es/node/20
+/profiles/varbase/modules/varbase_features/varbase_media/css/varbase_media.common.css 1 https://construccionesreis.es/
+/themes/gavias_buildpro/vendor/ytplayer/css/images/raster_dot.png 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/themes/gavias_buildpro/vendor/ytplayer/css/images/raster.png 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/modules/contrib/webform/css/webform.element.details.toggle.css 1 https://construccionesreis.es/
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.kenburn.min.js 6 https://construccionesreis.es/en/how-decorate-black-and-white
+/en/business-card-red 2 -
+/sdk 1 -
+/modules/contrib/webform/css/webform.form.css 1 https://construccionesreis.es/
+/libraries/slick/slick/slick.css 1 https://construccionesreis.es/
+/sites/default/files/google_tag/google_tag.script.js 1 https://construccionesreis.es/
+/es/politica-de-privacidad 3 -
+/modules/gavias_sliderlayer/vendor/revolution/js/source/jquery.themepunch.revolution.js 6 https://construccionesreis.es/eu/node/86
+/en/contact-0 3 -
+/en/paper-bag-couple-street/ 1 -
+/modules/gva_blockbuilder/vendor/skrollr.min.js 6 https://construccionesreis.es/es/node/17
+/sites/default/files/js/js_AxJ70thKQiej8gYt3Cos3waVidSsjootIKTWvtV-XGk.js 3 https://construccionesreis.es/
+/themes/contrib/vartheme/bootstrap/js/collapse.js 1 https://construccionesreis.es/
+/sites/default/files/js/js_be-phM8ubsiSitJVDP_KQdh_JRHY5_Q9YpwKLmll_Zc.js 4 https://construccionesreis.es/
+/themes/contrib/bootstrap/js/popover.js 1 https://construccionesreis.es/
+/modules/contrib/extlink/extlink.css 1 https://construccionesreis.es/
+/themes/gavias_buildpro/images/bg-home.jpg 1 https://construccionesreis.es/sites/default/files/css/css_5xXYMHVzrru-setJ3wJGVs_qlmMi12cSxLiYeFgzjIM.css
+/modules/contrib/webform/js/webform.states.js 1 https://construccionesreis.es/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 80
+197.26.89.136 94 94 1346100 20180706204135
+81.45.33.255 81 378 6847223 20180713104949
+197.26.33.254 75 75 1075219 20180707163123
+13.57.215.211 55 83 2574750 20180715090915
+52.25.139.198 36 36 359177 20180703132935
+85.87.194.26 34 244 8752061 20180717163739 20180717153026 /contactenos
+83.47.130.224 29 29 1144385 20180711161446
+79.157.56.35 23 195 6819013 20180716114342
+5.39.34.40 21 21 210916 20180703121838
+197.26.121.57 21 21 301689 20180707023637
+176.86.130.86 15 179 7115981 20180706121613
+54.183.167.13 14 115 3563201 20180708181352
+149.202.86.188 13 13 1034525 20180714135036
+66.249.93.90 11 11 139572 20180713010720
+212.55.14.208 11 59 1945902 20180712114348
+85.86.155.209 9 79 2357618 20180710232426
+83.39.71.87 8 58 2102327 20180701185312
+66.102.8.26 7 65 2222342 20180709124446
+90.69.17.198 7 54 1924979 20180712190431
+66.249.93.88 7 7 76409 20180715231222
+52.53.201.78 6 6 85842 20180713064700
+66.249.93.86 6 6 68037 20180717020259
+176.86.69.27 5 25 750380 20180710233612
+13.57.233.99 5 5 71535 20180713115001
+66.102.8.24 4 46 2738456 20180709124444
+193.125.4.107 0 1 43672 
+185.13.106.219 3 43 1760779 20180708193401
+80.103.137.53 3 43 1760779 20180716204439
+196.11.63.178 2 2 146204 20180708004457
+158.69.133.31 0 1 399 
+88.1.248.4 0 1 43672 
+79.151.0.110 0 1 43672 
+82.158.59.83 0 1 43672 
+54.202.3.210 3 43 1760779 20180703132945
+34.221.161.230 3 43 1760779 20180703132903
+83.52.130.216 0 1 117727 
+82.130.175.227 2 22 493469 20180702203538
+66.102.6.184 0 21 731806 
+66.249.84.24 0 13 449744 
+80.103.136.177 0 1 43672 
+66.102.8.22 1 61 2082318 20180709124446
+83.50.139.249 0 1 43672 
+79.114.182.185 2 20 444166 20180713100122
+66.249.84.26 2 20 838698 20180703142007
+66.102.6.182 1 11 811926 20180703142009
+85.61.150.170 0 1 43672 
+201.217.153.194 0 1 43672 
+66.102.6.186 2 11 217047 20180703142009
+171.33.234.195 0 1 323216 
+190.3.243.99 0 1 323216 
+66.249.91.1 2 2 53 20180711161417
+37.10.140.52 3 43 1760779 20180703164005
+104.36.19.63 1 1 14307 20180705020929
+92.187.244.95 1 1 9909 20180717101415
+66.249.84.22 1 10 472337 20180703142002
+31.4.225.205 0 1 43672 
+41.225.146.11 2 2 28614 20180707033209
+217.217.148.60 0 1 43672 
+168.90.86.177 0 1 323216 
+66.249.91.3 1 1 14307 20180711080803
+201.153.144.210 0 1 323216 
+176.83.126.97 0 1 43672 
+83.48.22.238 0 1 43672 
+159.65.163.245 1 1 73102 20180708002626
+148.3.108.17 0 1 43672 
+83.39.42.187 0 1 43672 
+31.184.194.114 4 4 57769 20180712164527
+79.147.201.222 0 1 43672 
+186.48.119.5 0 1 43672 
+95.21.99.10 3 21 676889 20180703144536
+54.202.20.93 3 43 1760779 20180703132950
+90.174.4.51 4 49 1808298 20180704023714
+79.148.22.103 3 43 1760779 20180715000139
+176.83.231.5 0 1 43672 
+66.249.87.24 1 1 53 20180703042938
+159.65.254.64 1 1 14307 20180712173909
+185.131.188.1 0 1 43672 
+195.135.248.50 3 3 25116 20180713100108
+193.162.26.17 0 1 43672 
+179.7.192.38 0 1 323216 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20180701 9 61 2483522 2
+20180702 18 158 5999716 8
+20180703 94 470 16686764 19
+20180704 8 56 1990607 5
+20180705 15 100 3677144 6
+20180706 129 420 9332829 9
+20180707 100 100 1434136 5
+20180708 22 165 5734543 6
+20180709 19 127 4384993 6
+20180710 19 109 3307692 6
+20180711 56 128 3829162 10
+20180712 26 122 4422159 8
+20180713 46 166 4729788 9
+20180714 1 3 160446 1
+20180715 59 128 4393508 3
+20180716 15 128 5004908 3
+20180717 19 68 2355588 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 3
+15mn-30mn 5
+30mn-1h 1
+0s-30s 85
+2mn-5mn 5
+30s-2mn 8
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 105
+/ 296 5472598 76 49
+/user/login 48 402020 16 12
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 40 3009318 4 5
+/themes/gavias_buildpro/fonts/icon/icon.ttf 37 8365752 1 20
+/microcemento 9 106563 2 1
+/contactenos 9 89541 0 0
+/banos-reformados-reformas-de-banos 9 135167 0 1
+/admin/structure/contact/messages 9 155429 0 0
+/obras-menores1 7 124440 1 1
+/contextual/render 7 4461 0 2
+/albaniles 6 83647 0 0
+/impermeabilizaciones 6 80651 0 1
+/rehabilitacion-de-fachadas-reforma-de-fachadas 6 112369 3 3
+/construccion-de-casas 6 79543 0 0
+/admin/structure/contact/messages/10 5 78337 1 1
+/construccion-de-muros 5 65860 0 0
+/parquetistas 4 60869 0 0
+/aislamiento 4 61786 0 1
+/construccion-de-garajes 4 59119 0 1
+/construccion-y-reformas-de-locales-comerciales 4 62098 0 0
+/admin/structure/contact 3 48092 0 0
+/aviso-legal 3 31230 0 1
+/googleb8bc79e3de72efad.html 3 106 3 3
+/marmolistas 3 52248 0 0
+/empresa-de-construccion-en-donostia 3 25344 0 1
+/yeseros 2 42732 0 1
+/admin/structure/contact/messages/14 1 15791 0 0
+/admin/structure/contact/messages/10/edit 1 16878 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.eot 2 41924 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.ttf 1 39956 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-brands-400.woff 1 63716 0 0
+/tejados 2 42055 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.woff 1 23764 0 0
+/pladur 2 41859 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.woff 1 22248 0 0
+/trabajos-verticales 2 41269 0 0
+/sitemap 2 18606 0 0
+/admin/structure 2 31329 0 0
+/admin/structure/contact/messages/12 1 16849 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.eot 2 39028 0 0
+/reformas1 2 56967 0 0
+/themes/gavias_buildpro/fonts/icon/icon.eot 1 232457 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-regular-400.woff2 1 12216 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.woff 1 24568 0 0
+/rehabilitacion-de-edificios 2 43749 0 0
+/admin/structure/contact/messages/delete 2 31945 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-regular-400.ttf 1 30928 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.eot 2 40530 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.ttf 1 37336 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.ttf 1 38412 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 1 22432 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.ttf 1 39076 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff 1 97913 0 0
+/admin/structure/contact/settings 2 32340 0 1
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.ttf 1 40252 0 0
+/modules/custom/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.ttf 1 7407 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.ttf 1 43420 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-solid-900.eot 2 204304 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-solid-900.ttf 1 101932 0 1
+/politica-de-privacidad 1 9561 0 1
+/sitemap.xml 1 2856 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.woff 1 23400 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-solid-900.woff2 1 38760 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.ttf 1 39476 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-regular-400.woff 1 14716 0 0
+/modules/custom/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.woff 1 7491 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.woff 1 23048 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 1 22660 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.woff 1 23188 0 0
+/modules/custom/gavias_sliderlayer/vendor/revolution/css/closedhand.cur 1 121 0 0
+/reformas-de-hoteles 2 41476 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.eot 2 43152 0 0
+/construccion1 3 51384 0 0
+/themes/gavias_buildpro/fonts/icon/icon.woff 1 232405 0 1
+/reformas-viviendas 3 53568 0 0
+/admin/structure/contact/messages/11 1 16285 0 0
+/modules/custom/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.eot 1 7469 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/modules/custom/gavias_sliderlayer/vendor/revolution/css/openhand.cur 1 146 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.eot 2 41070 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.woff 1 23764 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-regular-400.eot 2 62312 0 0
+/obras-menores/pladur 1 8664 1 0
+/eu/igeltseroak 1 9399 1 0
+/reformas-de-cocinas 2 43180 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.ttf 1 38232 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.eot 2 40056 0 0
+/eu 3 78694 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-brands-400.ttf 1 98384 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.ttf 1 38452 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.eot 2 39672 0 0
+/empresa-de-reformas-integrales-en-donostia 2 16912 0 0
+/rehabilitacion-de-cubiertas 2 42546 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.eot 2 196972 0 0
+/politica-de-cookies 3 34866 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-brands-400.woff2 1 54412 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-solid-900.woff 1 48704 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-brands-400.eot 2 197240 0 0
+/pintores 3 53291 0 1
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.eot 2 41710 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.eot 2 40266 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.ttf 1 42024 0 0
+/user/1 2 64242 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.eot 2 39088 1 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.ttf 1 98397 0 0
+END_SIDER

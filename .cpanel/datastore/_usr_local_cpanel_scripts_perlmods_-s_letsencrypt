@@ -1,0 +1,28 @@
+Testing connection speed...(using fast method)...Done
+Ping:1000.0 (ticks) Testing connection speed to cpan.mirrors.ovh.net using pureperl...(cached .. 61884.87 bytes/s)...Done
+Ping:0.011021614074707 (ticks) Testing connection speed to cpan.mirror.triple-it.nl using pureperl...(cached .. 53732.08 bytes/s)...Done
+Ping:0.035419225692749 (ticks) Testing connection speed to mirrors.nxthost.com using pureperl...(cached .. 16186.85 bytes/s)...Done
+Ping:0.0482063293457031 (ticks) Testing connection speed to ftp.agh.edu.pl using pureperl...(cached .. 11493.74 bytes/s)...Done
+Ping:0.0294120311737061 (ticks) Testing connection speed to mirror.host.ag using pureperl...(cached .. 10059.65 bytes/s)...Done
+Five usable mirrors located
+Ping:1000 (ticks) Testing connection speed to 69.73.140.17 using pureperl...(using cached speed)...Done
+Ping:1000 (ticks) Testing connection speed to 67.159.2.2 using pureperl...(using cached speed)...Done
+Ping:0.14211893081665 (ticks) Testing connection speed to 208.109.109.239 using pureperl...(using cached speed)...Done
+Three usable fallback mirrors located
+Fetching http://cpan.mirrors.ovh.net/ftp.cpan.org/index.html (connected:0).......(request attempt 1/12)...Resolving cpan.mirrors.ovh.net...(resolve attempt 1/65)...@213.32.5.7......receiving......request success......Done
+Mirror Check passed for cpan.mirrors.ovh.net (/index.html)
+=MODLIST
+Metabrik::Crypto::Letsencrypt=undef=Metabrik::Crypto::Letsencrypt - latest:undef
+Net::ACME2::LetsEncrypt=undef=Net::ACME2::LetsEncrypt - latest:undef
+Net::ACME::LetsEncrypt=undef=Net::ACME::LetsEncrypt - latest:undef
+Toadfarm::Plugin::Letsencrypt=0.01=Toadfarm::Plugin::Letsencrypt - latest:0.01
+WWW::LetsEncrypt=0.002=WWW::LetsEncrypt - latest:0.002
+WWW::LetsEncrypt::JWA=0.002=WWW::LetsEncrypt::JWA - latest:0.002
+WWW::LetsEncrypt::JWK=0.002=WWW::LetsEncrypt::JWK - latest:0.002
+WWW::LetsEncrypt::JWK::RSA=0.002=WWW::LetsEncrypt::JWK::RSA - latest:0.002
+WWW::LetsEncrypt::JWS=0.002=WWW::LetsEncrypt::JWS - latest:0.002
+WWW::LetsEncrypt::Message=0.002=WWW::LetsEncrypt::Message - latest:0.002
+WWW::LetsEncrypt::Message::Authorization=0.002=WWW::LetsEncrypt::Message::Authorization - latest:0.002
+WWW::LetsEncrypt::Message::Certificate=0.002=WWW::LetsEncrypt::Message::Certificate - latest:0.002
+WWW::LetsEncrypt::Message::Directory=0.002=WWW::LetsEncrypt::Message::Directory - latest:0.002
+WWW::LetsEncrypt::Message::Registration=0.002=WWW::LetsEncrypt::Message::Registration - latest:0.002

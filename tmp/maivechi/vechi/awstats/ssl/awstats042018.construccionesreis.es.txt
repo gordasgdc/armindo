@@ -1,0 +1,991 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /home/armindo/tmp/awstats/ssl/awstats.construccionesreis.es.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2697                
+POS_VISITOR 12872               
+POS_DAY 13857               
+POS_DOMAIN 3631                
+POS_LOGIN 3914                
+POS_ROBOT 4069                
+POS_WORMS 4517                
+POS_EMAILSENDER 4648                
+POS_EMAILRECEIVER 4791                
+POS_SESSION 14195               
+POS_SIDER 14389               
+POS_FILETYPES 4926                
+POS_DOWNLOADS 5310                
+POS_OS 5358                
+POS_BROWSER 5582                
+POS_SCREENSIZE 5936                
+POS_UNKNOWNREFERER 6010                
+POS_UNKNOWNREFERERBROWSER 6345                
+POS_ORIGIN 6461                
+POS_SEREFERRALS 6603                
+POS_PAGEREFS 6766                
+POS_SEARCHWORDS 6967                
+POS_KEYWORDS 7119                
+POS_MISC 2360                
+POS_ERRORS 7178                
+POS_CLUSTER 3770                
+POS_SIDER_404 7398                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180411135809 35315 9588567 15016329485815
+FirstTime 0
+LastTime 20180411135809
+LastUpdate 20180411150510 8868 0 8861 7 0
+TotalVisits 41                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 22                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 62 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 619 1624 22412471 24 98 3995084
+1 399 2333 49394668 67 153 6512663
+2 277 2319 53168692 44 325 15647978
+3 500 4321 54972672 75 85 3042400
+4 591 2108 55265366 82 83 838444
+5 256 941 29587055 128 145 4005831
+6 148 1383 18168809 51 100 1819446
+7 222 2582 32886006 177 337 11320928
+8 166 454 18014397 124 142 6035719
+9 600 2793 55245146 73 101 2602648
+10 381 971 38302335 28 147 2455043
+11 271 1196 34504170 61 131 3407231
+12 182 1009 13637964 49 237 5755888
+13 39 533 7964488 16 59 2283406
+14 0 0 0 10 11 138804
+15 42 86 4466402 6 6 1188
+16 120 635 14185066 24 212 3813022
+17 29 106 2435579 12 51 1023675
+18 9 179 1748072 23 27 1427763
+19 66 281 11983073 15 19 254921
+20 130 860 19062709 31 76 1628651
+21 42 196 6367847 16 24 333292
+22 370 2887 37748616 435 485 22201528
+23 296 2137 33778639 245 297 13322725
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+es 5723 31810 610869519
+ca 15 15 598483
+us 13 105 3529561
+za 4 4 302679
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Googlebot/ 656 9695699 20180411132115 8
+MJ12bot/ 613 48120058 20180407144931 16
+Google[\x20]Web[\x20]Preview 192 1195219 20180411100856 0
+facebookexternalhit/ 38 1758375 20180403163213 0
+bingbot/ 2 3192 20180405184315 2
+curl 1 0 20180406142837 0
+unknown 1 1596 20180408164849 1
+no_user_agent 1 1596 20180403050431 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+woff 25 184724 0 0
+ttf 12 5872896 0 0
+map 9 73920 0 0
+gif 47 275820 0 0
+woff2 32 1404744 0 0
+php 619 706266 0 0
+xml 2 9941 0 0
+jpg 426 21804327 0 0
+body 1 174552 0 0
+js 8145 70504535 0 0
+png 1000 6549296 0 0
+css 14345 48711173 0 0
+full 1 155247 0 0
+html 179 35841624 0 0
+Unknown 4875 421569894 0 0
+svg 2216 1461283 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+ios_iphone 188 5
+macosx 29841 5488
+win10 686 43
+unix 769 182
+Unknown 17 17
+macosx12 5 5
+macosx11 4 4
+linuxandroid 275 5
+linux 2 2
+macosx10 1 1
+ios_ipad 146 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+safari11.0.3 213 9
+chrome61.0.3163.100 5 5
+chrome49.0.2623.75 2 2
+firefox59.0 28507 5299
+chrome45.0.2454.94 1 1
+chrome64.0.3282.190 769 182
+mozilla 16 16
+firefox36.0 3 3
+Unknown 1 1
+safari9.0 146 3
+safari11.0 188 5
+chrome65.0.3325.109 274 4
+firefox38.0 1 1
+safari11.1 167 5
+chrome65.0.3325.181 1641 219
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+WhatsApp/2.18.31_i 20180406222308
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20180408064908
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180405064732
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180408164910
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp/2.18.31_i 20180406222308
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 107 1232
+From1 0 0
+From2 2 2
+From3 4 4
+From4 5642 30696
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://l.facebook.com 3 3
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+400 73 3796
+302 79 47496
+401 9 220575
+403 134 5836237
+503 73 709272
+206 141 3514335
+301 463 173388
+303 327 188740
+404 462 26745115
+500 13 2049
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 66
+/core/themes/stable/css/system/components/sticky-header.module.css 1 https://construccionesreis.es/en
+/themes/gavias_buildpro/vendor/magnific/magnific-popup.css 1 https://construccionesreis.es/en
+/quickedit/metadata 28 https://construccionesreis.es/
+/login 1 -
+/eus/locale 4 https://construccionesreis.es/admin/structure/block/block-content
+/themes/gavias_buildpro/vendor/owl-carousel/assets/owl.theme.default.min.css 1 https://construccionesreis.es/en
+/sites/default/files/banner/brand-dark-2.png 9 https://construccionesreis.es/gavias/eu
+/construcci%C3%B3n 1 -
+/es/taxonomy/term/3/edit 1 -
+/sites/default/files/banner/brand-dark-1.png 9 https://construccionesreis.es/gavias/eu
+/ultimul/ 1 -
+/core/themes/stable/css/system/components/hidden.module.css 1 https://construccionesreis.es/en
+/history//read 20 https://construccionesreis.es/
+/sites/default/files/testimonial/avatar-4.jpg 8 https://construccionesreis.es/gavias/eu
+/es/admin/structure/taxonomy 1 -
+/sites/default/files/styles/square/public/portfolio/portfolio-3.jpg 9 https://construccionesreis.es/gavias/eu
+/sites/default/files/styles/square/public/portfolio/portfolio-1.jpg 7 https://construccionesreis.es/gavias/eu
+/sites/default/files/styles/square/public/portfolio/portfolio-11.jpg 7 https://construccionesreis.es/gavias/eu
+/modules/contrib/vmi/css/vmi.admin.theme.css 49 https://construccionesreis.es/admin/structure/types/manage/reformas/display/full
+/sites/default/files/styles/square/public/portfolio/portfolio-5.jpg 7 https://construccionesreis.es/gavias/eu
+/es/user/password 1 -
+/sites/default/files/banner/brand-dark-4.png 8 https://construccionesreis.es/gavias/eu
+/sites/default/files/languages/es_o2zUrYUltO6ylWGhzIhgi0RigFGpVF58gqnhEUP5c3o.js 43 https://construccionesreis.es/admin/structure/block
+/themes/gavias_buildpro/css/update.css 1 https://construccionesreis.es/en
+/sites/default/files/styles/square/public/gallery/gallery-1.jpg 20 https://construccionesreis.es/gavias/es
+/modules/gavias_sliderlayer/vendor/revolution/css/navigation.css 4 https://construccionesreis.es/en/portfolio
+/sites/default/files/testimonial/avatar-1.jpg 8 https://construccionesreis.es/gavias/eu
+/sites/default/files/styles/square/public/portfolio/portfolio-10.jpg 8 https://construccionesreis.es/gavias/eu
+/modules/contrib/address/css/address.form.css 3 https://construccionesreis.es/en
+/modules/gavias_sliderlayer/vendor/revolution/css/settings.css 4 https://construccionesreis.es/en/portfolio
+/sites/default/files/languages/en_vrWOv-AC3wStdbsORlM7kdSkEn1cv-DOTallPFLjRKQ.js 3 https://construccionesreis.es/en/portfolio
+/sites/default/files/banner/brand-dark-6.png 8 https://construccionesreis.es/gavias/eu
+/sites/default/files/banner/brand-dark-5.png 8 https://construccionesreis.es/gavias/eu
+/eu/node/76 1 -
+/core/themes/stable/css/system/components/resize.module.css 1 https://construccionesreis.es/en
+/sites/default/files/styles/square/public/portfolio/portfolio-12.jpg 8 https://construccionesreis.es/gavias/eu
+/eus/ 1 https://construccionesreis.es/
+/sites/default/files/logo.png 5 https://construccionesreis.es/gavias/eu
+/sites/default/files/languages/es_W4Ev4lsmYXPz1Xz8aOYqSCPkEOVi7ugOk50Pmvf8lEs.js 1 https://construccionesreis.es/admin/modules
+/logo.png 1 -
+/gavias/libraries/font-awesome/css/font-awesome.min.css 5 https://construccionesreis.es/gavias/es/block/1
+/ads.txt 1 -
+/obras_menores 1 -
+/sites/default/files/banner/brand-dark-3.png 9 https://construccionesreis.es/gavias/eu
+/core/themes/stable/css/system/components/item-list.module.css 1 https://construccionesreis.es/en
+/sites/default/files/styles/square/public/gallery/gallery-10.jpg 22 https://construccionesreis.es/gavias/es
+/sites/default/files/styles/square/public/gallery/gallery-12.jpg 22 https://construccionesreis.es/gavias/es
+/modules/gva_blockbuilder/assets/css/frontend.css 5 https://construccionesreis.es/en/portfolio
+/construcci%C3%B3n/ 1 -
+/sites/default/files/styles/square/public/gallery/gallery-11.jpg 23 https://construccionesreis.es/gavias/es
+/en 3 https://www.google.es/
+/modules/gavias_sliderlayer/vendor/revolution/css/layers.css 5 https://construccionesreis.es/en/portfolio
+/obras-menores 1 -
+/sites/default/files/testimonial/avatar-2.jpg 8 https://construccionesreis.es/gavias/eu
+/modules/contrib/eu_cookie_compliance/css/eu_cookie_compliance.css 4 https://construccionesreis.es/en/portfolio
+/es/user/register 1 -
+/es/user/login 1 -
+/blank.gif 4 https://construccionesreis.es/
+/sites/default/files/testimonial/avatar-3.jpg 8 https://construccionesreis.es/gavias/eu
+/taxonomy/term/%7Btaxonomy_term%7D 1 https://construccionesreis.es/admin/structure/page_manager
+/es 2 -
+/node/preview/e3ef3841-d412-4667-85e0-a01a8836d060/node/preview/e3ef3841-d412-4667-85e0-a01a8836d060/full 1 https://construccionesreis.es/
+/sites/default/files/styles/square/public/portfolio/portfolio-8.jpg 8 https://construccionesreis.es/gavias/eu
+/sites/default/files/styles/square/public 3 -
+/sites/default/files/languages/es_F0RbDgj5yVlqy-rYvsgEs5BvwjJDCiGcXz3gtiLVh64.js 10 https://construccionesreis.es/admin/structure/block
+/sites/default/files/styles/square/public/portfolio/portfolio-7.jpg 9 https://construccionesreis.es/gavias/eu
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 22
+95.123.146.92 4474 22164 453759873 20180409072627
+176.86.72.40 1167 8246 128319758 20180411015846
+81.45.33.255 39 533 7964488 20180411135809 20180411132352 /admin/coffee/get-data
+176.86.89.182 29 363 9497324 20180403163133
+158.69.225.36 15 15 598483 20180408164911
+176.86.27.213 5 167 5708493 20180402193226
+88.22.143.214 4 153 4421061 20180403020526
+196.52.84.40 3 3 217205 20180406012210
+37.10.128.222 3 94 778592 20180406222308
+54.67.59.131 3 3 295168 20180408231745
+195.135.248.249 2 90 419930 20180411032423
+54.183.165.74 2 2 190321 20180409065840
+173.252.92.246 2 49 1321630 20180403163241
+66.249.93.58 2 2 85527 20180410122338
+66.249.93.23 1 1 29990 20180411100852
+196.52.84.9 1 1 85474 20180408222406
+64.246.165.50 1 1 104847 20180403084512
+104.236.16.40 1 1 104847 20180405064732
+173.252.92.244 1 14 806017 20180403163241
+173.252.92.242 0 16 207200 
+173.252.92.240 0 1 7729 
+173.252.92.241 0 15 376285 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20180402 6 168 5813340 2
+20180403 38 613 16846940 7
+20180404 3 146 4326674 1
+20180405 166 759 10910775 4
+20180406 2883 11319 293533913 6
+20180407 1177 6645 114747820 3
+20180408 267 3384 31573947 6
+20180409 14 208 2475265 3
+20180410 717 5487 90948653 5
+20180411 484 3205 44122915 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 2
+1h+ 7
+30mn-1h 3
+2mn-5mn 1
+30s-2mn 3
+0s-30s 24
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 598
+/admin/coffee/get-data 1600 43533401 0 11
+/core/install.php 561 374115 1 1
+/quickedit/attachments 477 3236440 0 1
+/batch 290 2144372 0 0
+/ 171 33916686 12 8
+/contextual/render 92 305139 0 0
+/eu/admin/coffee/get-data 82 2215688 0 0
+/quickedit/metadata 62 29046 0 0
+/admin/structure/block 56 12379822 0 0
+/core/modules/statistics/statistics.php 47 0 0 1
+/admin/structure/taxonomy 41 6145303 1 0
+/entity-browser/modal/image_browser 39 641024 0 0
+/node/add/reformas 39 16703685 0 1
+/eu/quickedit/attachments 39 273386 0 0
+/embed/preview/full_html 36 100117 0 0
+/entity-embed/dialog/full_html/media 35 231951 0 0
+/entity-browser/iframe/editor_media_browser 34 702223 0 0
+/admin/structure/block/block-content 31 4703174 0 0
+/admin/content 28 4341950 0 0
+/entity_reference_autocomplete/node/default/TS9kiuhPpAhBisOIYsFGlKH_LXRldfqRbDYvk_nT7YY 27 54 0 0
+/history/1/read 25 250 0 0
+/node/add/page 24 18918869 1 0
+/machine_name/transliterate 22 351 0 0
+/admin/structure/menu/manage/main 22 4216051 0 0
+/admin/modules 22 22816449 0 0
+/eu/taxonomy/term/14/edit 1 173838 0 0
+/admin/config/search/path/filter 3 472861 0 0
+/admin/structure/contact 8 1146366 0 0
+/admin/structure/ds/fields 7 988599 0 0
+/admin/structure/page_manager/manage/homepage/access 2 165191 0 0
+/admin/structure/types/manage/reformas/fields/node.reformas.field_lp_paragraphs 6 1310198 0 0
+/node 7 1601248 0 0
+/block/add 13 1911526 0 0
+/admin/structure/block/list/adminimal_theme 1 189375 0 0
+/admin/structure/menu/item/1/edit 3 602886 0 0
+/gavias/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 4 308640 0 0
+/es/politica-de-privacidad 2 249834 1 0
+/construccion 14 2276288 0 0
+/taxonomy/term/6/edit 1 207343 0 0
+/admin/structure/types/manage/page 7 1626029 0 0
+/eu/history/3/read 1 10 0 0
+/admin/structure/paragraphs_type/bp_block/display 1 193286 0 0
+/admin/structure/types/manage/page/fields/add-field 3 497221 0 0
+/admin/structure/taxonomy/manage/construccion/translate 4 559665 0 0
+/contact 21 2413110 0 0
+/eu/taxonomy/term/23/edit 1 177141 0 0
+/eu/taxonomy/term/18/edit 1 175778 0 0
+/admin/structure/entityqueue/varbase_heroslider_media/varbase_heroslider_media 2 23340 0 0
+/history/4/read 9 90 0 0
+/quickedit/form/block_content/4/body/es/full 2 71528 0 0
+/admin/config/search/path/settings 7 1265564 0 0
+/admin/structure/webform/manage/contact/submission/1/resend 1 167881 0 0
+/eu/taxonomy/term/7/translations/add/es/eu 1 169514 0 0
+/editor/filter_xss/code_html 8 40 0 0
+/eu/user/1 1 189315 0 0
+/admin/config/varbase 1 150212 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_content/direccion/form 1 42347 0 0
+/index.php 1 235377 0 0
+/construcci%C3%B3n/construccion-muros 2 194995 0 0
+/eu/taxonomy/term/6/edit 1 178107 0 0
+/admin/reports/status 6 1039154 0 0
+/gavias/es/admin/structure/block 2 562619 0 0
+/gavias/es/admin/coffee/get-data 20 554420 0 0
+/eu/taxonomy/term/12/edit 1 173757 0 0
+/admin/structure/display-modes/view 4 753440 0 0
+/admin/structure/display-modes/form/add 1 151949 0 0
+/admin/config/people/accounts/translate/eu/edit 6 924983 0 0
+/taxonomy/term/24/translations 1 148981 0 0
+/eu/node/1/translations/add/es/eu 1 1166325 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/page_title_block/form 1 10456 0 0
+/admin/content/media 1 179089 0 0
+/node/preview/d73c0d34-4729-4aad-8a9e-53d483665757/text_teaser_small 1 174260 0 0
+/admin/structure/paragraphs_type/bp_view/fields 1 162038 0 0
+/admin/structure/webform/config/libraries 1 181705 0 0
+/gavias/en/admin/structure/block/manage/languageswitcher 1 133986 0 0
+/admin/structure/contact/manage/contacto 5 816029 0 0
+/admin/structure/contact/manage/contacto/translate/eu/add 2 312794 0 0
+/admin/config/social-api/social-auth 2 276295 0 0
+/admin/structure/contact/manage/contacto/display 3 514424 0 0
+/admin/structure/menu 20 2906210 0 0
+/admin/structure/block/block-content/manage/proba/fields/block_content.proba.field_ppp/storage 1 158478 0 0
+/admin/structure/contact/add 4 580441 0 0
+/taxonomy/term/28/edit 1 181424 0 0
+/eu/taxonomy/term/24/translations/add/es/eu 1 172947 0 0
+/admin/structure/types/manage/landing_page/fields 2 316907 0 0
+/admin/structure/menu/item/3/edit 4 807718 0 0
+/eu/taxonomy/term/5 1 24657 0 0
+/admin/structure/block/manage/top 7 1313370 0 0
+/admin/config/security 1 150531 0 0
+/admin/structure/block/manage/localbusines/settings-tray 1 11350 0 0
+/admin/structure/page_manager/manage/node_view/general 1 129409 0 0
+/node/add/varbase_heroslider_media/ 4 680044 0 0
+/admin/config/system/site-information 2 291597 0 0
+/admin/config/content/formats/manage/full_html 8 2055108 0 0
+/admin/structure/paragraphs_type/bp_view/form-display 1 196555 0 0
+/themes/contrib/vartheme/bootstrap-no-spacing/css/bootstrap-no-spacing.css.map 1 3037 0 0
+/admin/content/files/usage/1 1 149904 0 0
+/admin/structure/taxonomy/manage/obras_menores/add 15 2340373 0 0
+/gavias/eu 3 478842 0 0
+/node/preview/8023c3ca-7d76-4d56-9caa-e9d346d54302/full 2 345001 0 0
+/gavias/en/contextual/render 3 32893 0 0
+/admin/structure/block/add/block_content%3Acf0c0ff6-ee45-471b-bbf3-e5e49af4d842/vartheme 1 196975 0 0
+/admin/structure/types/manage/landing_page/fields/node.landing_page.field_meta_tags 1 168935 0 0
+/admin/structure/block/manage/codigodeidioma/delete 1 153200 0 0
+/admin/appearance/settings/vartheme 8 1917938 0 0
+/admin/structure/block/add/block_content%3A67441773-abaa-4be2-9016-86f461a0a113/vartheme 1 58202 0 0
+/admin/structure/menu/link/taxonomy_menu.menu_link%3Ataxonomy_menu.menu_link.construccion.3/edit 1 197003 0 0
+/node/preview/33085a6a-9032-4d19-8f98-13b84ba9a616/full 2 379640 0 0
+/entity_reference_autocomplete/taxonomy_term/default%3Ataxonomy_term/iiyrMsdpXCD9E8CcmL_3pFKrcVhklyfm0-ZmEAziBBQ 3 1744 0 0
+/eu/taxonomy/term/26/edit 1 177171 0 0
+/admin/structure/webform/manage/contact/submission/1 1 158974 0 0
+/admin/structure/ds/fields/manage_block/idioma/block_config 2 307406 0 0
+/eu/taxonomy/term/27/translations/add/es/eu 1 172953 0 0
+/admin/structure/types/manage/landing_page/form-display 1 212702 0 0
+/admin/structure/block/block-content/manage/proba/fields/block_content.proba.field_ppp 1 221001 0 0
+/contact/contacto 3 486593 0 0
+/admin/structure/ds/fields/manage_token 2 356444 0 0
+/admin/structure/types/manage/reformas/display/default 1 265119 0 0
+/gavias/en 3 654626 0 0
+/autocomplete_deluxe/taxonomy_term/default%3Ataxonomy_term/YHgj3p9CrNliR3eyYW3jd_PW-Cn9ojFXdwjLyRtEyV8 18 168 0 0
+/taxonomy/term/15/translations 1 145727 0 0
+/admin/config/search/path 14 2626275 0 0
+/eu/taxonomy/term/9/translations/add/es/eu 1 169542 0 0
+/admin/structure/types/add 1 221843 0 0
+/taxonomy/term/8/translations 1 145656 0 0
+/admin/structure/block/manage/topbarespanol 1 197504 0 0
+/admin/structure/types/manage/reformas 5 1114519 0 0
+/entity-embed/dialog/full_html/node 5 30423 0 0
+/node/preview/e3ef3841-d412-4667-85e0-a01a8836d060/full 7 855215 0 0
+/admin/config/people/captcha/captcha-points/add 3 466529 0 0
+/admin/structure/types/manage/page/fields/node.page.field_categories 5 249827 0 0
+/user/1 6 1017777 0 0
+/admin/structure/display-modes/view/manage/block_content.full 1 155247 0 0
+/admin/appearance/settings 1 165105 0 0
+/admin/structure/types/manage/varbase_blog 2 452455 0 0
+/admin/structure/webform/add 2 23252 0 0
+/admin/content/node/delete 1 153399 0 0
+/taxonomy/term/28/delete 1 153673 0 0
+/eu/taxonomy/term/14/translations/add/es/eu 1 169581 0 0
+/admin/structure 9 1211012 0 0
+/admin/structure/taxonomy/manage/obras_menores/overview/display 1 177722 0 0
+/admin/config/regional/language/detection/url 1 159738 0 0
+/libraries/font-awesome/fonts/fontawesome-webfont.woff2 2 154320 0 0
+/eu/taxonomy/term/9/edit 1 173797 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/language_block:language_interface/form 1 10629 0 0
+/eu/taxonomy/term/22/edit 1 177225 0 0
+/eu/taxonomy/term/4 1 24650 0 0
+/admin/config/content/pathologic 2 299168 1 0
+/admin/structure/menu/manage/main/translate 1 153543 0 0
+/eu/history/4/read 3 30 0 0
+/admin/config/search/path/patterns/reforma 2 306787 0 0
+/admin/people 2 365185 0 0
+/admin/structure/webform/config/handlers 1 182494 0 0
+/admin/structure/webform/config/advanced 1 179653 0 0
+/admin/structure/menu-position/add 2 467495 0 0
+/admin/structure/taxonomy/add 6 968560 0 0
+/admin/structure/types/manage/landing_page/fields/node.landing_page.field_description 1 158057 0 0
+/dropzonejs/upload 11 972 0 0
+/admin/structure/types/manage/reformas/translate 2 288337 0 0
+/taxonomy/term/12/translations 1 145675 0 0
+/taxonomy/term/18/translations 1 147613 0 0
+/themes/contrib/vartheme/bootstrap-print/css/bootstrap-print-sm.css.map 1 1848 0 0
+/eu/taxonomy/term/4/translations/add/es/eu 1 173878 0 0
+/admin/config/services 1 150872 0 0
+/node/1 8 1359115 0 0
+/eu/taxonomy/term/24/edit 1 177105 0 0
+/admin/structure/block/add/block_content%3Ab175f594-818d-4bd9-aef9-b53f6f623d83/vartheme 1 196233 0 0
+/admin/structure/types/manage/page/form-display 5 886890 0 0
+/gavias/eu/history/4/read 1 10 0 0
+/gavias/es/admin/structure/block/manage/gavias_buildpro_topbar 1 136790 0 0
+/admin/structure/taxonomy/manage/obras_menores/overview 6 965108 0 0
+/taxonomy/term/16/translations 1 147558 0 0
+/eu/taxonomy/term/27/edit 1 177106 0 0
+/admin/structure/taxonomy_menu/blog_categories_menu 2 354183 0 0
+/themes/gavias_buildpro/fonts/icon/icon.ttf 8 3915264 1 2
+/admin/structure/taxonomy/manage/contacto/overview 1 150518 0 0
+/admin/config/regional/content-language 19 10715220 0 0
+/admin/structure/block/block-content/manage/basic/form-display 3 470561 0 0
+/admin/structure/page_manager 3 392533 0 0
+/eu/taxonomy/term/16/translations/add/es/eu 1 171575 0 0
+/eu 16 3149795 1 0
+/admin/structure/types/manage/reformas/fields/node.reformas.field_description 1 159687 0 0
+/eu/admin/structure/taxonomy/manage/construccion/overview/fields 1 147950 0 0
+/taxonomy/term/7/translations 1 145664 0 0
+/admin/config/search/path/patterns/blog_tags 1 159315 0 0
+/admin/reports/translations 5 804962 0 0
+/admin/structure/types/manage/page/fields 7 1125899 0 0
+/admin/config/search/path/patterns/grupoconstruccion 1 163362 0 0
+/admin/structure/menu-position/settings 1 154856 0 0
+/taxonomy/term/2/edit 1 172456 0 0
+/gavias/es/admin/config 1 110124 0 0
+/eu/admin/structure/taxonomy/manage/construccion/overview 1 158588 0 0
+/taxonomy/term/4/translations 1 143900 0 0
+/admin/structure/block/block-content/manage/direccion/fields/block_content.direccion.body 1 174552 0 0
+/admin/structure/ds 7 1089299 0 0
+/es/aviso-legal 1 208823 0 0
+/admin/config/regional/language/detection 6 1125499 0 0
+/admin/config/content 4 589215 0 0
+/eu/taxonomy/term/15/translations/add/es/eu 1 169626 0 0
+/admin/config/content/entity_browser 2 308522 0 0
+/admin/structure/display-modes/view/add 1 151938 0 0
+/admin/structure/display-modes/form/add/node 1 153533 0 0
+/eu/contact 6 746790 0 0
+/admin/config/varbase/varbase-bootstrap-paragraphs 1 155160 0 0
+/admin/structure/types/manage/page/display/full 7 1253914 1 0
+/eu/admin/structure/taxonomy 5 758645 0 0
+/admin/structure/block/block-content/manage/direccion/fields 1 154808 0 0
+/admin/config/search/path/patterns/categoria_obras_menores 2 307153 0 0
+/admin/structure/block/list/vartheme_admin 1 194773 0 0
+/eu/taxonomy/term/17/edit 1 175696 0 0
+/admin/config/people/captcha/recaptcha 2 302006 0 0
+/node/4 2 359217 0 0
+/admin/structure/taxonomy_menu/construccion 7 1375419 0 0
+/en/admin/coffee/get-data 6 143562 0 0
+/admin/structure/webform/submissions/manage 1 165990 0 0
+/media/1 1 159189 0 0
+/taxonomy/term/3/edit 4 796159 0 0
+/node/preview/d73c0d34-4729-4aad-8a9e-53d483665757/full 13 2227341 0 0
+/taxonomy/term/9/translations 1 145684 0 0
+/admin/config/user-interface/responsive-preview 1 144653 0 0
+/admin/config/search/metatag 7 1120830 0 0
+/history/3/read 14 140 0 0
+/admin/config/regional/translate 2 392967 0 0
+/themes/contrib/vartheme/bootstrap-print/css/bootstrap-print.css.map 1 2131 0 0
+/taxonomy/term/18/edit 1 201067 0 0
+/media/add/image 2 168313 0 0
+/gavias/eu/admin/coffee/get-data 1 26329 0 0
+/admin/config/regional/language/icons 7 1036555 0 0
+/admin/structure/webform 6 965940 0 0
+/linkit/dialog/linkit/full_html 1 5583 0 0
+/admin/structure/contact/manage/contacto/form-display/add-group 2 310039 0 0
+/construcci%C3%B3n/construccion-edificios 1 24733 0 0
+/core/install.php/system/timezone/CEST/7200/1 2 31173 0 0
+/form/contact 12 1593540 0 0
+/entity_reference_autocomplete/taxonomy_term/default%3Ataxonomy_term/TUm03wbmCQmEnD6U9EGBJ6fWgSvHMiPCmxTXxv3k2wU 7 3597 0 0
+/admin/modules/list/confirm 1 122968 0 0
+/gavias/en/admin/coffee/get-data 5 129355 0 0
+/admin/structure/webform/config 2 411432 0 0
+/reforma-de-bano 13 2042424 0 0
+/gavias/themes/gavias_buildpro/fonts/icon/icon.ttf 4 1957632 0 0
+/admin 6 887190 0 0
+/admin/structure/taxonomy/manage/reforma/translate 2 273583 0 0
+/admin/structure/block/manage/alternadordeidiomatextodelainterfaz 6 1285903 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/entity_view:user/form 1 10935 0 0
+/admin/dashboard 4 653865 0 0
+/admin/structure/webform/manage/contact/submission/1/table 1 158773 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_content/basic/form 1 38966 0 0
+/admin/structure/types/manage/landing_page 2 450623 0 0
+/admin/structure/block/block-content/manage/proba/fields/block_content.proba.body/delete 1 153675 0 0
+/admin/config/media/ckeditor-media-embed/settings 3 413822 0 0
+/gavias/es/admin/structure/block/block-content 1 127414 0 0
+/admin/structure/display-modes/form 2 275377 0 0
+/core/authorize.php/core/authorize.php 1 80 0 0
+/es/history/92/read 1 10 0 1
+/admin/structure/display-modes/form/manage/user.register 1 155185 0 0
+/admin/structure/types 21 3056881 0 0
+/admin/structure/webform/plugins/elements 1 324391 0 0
+/admin/config/people/accounts/translate 5 571801 0 0
+/admin/structure/types/manage/page/display 6 1536455 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/language_block%3Alanguage_interface/block/08110185-38d5-4c72-af9d-d105e4cbc2c5/form 3 46140 0 0
+/gavias/es/block/2 2 303403 0 0
+/admin/structure/taxonomy/manage/construccion/overview 18 2674377 0 0
+/admin/structure/webform/manage/contact/submission/1/text 1 158749 0 0
+/en/contextual/render 5 78440 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/language_block:language_content/form 2 19435 0 0
+/profiles/varbase/modules/varbase_features/varbase_tour/css/theme/tour.default.theme.css.map 1 1297 0 0
+/admin/config/content/embed/settings 1 151986 0 0
+/admin/structure/block/demo/vartheme 3 474574 0 0
+/taxonomy/term/16/edit 3 585265 0 0
+/eu/taxonomy/term/8/translations/add/es/eu 1 169518 0 0
+/admin/structure/taxonomy/manage/blog_categories 2 335672 0 0
+/eu/taxonomy/term/26/translations/add/es/eu 1 173024 0 0
+/taxonomy/term/14/translations 1 145733 0 0
+/admin/config/search/metatag/add 5 4375585 0 0
+/admin/structure/taxonomy/manage/obras_menores 1 174294 0 0
+/admin/config/workflow 2 300402 0 0
+/eu/taxonomy/term/5/edit 1 178105 0 0
+/gavias/en/user/1 1 203559 0 0
+/media/1/delete 1 152865 0 0
+/sitemap.xml 2 9941 0 0
+/eu/taxonomy/term/20/edit 1 177188 0 0
+/admin/structure/types/manage/reformas/fields/node.reformas.field_reformas/storage 1 163154 0 0
+/admin/structure/block/manage/alternadordeidiomacontenido/settings-tray 3 26329 0 0
+/admin/structure/block/manage/idioma/settings-tray 1 11286 0 0
+/admin/structure/types/manage/reformas/fields/node.reformas.field_meta_tags 1 169820 0 0
+/eu/taxonomy/term/3/translations/add/es/eu 2 334477 0 0
+/admin/structure/menu/item/2/edit 1 204299 0 0
+/update.php/selection 7 70398 0 0
+/core/assets/vendor/jquery-once/jquery.once.min.js.map 1 834 0 0
+/block/add/basic 5 852972 0 0
+/user/login 11 249806 3 1
+/admin/structure/ds/classes 5 724701 0 0
+/admin/structure/webform/config/options/manage 1 221291 0 0
+/admin/config/regional/language 9 1426785 0 0
+/admin/structure/types/manage/reformas/form-display 17 2301087 0 0
+/admin/structure/block/add/block_content%3A08b1a6c5-0e03-46c7-b04e-469ac367d6c7/vartheme 1 196775 0 0
+/admin/structure/taxonomy/manage/reforma 1 166081 0 0
+/entity_reference_autocomplete/taxonomy_term/default%3Ataxonomy_term/HnAEDpUSFppZqrpfTuWE9RoBPZaz2gTbF2PpNCQSCEo 11 7141 0 1
+/admin/structure/block/block-content/types 9 1378197 0 0
+/taxonomy/term/10/translations 1 145668 0 0
+/admin/structure/taxonomy/manage/tags/overview 4 579589 0 0
+/entity_clone/block_content/7 1 152733 0 0
+/eu/contextual/render 14 74219 0 0
+/admin/config/services/google-analytics-reports-api 9 1291299 0 0
+/eu/taxonomy/term/25/edit 1 177105 0 0
+/eu/taxonomy/term/21/translations/add/es/eu 1 172982 0 0
+/admin/structure/block/add/language_block%3Alanguage_content/vartheme 1 59930 0 0
+/profiles/varbase/modules/varbase_features/varbase_media/css/varbase_media.common_logged.css.map 1 2810 0 0
+/admin/structure/block/block-content/manage/proba/form-display 1 169334 0 0
+/admin/structure/block/manage/alternadordeidiomacontenido 5 984074 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/layouts/bs_1col 1 2 0 0
+/admin/structure/paragraphs_type/bp_view 1 159289 0 0
+/admin/config/search/path/patterns/blog_categories 3 469357 0 0
+/admin/config/regional/language/detection/selected 1 167082 0 0
+/admin/structure/block/add/block_content%3Ad495603d-739f-4d3a-b78b-996f3cc81dbc/vartheme 1 58232 0 0
+/admin/structure/taxonomy/manage/construccion/translate/eu/edit 1 155561 0 0
+/admin/config/content/embed 3 420883 0 0
+/admin/config/system 2 264875 0 0
+/admin/config/yoast_seo 1 155383 0 0
+/admin/structure/contact/manage/personal/fields 1 148565 0 0
+/profiles/varbase/modules/varbase_features/varbase_media/css/varbase_media.common.css.map 1 823 0 0
+/modules/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.woff 2 15072 0 1
+/gavias/es/admin/config/people/accounts 1 138605 0 0
+/themes/contrib/vartheme/bootstrap/fonts/glyphicons-halflings-regular.woff2 18 324504 0 1
+/admin/structure/taxonomy/manage/construccion/translate/eu/add 1 145883 0 0
+/admin/config/search/path/patterns 19 3044155 0 0
+/admin/structure/taxonomy/manage/blog_categories/overview 8 1041312 0 0
+/admin/structure/types/manage/reformas/display 18 2900450 0 0
+/admin/structure/types/manage/reformas/fields/node.reformas.field_image 6 406260 0 0
+/eu/taxonomy/term/13/edit 1 173811 0 0
+/admin/structure/ds/fields/manage_copy 1 161385 0 0
+/taxonomy/term/23/translations 1 148995 0 0
+/taxonomy/term/6/translations 1 143887 0 0
+/editor/filter_xss/visual_editor 4 20 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 8 617280 0 1
+/blog 1 167958 0 0
+/admin/structure/block/block-content/manage/proba 1 160995 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/language_block:language_content/block/066b6604-2779-4def-b77f-2f3ad5c80d6f/form 1 9985 0 0
+/gavias/es 6 1651284 0 0
+/construcci%C3%B3n/construccion-casas 2 195742 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/language_block%3Alanguage_interface/form 1 14775 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/local_tasks_block/form 2 25206 0 0
+/user/1/edit 3 557387 0 0
+/node/add 3 452579 0 0
+/admin/config 10 1642043 0 0
+/blog/categories/construccion 1 152380 0 0
+/admin/config/search/path/delete_bulk 2 300259 0 0
+/admin/structure/types/manage/reformas/translate/eu/add 1 155448 0 0
+/admin/config/search/search-api 1 153961 0 0
+/admin/structure/types/manage/reformas/display/horizontal_media_teaser_small 1 252893 0 0
+/admin/people/permissions 2 4329563 0 0
+/admin/structure/block/add/language_block%3Alanguage_interface/vartheme 1 59988 0 0
+/admin/structure/block/block-content/manage/proba/display 1 174346 0 0
+/block/2 10 2978898 0 0
+/entity_reference_autocomplete/media/default%3Amedia/urC_PTjZx-uvjQwOS5lkKvzgGC0JhHa1xCcPxR5m_n8 1 2 0 0
+/admin/config/system/site-information/translate 2 230958 0 0
+/admin/structure/taxonomy_menu/add 2 199777 0 0
+/admin/config/regional/language/detection/session 1 124264 0 0
+/eu/admin/structure/taxonomy/manage/contacto/overview/fields 1 147868 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/layouts/bs_1col/tempstore 1 2 0 0
+/admin/config/regional 11 1558758 0 0
+/eu/taxonomy/term/23/translations/add/es/eu 1 172959 0 0
+/eu/taxonomy/term/10/translations/add/es/eu 1 169524 0 0
+/eu/taxonomy/term/3/edit 1 178071 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/block_content:b137b5b9-7a08-4f18-9ce9-66a6a3a06954/block/2276ba9c-6346-467b-88df-e41ddd9358f8/form 1 8591 0 0
+/node/3/edit 8 8730951 0 0
+/token/tree 5 2796427 0 0
+/eu/taxonomy/term/6/translations/add/es/eu 1 173866 0 0
+/eu/taxonomy/term/10/edit 1 173747 0 0
+/taxonomy/term/20/translations 1 149023 0 0
+/admin/structure/webform/config/elements 1 438116 0 0
+/admin/config/development/performance 9 1366040 0 0
+/paragraphs-previewer/form/form-bk-LhGH27tNuXbFnBlGAks-rgHrCQPmct7_h0ksMVkc/field_lp_paragraphs%3A0 2 84516 0 0
+/block/6 4 717060 0 0
+/taxonomy/term/2/delete 1 143356 0 0
+/eu/taxonomy/term/19/translations/add/es/eu 1 171512 0 0
+/eu/taxonomy/term/21/edit 1 177141 0 0
+/admin/reports/updates 4 899829 0 0
+/taxonomy/term/11/translations 1 145752 0 0
+/eu/taxonomy/term/15/edit 1 173828 0 0
+/block/1 1 174567 0 0
+/eu/taxonomy/term/17/translations/add/es/eu 1 171486 0 0
+/admin/theme/install 1 152514 0 0
+/construcci%C3%B3n/construccion-garajes 1 24713 0 0
+/admin/structure/block/manage/gbh 1 197892 0 0
+/entity_reference_autocomplete/taxonomy_term/default%3Ataxonomy_term/e2ySv-pGttEYrvBnJ7VfFoLgIsWhAsgNfN05LIKMnTY 2 1536 0 0
+/eu/taxonomy/term/3 1 24635 0 0
+/admin/structure/types/manage/reformas/fields/node.reformas.field_reformas 4 229106 0 0
+/gavias/es/contextual/render 2 17923 0 0
+/update.php 7 76337 0 0
+/admin/structure/display-modes/view/add/paragraph 1 153579 0 0
+/en/history/4/read 6 60 0 2
+/block/8 2 372376 0 0
+/admin/structure/page_manager/manage/homepage/general 4 556887 0 0
+/node/2/edit 1 1199605 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/system_branding_block/form 1 14960 0 0
+/admin/structure/block/block-content/manage/proba/fields 4 588790 0 0
+/eu/taxonomy/term/7/edit 1 173739 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/cancel 2 4 0 0
+/admin/config/security/password-policy/default_policy/general 1 155346 0 0
+/admin/config/content/formats/manage/visual_editor 2 554793 0 0
+/admin/config/content/content_lock 1 333858 0 0
+/admin/structure/taxonomy/manage/reforma/add 14 2156477 0 0
+/webform/template_contact/preview 1 8194 0 0
+/taxonomy/term/27/translations 1 148988 0 0
+/admin/structure/types/manage/varbase_blog/fields/node.varbase_blog.field_image 1 171795 0 0
+/admin/structure/types/manage/reformas/fields/node.reformas.body/delete 1 152536 0 0
+/taxonomy/term/25/translations 1 148988 0 0
+/eu/taxonomy/term/4/edit 1 178095 0 0
+/taxonomy/term/13/translations 1 145682 0 0
+/admin/structure/types/manage/reformas/fields/node.reformas.field_tags 5 246340 0 0
+/entity_clone/node/1 1 152922 0 0
+/admin/content/files 1 154421 0 0
+/admin/structure/block/block-content/manage/basic/display/add-group 1 155515 0 0
+/taxonomy/term/17/translations 1 147559 0 0
+/core/assets/vendor/backbone/backbone-min.map 1 33550 0 0
+/admin/structure/types/manage/page/fields/node.page.field_tags 6 269073 0 0
+/node/preview/d73c0d34-4729-4aad-8a9e-53d483665757/teaser 1 173845 0 0
+/admin/config/people/captcha 7 1116861 0 0
+/admin/config/media/file-system 1 159243 0 0
+/editor/filter_xss/basic_html 2 338 0 0
+/admin/structure/types/manage/varbase_blog/form-display 2 439633 0 0
+/node/1/edit 16 6037500 0 0
+/admin/structure/types/manage/reformas/fields/add-field 8 1170270 0 0
+/node/preview/8023c3ca-7d76-4d56-9caa-e9d346d54302/teaser 1 172445 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_content/types 1 392 0 0
+/admin/structure/block/block-content/manage/basic/translate 1 153678 0 0
+/admin/structure/taxonomy/manage/construccion 7 1164551 0 0
+/eu/taxonomy/term/6 1 24653 0 0
+/taxonomy/term/4/edit 2 386135 0 0
+/admin/structure/block/manage/idioma 4 792051 0 0
+/admin/config/search/path/patterns/hierarchical_paths_for_basic_pages 1 161998 0 0
+/admin/config/user-interface/coffee 1 126573 0 0
+/block/add/proba 6 324135 0 0
+/admin/config/search/path/update_bulk 5 733394 0 0
+/admin/config/social-api/social-auth/facebook 1 141139 0 0
+/admin/structure/taxonomy/manage/tags 1 171207 0 0
+/admin/config/search/redirect/404 1 172446 0 0
+/admin/config/system/site-information/translate/eu/add 1 125860 0 0
+/eu/taxonomy/term/13/translations/add/es/eu 1 169537 0 0
+/admin/config/search/metatag/node__page 2 1718585 0 0
+/gavias/modules/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.woff 3 22608 0 0
+/eu/taxonomy/term/11/translations/add/es/eu 1 169597 0 0
+/obras-menores 1 169576 0 0
+/eu/taxonomy/term/16/edit 1 175696 0 0
+/admin/structure/page_manager/add 1 158851 0 0
+/admin/structure/webform/manage/contact/submission/1/yaml 1 159180 0 0
+/modules/contrib/panels/panels_ipe/fonts/ipeicons.woff 19 49020 0 0
+/admin/structure/types/manage/reformas/fields/node.reformas.field_lp_paragraphs/storage 2 312510 0 0
+/admin/structure/types/manage/reformas/fields 19 2896996 0 0
+/admin/config/search/metatag/node__landing_page 1 859190 0 0
+/gavias/es/admin/structure/field_collections/manage/field_team_social/display 1 128006 0 0
+/admin/structure/menu/parents 17 5674 0 0
+/admin/structure/ds/emergency 1 154789 0 0
+/admin/structure/display-modes 2 271952 0 0
+/entity_reference_autocomplete/media/default%3Amedia/UVagnG2OBkWBu5ls23b6vXJ481N8DfDeTNEiSPN2ARc 2 4 0 0
+/admin/config/user-interface/responsive-preview/add 1 127962 0 0
+/admin/structure/webform/templates 2 303888 0 0
+/googleb8bc79e3de72efad.html 2 106 1 1
+/admin/config/development/maintenance 21 3064146 1 0
+/admin/config/content/embed/button/manage/node 1 186336 0 0
+/admin/structure/taxonomy/manage/tags/add 3 515222 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff 1 98024 0 0
+/node/add/varbase_blog 18 8085831 0 0
+/admin/structure/menu-position 3 442959 0 0
+/admin/config/regional/language/delete/fr 1 166430 0 0
+/admin/structure/contact/manage/contacto/fields 3 455287 0 0
+/eu/node/3 1 168972 0 0
+/admin/structure/block/block-content/types/add 5 770282 0 0
+/admin/config/content/entity_browser/image_browser 1 161048 0 0
+/admin/structure/block/library/vartheme 10 1252778 0 0
+/taxonomy/term/22/translations 1 149086 0 0
+/admin/structure/menu/manage/main/add 4 798020 0 0
+/admin/config/people/captcha/examples 2 283287 0 0
+/admin/structure/types/manage/landing_page/display 1 203522 0 0
+/node/1/translations 1 153742 0 0
+/admin/structure/ds/settings 2 323934 0 0
+/admin/structure/block/add/block_content%3Aded41256-2113-441a-89ed-5103ea161412/vartheme 1 196509 0 0
+/taxonomy/term/10/edit 1 174489 0 0
+/gavias/en/user/login 1 39513 0 0
+/admin/structure/contact/manage/contacto/fields/add-field 2 311087 0 0
+/admin/structure/ds/fields/manage_block 4 736341 0 0
+/admin/config/content/embed/button/manage/media 3 602488 0 0
+/eu/taxonomy/term/8/edit 1 173761 0 0
+/eu/quickedit/metadata 1 210 0 0
+/taxonomy/term/3/translations 1 143899 0 0
+/entity-browser/modal/heroslider_media_browser 4 87939 0 0
+/admin/structure/taxonomy_menu 14 1985787 1 0
+/admin/structure/block/manage/topbarespanol/delete 1 151515 0 0
+/editor/dialog/image/full_html 1 11363 1 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/masquerade/form 1 9884 0 0
+/taxonomy/term/21/translations 1 149052 0 0
+/eu/taxonomy/term/11/edit 1 173870 0 0
+/media/add 2 300554 0 0
+/admin/config/content/content_lock/timeout 1 156715 0 0
+/contact/ 1 170630 0 0
+/entity_browser/media/3/edit 1 19024 0 0
+/admin/appearance/settings/gavias_buildpro 3 493754 0 0
+/node/preview/d73c0d34-4729-4aad-8a9e-53d483665757/vertical_media_teaser_medium 1 174485 0 0
+/admin/config/search/path/patterns/add 12 970683 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins 5 51151 0 0
+/admin/reports/updates/update 5 696182 0 0
+/admin/config/content/formats 9 1405456 0 0
+/visual-editor/component/form/ajax 3 24829 0 0
+/gavias/en/admin/config 1 106978 0 0
+/admin/structure/block/add/entity_field%3Auser%3Alangcode/vartheme 1 63771 0 0
+/admin/config/search/redirect/settings 1 163528 0 0
+/block/add/direccion 2 339704 0 0
+/es/history/93/read 1 10 0 0
+/admin/config/search/path/patterns/hierarchical_paths_for_landing_pages 1 162022 0 0
+/admin/structure/contact/manage/contacto/translate 3 443619 0 0
+/eu/taxonomy/term/20/translations/add/es/eu 1 172983 0 0
+/admin/structure/block/manage/codigodeidioma 1 203073 0 0
+/taxonomy/term/19/translations 1 147550 0 0
+/media/11/edit 1 166718 0 0
+/admin/structure/menu/manage/main/translate/eu/edit 1 156375 0 0
+/admin/structure/menu/item/7/edit 3 625849 0 0
+/admin/structure/taxonomy/manage/construccion/add 7 1159709 0 0
+/gavias/es/history/4/read 7 70 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/language_block%3Alanguage_content/block/066b6604-2779-4def-b77f-2f3ad5c80d6f/form 1 14205 0 0
+/admin/structure/taxonomy/manage/reforma/overview 7 1007529 0 0
+/admin/config/search/redirect 2 310159 0 0
+/admin/structure/block/block-content/manage/basic 2 304230 0 0
+/taxonomy/term/5/translations 1 143915 0 0
+/media/add/video 1 160785 0 0
+/admin/config/people/captcha/captcha-points 1 157898 0 0
+/editor/filter_xss/full_html 8 368 0 0
+/admin/structure/types/manage/varbase_blog/fields 4 591663 0 0
+/admin/config/varbase/settings 1 152301 0 0
+/admin/structure/taxonomy/manage/blog_categories/add 5 746182 0 0
+/admin/structure/types/manage/reformas/fields/node.reformas.field_yoast_seo 1 161222 0 0
+/en 15 2567935 12 6
+/core/authorize.php 2 20357 0 0
+/admin/structure/webform/config/translate 1 156922 0 0
+/eu/taxonomy/term/25/translations/add/es/eu 1 172953 0 0
+/admin/config/development 2 315147 0 0
+/admin/config/search 3 437042 0 0
+/admin/structure/webform/manage/contact/submission/1/edit 1 164407 0 0
+/node/add/varbase_blog/ 1 1074158 0 0
+/es/contextual/render 2 24926 0 0
+/node/add/varbase_heroslider_media 1 1026 0 0
+/gavias/eu/contextual/render 1 16838 0 0
+/node/4/edit 6 628658 0 0
+/taxonomy/term/5/edit 2 414438 0 0
+/admin/appearance 11 1806663 2 0
+/admin/structure/types/manage/reformas/display/text_teaser_small 1 250640 0 0
+/admin/structure/block/manage/top/settings-tray 3 30032 0 0
+/admin/structure/types/manage/varbase_blog/display 1 256958 0 0
+/admin/structure/block/list/vartheme 16 3673567 0 0
+/block/4 4 672585 0 0
+/admin/structure/contact/manage/contacto/display/add-group 1 155129 0 0
+/admin/config/search/search-api/server/database_server/edit 1 165977 0 0
+/eu/taxonomy/term/12/translations/add/es/eu 1 169531 0 0
+/admin/config/search/metatag/global 1 860438 0 0
+/admin/structure/contact/manage/contacto/form-display 3 533384 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/language_block%3Alanguage_content/form 1 13665 0 0
+/node/add/landing_page 5 4293544 0 0
+/admin/config/regional/settings 2 429253 0 0
+/admin/config/system/smtp 2 345358 0 0
+/admin/structure/webform/manage/contact/submission/1/notes 1 164229 0 0
+/admin/config/people/accounts 2 330847 0 0
+/admin/structure/block/block-content/manage/basic/display 18 1709277 0 0
+/gavias/en/history/4/read 2 20 0 0
+/admin/config/regional/config-translation 2 340700 0 0
+/admin/config/social-api 2 271274 0 0
+/taxonomy/term/26/translations 1 149072 0 0
+/construccionesreis 3 478098 0 0
+/admin/structure/webform/addons 1 178446 0 0
+/admin/config/regional/language/delete/de 1 166431 0 0
+/admin/structure/taxonomy/manage/contacto/add 1 174916 0 0
+/eu/etxeen-eraikuntzak 3 427211 0 0
+/gavias/es/admin/structure/field_collections 1 101829 0 0
+/admin/config/system/mailsystem 1 174637 0 0
+/admin/structure/types/manage/reformas/display/teaser 1 207309 0 0
+/admin/structure/display-modes/form/add/block_content 2 289924 0 0
+/block/7 17 3007469 0 0
+/admin/structure/types/manage/reformas/display/full 5 1064657 0 0
+/gavias/es/block/1 3 456363 0 0
+/admin/structure/ds/fields/manage_block/idioma 2 373769 0 0
+/eu/taxonomy/term/22/translations/add/es/eu 1 173037 0 0
+/eu/taxonomy/term/19/edit 1 177141 0 0
+/admin/structure/types/manage/landing_page/fields/node.landing_page.field_lp_paragraphs 1 217099 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/block_plugins/language_block:language_interface/block/08110185-38d5-4c72-af9d-d105e4cbc2c5/form 4 44534 0 0
+/admin/structure/block/manage/vartheme_breadcrumbs 1 198268 0 0
+/es/admin/coffee/get-data 2 51554 0 0
+/admin/structure/block/block-content/manage/proba/fields/add-field 1 159733 0 0
+/taxonomy/term/1/delete 1 125514 0 0
+/admin/structure/taxonomy/manage/reforma/translate/eu/add 1 147406 0 0
+/eu/taxonomy/term/18/translations/add/es/eu 1 171586 0 0
+/admin/config/social-api/social-auth/google 1 169647 0 0
+/admin/config/security/password-policy 1 152582 0 0
+/eu/embed/preview/full_html 4 15904 0 0
+/eu/admin/structure 2 281724 0 0
+/admin/help 1 135492 0 0
+/core/assets/vendor/underscore/underscore-min.map 1 27590 0 0
+/eu/taxonomy/term/5/translations/add/es/eu 1 173890 0 0
+/admin/panels_ipe/variant/page_manager/homepage-panels_variant-0/layouts 1 8485 0 0
+/quickedit/form/block_content/7/body/es/full 1 32617 0 0
+END_SIDER

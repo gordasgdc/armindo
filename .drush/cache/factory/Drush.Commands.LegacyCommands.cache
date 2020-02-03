@@ -1,0 +1,266 @@
+{
+    "cid": "Drush\\Commands\\LegacyCommands",
+    "data": {
+        "disable": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "disable",
+            "mtime": 1527094040,
+            "name": "pm:disable",
+            "description": "Drupal 8 does not support disabling modules. See pm:uninstall command.",
+            "help": "",
+            "aliases": [
+                "dis",
+                "pm-disable"
+            ],
+            "annotations": {
+                "command": "pm:disable",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "info": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "info",
+            "mtime": 1527094040,
+            "name": "pm:info",
+            "description": "The pm-info command was deprecated. Please see `drush pm:list` and `composer show`",
+            "help": "",
+            "aliases": [
+                "pmi",
+                "pm-info"
+            ],
+            "annotations": {
+                "command": "pm:info",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "projectInfo": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "projectInfo",
+            "mtime": 1527094040,
+            "name": "pm:projectinfo",
+            "description": "The pm-projectinfo command was deprecated. Please see `drush pm:list` and `composer show`",
+            "help": "",
+            "aliases": [
+                "pm-projectinfo"
+            ],
+            "annotations": {
+                "command": "pm:projectinfo",
+                "allow-additional-options": "",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "refresh": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "refresh",
+            "mtime": 1527094040,
+            "name": "pm:refresh",
+            "description": "The pm-refresh command was deprecated. It is no longer useful.",
+            "help": "",
+            "aliases": [
+                "rf",
+                "pm-refresh"
+            ],
+            "annotations": {
+                "command": "pm:refresh",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "updatestatus": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "updatestatus",
+            "mtime": 1527094040,
+            "name": "pm:updatestatus",
+            "description": "The pm-updatestatus command was deprecated. Please see `composer show` and `composer outdated`. For security release notification, see `drush pm:security`.",
+            "help": "",
+            "aliases": [
+                "ups",
+                "pm-updatestatus"
+            ],
+            "annotations": {
+                "command": "pm:updatestatus",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "updatecode": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "updatecode",
+            "mtime": 1527094040,
+            "name": "pm:updatecode",
+            "description": "The pm-updatecode command was deprecated. Please see `composer outdated` and `composer update`. For security release notification, see `drush pm:security`.",
+            "help": "",
+            "aliases": [
+                "upc",
+                "pm-update",
+                "pm-updatecode"
+            ],
+            "annotations": {
+                "command": "pm:updatecode",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "releaseNotes": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "releaseNotes",
+            "mtime": 1527094040,
+            "name": "pm:releasenotes",
+            "description": "The pm-releasenotes command was deprecated. No replacement available.",
+            "help": "",
+            "aliases": [
+                "rln",
+                "pm-releasenotes"
+            ],
+            "annotations": {
+                "command": "pm:releasenotes",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "releases": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "releases",
+            "mtime": 1527094040,
+            "name": "pm:releases",
+            "description": "The pm-releases command was deprecated. Please see `composer show \u003cpackagename\u003e`",
+            "help": "",
+            "aliases": [
+                "rl",
+                "pm-releases"
+            ],
+            "annotations": {
+                "command": "pm:releases",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "make": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "make",
+            "mtime": 1527094040,
+            "name": "make",
+            "description": "Make has been removed, in favor of Composer. Use the make-convert command in Drush 8 to quickly upgrade your build to Composer.",
+            "help": "",
+            "aliases": [
+                "make-convert",
+                "make-generate",
+                "make-lock",
+                "make-update"
+            ],
+            "annotations": {
+                "command": "make",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "download": {
+            "schema": 3,
+            "class": "Drush\\Commands\\LegacyCommands",
+            "method_name": "download",
+            "mtime": 1527094040,
+            "name": "pm:download",
+            "description": "dl has been deprecated. Please build your site using Composer. Add new projects with composer require drupal\/[project-name]. Use https:\/\/www.drupal.org\/project\/composer_generate to build a composer.json which represents the enabled modules on your site.",
+            "help": "",
+            "aliases": [
+                "dl",
+                "pm-download"
+            ],
+            "annotations": {
+                "command": "pm:download",
+                "hidden": "",
+                "obsolete": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

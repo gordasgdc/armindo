@@ -1,0 +1,83 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\core\\MessengerCommands",
+    "data": {
+        "pre": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\MessengerCommands",
+            "method_name": "pre",
+            "mtime": 1527094040,
+            "name": "pre",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "pre-command *"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "post": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\MessengerCommands",
+            "method_name": "post",
+            "mtime": 1527094040,
+            "name": "post",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "post-command *"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "log": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\MessengerCommands",
+            "method_name": "log",
+            "mtime": 1527094040
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

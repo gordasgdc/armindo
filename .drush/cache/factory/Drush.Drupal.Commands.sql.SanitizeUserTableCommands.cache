@@ -1,0 +1,112 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\sql\\SanitizeUserTableCommands",
+    "data": {
+        "sanitize": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\sql\\SanitizeUserTableCommands",
+            "method_name": "sanitize",
+            "mtime": 1527094040,
+            "name": "sanitize",
+            "description": "Sanitize usernames and passwords. This also an example of how to write a database sanitizer for sql-sync.",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "post-command sql-sanitize",
+                "inheritdoc": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "result": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "options": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\sql\\SanitizeUserTableCommands",
+            "method_name": "options",
+            "mtime": 1527094040,
+            "name": "options",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "option sql-sanitize"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": {
+                "sanitize-email": {
+                    "description": "The pattern for test email addresses in the sanitization operation, or \"no\" to keep email addresses unchanged. May contain replacement patterns %uid, %mail or %name.",
+                    "default": "user+%uid@localhost.localdomain"
+                },
+                "sanitize-password": {
+                    "description": "By default, passwords are randomized. Specify 'no' to disable that. Specify any other value to set all passwords to that value."
+                }
+            }
+        },
+        "messages": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\sql\\SanitizeUserTableCommands",
+            "method_name": "messages",
+            "mtime": 1527094040,
+            "name": "messages",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "on-event sql-sanitize-confirms",
+                "inheritdoc": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "messages": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

@@ -1,0 +1,116 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\core\\DrupalCommands",
+    "data": {
+        "getCron": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\DrupalCommands",
+            "method_name": "getCron",
+            "mtime": 1527094040
+        },
+        "getModuleHandler": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\DrupalCommands",
+            "method_name": "getModuleHandler",
+            "mtime": 1527094040
+        },
+        "cron": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\DrupalCommands",
+            "method_name": "cron",
+            "mtime": 1527094040,
+            "name": "core:cron",
+            "description": "Run all cron hooks in all active modules for specified site.",
+            "help": "",
+            "aliases": [
+                "cron",
+                "core-cron"
+            ],
+            "annotations": {
+                "command": "core:cron",
+                "topics": "docs:cron"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "requirements": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\DrupalCommands",
+            "method_name": "requirements",
+            "mtime": 1527094040,
+            "name": "core:requirements",
+            "description": "Information about things that may be wrong in your Drupal installation.",
+            "help": "",
+            "aliases": [
+                "status-report",
+                "rq",
+                "core-requirements"
+            ],
+            "annotations": {
+                "command": "core:requirements",
+                "table-style": "default",
+                "field-labels": "\n   title: Title\n   severity: Severity\n   sid: SID\n   description: Description\n   value: Summary",
+                "default-fields": "title,severity,value"
+            },
+            "example_usages": {
+                "drush core:requirements": "Show all status lines from the Status Report admin page.",
+                "drush core:requirements --severity=2": "Show only the red lines from the Status Report admin page."
+            },
+            "return_type": "\\Consolidation\\OutputFormatters\\StructuredData\\RowsOfFields",
+            "arguments": [],
+            "options": {
+                "format": {
+                    "description": "",
+                    "default": "table"
+                },
+                "severity": {
+                    "description": "Only show status report messages with a severity greater than or equal to the specified value.",
+                    "default": -1
+                },
+                "ignore": {
+                    "description": "Comma-separated list of requirements to remove from output. Run with --format=yaml to see key values to use.",
+                    "default": ""
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

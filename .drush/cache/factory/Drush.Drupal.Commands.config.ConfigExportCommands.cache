@@ -1,0 +1,143 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\config\\ConfigExportCommands",
+    "data": {
+        "getConfigManager": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigExportCommands",
+            "method_name": "getConfigManager",
+            "mtime": 1527094040
+        },
+        "getConfigStorage": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigExportCommands",
+            "method_name": "getConfigStorage",
+            "mtime": 1527094040
+        },
+        "getConfigStorageSync": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigExportCommands",
+            "method_name": "getConfigStorageSync",
+            "mtime": 1527094040
+        },
+        "export": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigExportCommands",
+            "method_name": "export",
+            "mtime": 1527094040,
+            "name": "config:export",
+            "description": "Export Drupal configuration to a directory.",
+            "help": "",
+            "aliases": [
+                "cex",
+                "config-export"
+            ],
+            "annotations": {
+                "command": "config:export",
+                "interact-config-label": ""
+            },
+            "example_usages": {
+                "drush config:export --destination": "Export configuration; Save files in a backup directory named config-export."
+            },
+            "return_type": null,
+            "arguments": {
+                "label": {
+                    "description": "A config directory label (i.e. a key in $config_directories array in settings.php).",
+                    "default": null
+                }
+            },
+            "options": {
+                "add": {
+                    "description": "Run `git add -p` after exporting. This lets you choose which config changes to sync for commit.",
+                    "default": false
+                },
+                "commit": {
+                    "description": "Run `git add -A` and `git commit` after exporting. This commits everything that was exported without prompting.",
+                    "default": false
+                },
+                "message": {
+                    "description": "Commit comment for the exported configuration. Optional; may only be used with --commit.",
+                    "default": 2
+                },
+                "destination": {
+                    "description": "An arbitrary directory that should receive the exported files. A backup directory is used when no value is provided.",
+                    "default": 4
+                },
+                "diff": {
+                    "description": "Show preview as a diff, instead of a change list.",
+                    "default": false
+                }
+            }
+        },
+        "doExport": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigExportCommands",
+            "method_name": "doExport",
+            "mtime": 1527094040
+        },
+        "doAddCommit": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigExportCommands",
+            "method_name": "doAddCommit",
+            "mtime": 1527094040
+        },
+        "validate": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\config\\ConfigExportCommands",
+            "method_name": "validate",
+            "mtime": 1527094040,
+            "name": "validate",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "validate config-export"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "commandData": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

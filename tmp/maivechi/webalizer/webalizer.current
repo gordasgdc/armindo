@@ -1,0 +1,1737 @@
+# Webalizer V2.23-08 Incremental Data - 05/07/2018 15:02:42
+2018 5 7 15 2 42
+2265 40 378 19 8 93 546972 2009 435 0
+83 11 142 1 7
+377 0 90728 64 341 64
+333 0 79151 55 310 65
+222 0 47096 46 163 45
+81 0 18827 31 73 43
+264 0 59255 33 233 30
+613 40 152075 110 536 107
+375 0 99840 83 353 81
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+37 0 9381 33
+117 0 28483 115
+91 0 21871 83
+43 0 10286 39
+61 0 14738 57
+87 0 21818 83
+298 0 74052 290
+109 0 20201 85
+112 40 20548 69
+165 0 41546 155
+83 0 21311 80
+126 0 32111 122
+97 0 24657 83
+61 0 15306 56
+133 0 29844 117
+76 0 19195 71
+98 0 24258 85
+43 0 10677 40
+54 0 13493 47
+28 0 7035 18
+79 0 19365 76
+119 0 28811 70
+54 0 13235 44
+94 0 24750 91
+0
+0
+0
+40
+0
+0
+0
+0
+0
+0
+0
+2179
+0
+0
+0
+0
+0
+0
+0
+0
+46
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/pki-validation/C3A681B7D0A80E7CDEB3F97A9A50503F.txt
+0 4 3329344514157000237 308 0 0
+/.well-known/pki-validation/BD4BF81AD95AB9BB5BFBAF2280DB2208.txt
+0 1 3328496786413729329 64 0 0
+/.well-known/pki-validation/3017BD36380EA59B7E2E83A1AA7B506A.txt
+0 1 99936991904052 64 0 0
+/.well-known/pki-validation/DE5670737772A665DD4F9EA27BB5AED9.txt
+0 12 0 942 0 0
+/.well-known/pki-validation/726C6F49D5DE5E8F35CF308342D722DC.txt
+0 2 0 154 0 0
+/.well-known/pki-validation/7DB30CB0330AF0FC83DB380422F24883.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/A03D781B6D72900993C1C8D39DC5BA37.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/17F3379A462596B991945E25AB7BAB8D.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/43DFBACE4D24375168449EB99E74BF1D.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/B818DC71BFCA101BE4D63A8EB6B74593.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/07EB6AE7381272DB452C2C9CCBD873BF.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/3CE352AD7F2673294BDB9F6E9F2CDC4C.txt
+0 1 0 77 0 0
+/.well-known/pki-validation/C6FF7C2697C48BE5DE63D3DDC0503369.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/AAC3C6D53D83EE98DDD48E50A10C5ACB.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/2F50A02B2AE36EDAC76024A6A4D3E129.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/079F7EA558962E9749960A04CA7E0E97.txt
+0 5 0 385 0 0
+/.well-known/pki-validation/B35896A4589FDF7D60E7589C27190746.txt
+0 3 0 231 0 0
+/.well-known/pki-validation/C4A64432308EED427F6D23149D939F93.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/01D081321E7C54B673B363E98E18DA5D.txt
+0 1 0 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+dsl-189-226-229-95-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525684667
+-
+189.153.11.0
+0 5 0 1344 1 1525600119
+-
+dsl-187-136-42-14-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525648882
+-
+i59f5f911.versanet.de
+0 5 0 1159 1 1525269897
+-
+dsl-189-236-4-56-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525644620
+-
+162.158.224.57
+0 2 0 474 2 1525212590
+-
+108.162.229.177
+0 1 0 248 0 0
+-
+165.227.218.170
+0 1 0 0 1 1525291624
+-
+google-proxy-66-102-6-203.google.com
+0 1 0 247 1 1525157932
+-
+dsl-187-207-23-59-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525625743
+-
+172.68.146.37
+0 2 0 476 2 1525149431
+-
+172.68.65.191
+0 2 0 496 0 0
+-
+162.158.92.111
+0 34 0 8718 1 1525243506
+-
+dsl-201-145-149-128-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525651103
+-
+dsl-189-153-180-139-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525679197
+-
+162.158.39.10
+0 1 0 238 1 1525452359
+-
+dsl-201-145-195-190-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525610571
+-
+dsl-189-149-216-148-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525688065
+-
+116.109.213.94
+0 5 0 1159 1 1525202497
+-
+dsl-189-129-151-44-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525643461
+-
+dsl-187-207-18-168-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525688984
+-
+171.ip-192-99-56.net
+0 2 0 242 1 1525281091
+-
+dsl-189-129-113-229-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525631131
+-
+jobqueue-listener.jobqueue.netcraft.com-u180c1054fdfc48feb1111acabeacb75bu-digitalocean-2gb
+0 1 0 243 1 1525446390
+-
+dsl-189-163-124-32-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525606275
+-
+116.108.16.111
+0 5 0 1159 1 1525264252
+-
+secure.comodo.net
+0 3 3 249 0 0
+-
+140.143.229.172
+0 43 0 10276 1 1525222875
+-
+172.68.189.210
+0 1 0 237 1 1525181934
+-
+dsl-189-129-91-23-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525684618
+-
+171.232.54.210
+0 5 0 1159 1 1525400564
+-
+141.101.88.153
+0 2 0 580 1 1525532522
+-
+172.68.255.73
+0 1 0 238 1 1525181790
+-
+dsl-189-238-208-137-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525649234
+-
+dsl-189-249-46-212-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525623258
+-
+172.68.206.39
+0 1 0 238 1 1525208899
+-
+172.68.255.25
+0 2 0 476 2 1525213419
+-
+dsl-187-207-86-63-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525670990
+-
+ip5b4302c2.dynamic.kabel-deutschland.de
+0 1 0 328 1 1525662985
+-
+dsl-189-163-196-85-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525687206
+-
+porta101.proximserra.as28624.oops.net.br
+0 5 0 1159 1 1525370732
+-
+117.50.7.159
+0 1 0 233 1 1525217934
+-
+172.68.58.88
+0 3 0 714 2 1525162027
+-
+187.173.254.0
+0 5 0 1344 1 1525630129
+-
+189.50.144.36
+0 5 0 1159 1 1525438715
+-
+212.235.185.131
+0 5 0 1190 1 1525699652
+-
+116.108.31.197
+0 5 0 1159 1 1525302035
+-
+162.158.146.135
+0 3 0 744 0 0
+-
+dsl-189-159-56-105-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691994
+-
+dsl-187-207-68-94-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525614526
+-
+dsl-201-127-111-42-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525639546
+-
+dsl-189-163-194-230-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525696334
+-
+172.68.94.177
+0 1 0 238 1 1525337281
+-
+dsl-187-207-49-156-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525614404
+-
+85-126-34-140.static.upcbusiness.at
+0 5 0 1159 1 1525244394
+-
+78.129.130.47
+0 3 0 687 3 1525689283
+-
+dsl-189-253-17-118-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525651442
+-
+ec2-54-174-140-230.compute-1.amazonaws.com
+0 1 0 230 1 1525223629
+-
+dsl-189-155-149-115-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525609406
+-
+dsl-189-236-12-218-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525620359
+-
+172.68.246.7
+0 1 0 238 1 1525246724
+-
+173.245.54.6
+0 3 0 984 0 0
+-
+162.158.165.171
+0 1 0 360 1 1525520771
+-
+dsl-189-163-112-193-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691053
+-
+172.68.141.213
+0 3 0 714 1 1525449755
+-
+187.175.46.17
+0 5 0 1344 1 1525621037
+-
+120.193.188.178
+0 1 0 230 1 1525149714
+-
+222.186.50.75
+0 2 0 478 1 1525192171
+-
+172.69.62.75
+0 1 0 258 1 1525402981
+-
+dsl-187-207-141-84-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525657123
+-
+dsl-189-180-82-148-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525667580
+-
+162.158.79.220
+0 25 0 5950 19 1525525796
+-
+162.158.224.93
+0 4 0 950 2 1525212598
+-
+dsl-187-214-115-225-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525687272
+-
+dsl-189-152-111-149-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525670537
+-
+mail.prodent.com.br
+0 43 0 10276 1 1525513734
+-
+120.194.13.50
+0 42 0 10041 1 1525531929
+-
+dsl-189-153-87-190-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525666175
+-
+172.69.22.151
+0 1 0 238 1 1525344437
+-
+static.151.11.216.95.clients.your-server.de
+0 137 0 33840 1 1525158003
+-
+172.68.189.198
+0 1 0 238 1 1525211572
+-
+201-54-80-121.sercomtel.com.br
+0 5 0 1336 1 1525620329
+-
+researchscan287.eecs.umich.edu
+0 1 0 0 1 1525628334
+-
+37.10.71.246
+0 1 0 0 1 1525611212
+-
+dsl-189-153-86-215-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525598114
+-
+dsl-189-152-233-171-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525632923
+-
+162.158.75.87
+0 2 0 476 1 1525358396
+-
+115.78.100.236
+0 5 0 1159 1 1525533163
+-
+162.158.146.45
+0 4 0 952 4 1525512409
+-
+162.158.78.153
+0 1 0 259 1 1525187371
+-
+dsl-189-250-139-8-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525634578
+-
+80.82.66.176
+0 6 0 1434 0 0
+-
+researchscan351.eecs.umich.edu
+0 1 0 230 1 1525178402
+-
+162.158.88.151
+0 2 0 476 2 1525222555
+-
+dsl-189-236-189-110-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691244
+-
+dsl-189-226-127-174-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525648456
+-
+dsl-187-207-73-99-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525625684
+-
+162.158.224.225
+0 2 0 476 2 1525212591
+-
+172.68.58.28
+0 1 0 269 0 0
+-
+dsl-189-253-95-179-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525674613
+-
+dsl-187-155-45-65-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525662161
+-
+162.158.89.18
+0 1 0 247 0 0
+-
+172.68.10.237
+0 1 0 247 1 1525333121
+-
+google-proxy-66-102-9-157.google.com
+0 1 0 247 1 1525157928
+-
+dsl-189-152-204-185-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525597451
+-
+ip-37-24-220-129.hsi14.unitymediagroup.de
+0 2 0 462 1 1525323954
+-
+dsl-187-168-226-249-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525671281
+-
+172.69.22.139
+0 1 0 238 1 1525273747
+-
+159.89.40.210
+0 1 0 237 1 1525450225
+-
+dsl-187-145-103-3-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525692599
+-
+dsl-187-207-44-64-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525650942
+-
+187.175.14.13
+0 5 0 1344 1 1525648993
+-
+185.234.216.49
+0 1 0 0 0 0
+-
+dsl-201-137-240-171-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525649782
+-
+dsl-189-131-6-40-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525616869
+-
+dsl-187-207-20-42-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525609544
+-
+dsl-187-207-23-52-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525678036
+-
+172.68.65.77
+0 1 0 238 1 1525353781
+-
+dsl-201-114-253-38-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525692043
+-
+google-proxy-66-249-93-93.google.com
+0 1 0 238 1 1525683525
+-
+dsl-189-129-220-254-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525702100
+-
+ec2-54-183-72-55.us-west-1.compute.amazonaws.com
+0 1 0 230 1 1525601803
+-
+172.68.65.245
+0 1 0 237 1 1525353780
+-
+dsl-189-154-58-10-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525648877
+-
+host204-199-dynamic.49-79-r.retail.telecomitalia.it
+0 5 0 1159 1 1525327848
+-
+ip31.ip-158-69-133.net
+0 11 0 2821 1 1525643968
+-
+108.162.216.189
+0 1 0 320 0 0
+-
+b2b-92-50-118-83.unitymedia.biz
+0 5 0 1159 1 1525540578
+-
+172.68.94.117
+0 2 0 476 1 1525430759
+-
+177-75-222-219.dynamic.starweb.net.br
+0 5 0 1159 1 1525198775
+-
+172.68.230.51
+0 1 0 237 1 1525229428
+-
+bzq-84-109-136-236.red.bezeqint.net
+0 4 0 920 1 1525373844
+-
+dsl-189-225-185-11-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525638390
+-
+dsl-189-163-58-20-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525608617
+-
+162.158.63.219
+0 1 0 0 1 1525278944
+-
+dsl-189-235-66-252-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525672344
+-
+172.68.46.106
+0 1 0 247 0 0
+-
+dsl-189-235-67-254-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525597883
+-
+dsl-189-175-116-237-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525627274
+-
+ec2-54-67-59-131.us-west-1.compute.amazonaws.com
+0 2 0 475 1 1525596438
+-
+190.8.40.10
+0 1 0 237 0 0
+-
+36.106.230.185
+0 1 0 239 0 0
+-
+dsl-187-207-36-223-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525621515
+-
+dsl-189-152-228-57-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525610051
+-
+172.69.138.51
+0 1 0 238 1 1525254867
+-
+dsl-189-146-217-232-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525599380
+-
+ec2-34-238-123-131.compute-1.amazonaws.com
+0 1 0 230 1 1525391383
+-
+172.68.255.19
+0 2 0 476 2 1525252905
+-
+dsl-189-146-209-150-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525694058
+-
+91.234.99.32
+0 2 0 242 1 1525259898
+-
+dsl-187-169-237-184-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525680535
+-
+116.109.8.209
+0 4 0 920 1 1525250753
+-
+dsl-187-207-37-140-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525609367
+-
+dsl-201-103-185-30-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525684462
+-
+dsl-189-153-72-230-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525687897
+-
+172.68.206.45
+0 1 0 238 1 1525198829
+-
+dsl-201-137-225-181-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525627126
+-
+dsl-189-253-99-24-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525686261
+-
+172.68.65.161
+0 4 0 970 3 1525269498
+-
+dsl-189-130-200-14-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525675457
+-
+187.250.65.160.dsl.dyn.telnor.net
+0 5 0 1344 1 1525639372
+-
+dsl-189-153-156-254-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525651274
+-
+47.75.94.235
+0 27 0 6452 1 1525493087
+-
+ec2-35-163-190-122.us-west-2.compute.amazonaws.com
+0 1 0 230 1 1525145775
+-
+dsl-187-172-226-227-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525597960
+-
+ip-118-139-177-119.ip.secureserver.net
+0 1 0 0 0 0
+-
+116.109.9.222
+0 5 0 1159 1 1525333958
+-
+dsl-189-146-124-248-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525628057
+-
+dsl-189-238-212-79-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525645631
+-
+162.158.90.179
+0 1 0 238 1 1525160804
+-
+141.101.88.183
+0 12 0 2380 12 1525437228
+-
+60.191.0.242
+0 1 0 217 1 1525471264
+-
+189-050-149-169.static.starweb.net.br
+0 5 0 1159 1 1525359513
+-
+dsl-189-225-160-214-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525658654
+-
+dsl-187-207-18-176-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525689585
+-
+dsl-189-225-185-77-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525597940
+-
+cpe-95-107-177-14.dsl.tring.al
+0 5 0 1344 1 1525598022
+-
+91-113-13-118.adsl.highway.telekom.at
+0 5 0 1159 1 1525561462
+-
+mnbn-8-216-248-110-7.dsl.netins.net
+0 8 0 1849 2 1525679244
+-
+dsl-189-186-104-96-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525656381
+-
+172.68.174.105
+0 4 0 992 0 0
+-
+dsl-187-207-105-236-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525670923
+-
+dsl-189-231-238-59-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525631543
+-
+192.34.108.170
+0 2 0 460 2 1525397838
+-
+188.92.74.189
+0 3 0 717 0 0
+-
+171.233.25.88
+0 4 0 920 1 1525275419
+-
+108.162.216.141
+0 1 0 238 1 1525185913
+-
+dsl-187-192-182-248-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525695312
+-
+dsl-187-207-61-21-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525647977
+-
+dsl-189-146-127-25-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669697
+-
+dsl-189-177-68-245-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525674493
+-
+119.28.81.120
+0 1 0 239 1 1525606029
+-
+79-119-180-231.rdsnet.ro
+0 3 0 698 1 1525685719
+-
+ip-5-147-158-239.unitymediagroup.de
+0 5 0 1159 1 1525574657
+-
+162.158.38.165
+0 3 0 714 3 1525491033
+-
+103.207.36.223
+0 6 0 1549 1 1525697189
+-
+195.22.127.231
+0 24 0 5736 0 0
+-
+dsl-189-145-117-231-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525688842
+-
+172.68.141.231
+0 1 0 238 1 1525163790
+-
+116.109.72.236
+0 5 0 1159 1 1525256027
+-
+p579b8ac0.dip0.t-ipconnect.de
+0 1 0 217 1 1525254875
+-
+172.68.146.235
+0 1 0 238 1 1525191372
+-
+dsl-189-152-227-151-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525609871
+-
+s0106c8fb267cd7a9.vc.shawcable.net
+0 5 0 1390 1 1525705362
+-
+dsl-187-155-32-55-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525617208
+-
+p57bcb6d0.dip0.t-ipconnect.de
+0 5 0 1159 1 1525493182
+-
+162.158.18.99
+0 1 0 238 1 1525348896
+-
+109.100.54.244
+0 5 0 1344 1 1525597306
+-
+162.158.88.115
+0 1 0 237 1 1525330396
+-
+msnbot-207-46-13-188.search.msn.com
+0 2 0 473 2 1525698457
+-
+60.174.69.158
+0 2 0 478 1 1525173802
+-
+236.68.10.185.box.cock.li
+0 1 0 0 1 1525452256
+-
+172.69.226.70
+0 6 0 1740 3 1525300856
+-
+138.204.83.236
+0 4 0 920 1 1525156252
+-
+p5b38d5be.dip0.t-ipconnect.de
+0 1 0 217 1 1525543935
+-
+63.225.98.157
+0 4 0 920 1 1525338866
+-
+140.red-83-49-250.dynamicip.rima-tde.net
+0 11 0 2581 6 1525676697
+-
+177.128.82.36
+0 5 0 1159 1 1525553759
+-
+dsl-201-110-115-227-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525650505
+-
+162.158.91.190
+0 9 0 2223 1 1525158150
+-
+171.250.221.41
+0 5 0 1344 1 1525611591
+-
+108.162.229.171
+0 16 0 3844 14 1525474175
+-
+dsl-189-162-229-16-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525658462
+-
+172.68.58.130
+0 1 0 238 1 1525170169
+-
+dsl-189-153-231-179-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525645274
+-
+dsl-189-253-19-128-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525615022
+-
+node-1ahv.pool-182-53.dynamic.totbb.net
+0 5 0 1344 1 1525642123
+-
+116.108.231.162
+0 5 0 1159 1 1525348456
+-
+162.158.90.95
+0 1 0 238 1 1525134620
+-
+dsl-201-127-111-243-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525680339
+-
+mo27-228-40-101.air.mopera.net
+0 4 0 920 1 1525273420
+-
+ip4d1785a9.dynamic.kabel-deutschland.de
+0 1 0 217 1 1525484782
+-
+141.101.88.207
+0 2 0 476 1 1525240378
+-
+dsl-189-153-195-97-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525627509
+-
+202.149.222.19
+0 5 0 1336 1 1525429370
+-
+101.251.246.66
+0 1 0 230 1 1525418763
+-
+dsl-201-103-173-168-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525649445
+-
+172.68.230.33
+0 2 0 476 2 1525231910
+-
+msnbot-207-46-13-203.search.msn.com
+0 1 0 245 0 0
+-
+dsl-189-163-36-163-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525629603
+-
+187.175.27.52
+0 5 0 1344 1 1525673733
+-
+static.150.140.201.138.clients.your-server.de
+0 2 0 233 1 1525669665
+-
+141.101.88.225
+0 1 0 237 1 1525257201
+-
+dsl-189-152-11-138-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525615870
+-
+70-119-15-51.rev.cloud.scaleway.com
+0 6 0 1434 0 0
+-
+255.red-81-45-33.staticip.rima-tde.net
+0 5 0 1187 2 1525692107
+-
+dsl-187-207-30-149-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525613867
+-
+162.158.88.217
+0 68 0 16796 1 1525243508
+-
+78-137-26-236.dynamic-pool.mclaut.net
+0 4 0 920 1 1525271134
+-
+184-250-175-59.pools.spcsdns.net
+0 5 0 1159 1 1525393793
+-
+171.233.31.184
+0 5 0 1159 1 1525296894
+-
+172.68.244.53
+0 1 0 248 0 0
+-
+123.249.24.212
+0 1 0 239 1 1525565622
+-
+construccionesreis.es
+0 37 37 2680 0 0
+-
+119.28.179.124
+0 41 0 9798 1 1525596557
+-
+37.83.178.163
+0 5 0 1159 1 1525385775
+-
+dsl-187-207-105-69-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525645331
+-
+185.202.172.23
+0 43 0 10276 1 1525310329
+-
+reverse-195-135-248-52.digimobil.es
+0 1 0 230 1 1525685209
+-
+dsl-189-235-64-143-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525602259
+-
+108.162.229.63
+0 1 0 238 1 1525260770
+-
+dsl-201-123-174-155-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525614262
+-
+121.202.142.208
+0 2 0 460 1 1525568831
+-
+dsl-189-131-215-197-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525662318
+-
+5.175.114.51
+0 1 0 230 1 1525673885
+-
+108.162.229.195
+0 1 0 269 0 0
+-
+141.101.69.164
+0 1 0 333 1 1525469494
+-
+dsl-189-153-78-55-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525603181
+-
+dsl-187-169-223-122-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669666
+-
+172.69.134.38
+0 1 0 247 0 0
+-
+185.149.17.180
+0 5 0 1390 1 1525691266
+-
+116.108.119.86
+0 4 0 920 1 1525188249
+-
+164.52.24.140
+0 3 0 685 1 1525215370
+-
+193.112.192.167
+0 43 0 10276 1 1525521373
+-
+home-136.169.11.65.mits.lv
+0 4 0 920 1 1525261359
+-
+dsl-187-207-72-228-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525655573
+-
+095-096-007-123.static.chello.nl
+0 1 0 230 1 1525396908
+-
+162.158.167.215
+0 3 0 714 3 1525241599
+-
+dsl-187-207-27-201-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525618519
+-
+dsl-189-173-85-100-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525652126
+-
+dsl-201-103-40-53-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525658665
+-
+116.100.234.254
+0 1 0 230 1 1525468405
+-
+189-050-148-035.static.starweb.net.br
+0 5 0 1159 1 1525496050
+-
+118.24.115.147
+0 43 0 10276 1 1525193801
+-
+116.109.155.147
+0 5 0 1159 1 1525295977
+-
+dsl-189-155-105-186-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669694
+-
+216.244.66.244
+0 28 0 6932 0 0
+-
+bd07a537.virtua.com.br
+0 7 0 1664 1 1525498914
+-
+172.68.65.59
+0 1 0 238 1 1525530609
+-
+crawl-66-249-79-91.googlebot.com
+0 2 0 486 1 1525633460
+-
+ec2-54-183-29-184.us-west-1.compute.amazonaws.com
+0 1 0 230 1 1525675432
+-
+171.233.232.58
+0 5 0 1159 1 1525233216
+-
+176.121.209.53
+0 4 0 920 1 1525277520
+-
+189-050-157-226.static.starweb.net.br
+0 5 0 1159 1 1525213148
+-
+186.159.198.35.bc.googleusercontent.com
+0 26 0 6085 1 1525165511
+-
+ip182.ip-158-69-57.net
+0 77 0 9378 2 1525529071
+-
+172.68.143.137
+0 1 0 237 1 1525154347
+-
+dsl-189-129-157-73-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525694657
+-
+110.ip-193-70-85.eu
+0 2 0 226 0 0
+-
+172.68.189.174
+0 1 0 237 1 1525211571
+-
+78.189.94.254.static.ttnet.com.tr
+0 3 0 690 1 1525581276
+-
+116.102.213.100
+0 5 0 1159 1 1525440759
+-
+108.162.216.165
+0 7 0 1738 0 0
+-
+162.158.93.140
+0 2 0 476 1 1525330396
+-
+dsl-189-145-131-53-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525598410
+-
+118.24.21.114
+0 43 0 10276 1 1525229491
+-
+172.68.244.173
+0 1 0 238 1 1525138384
+-
+dsl-189-236-3-90-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525650199
+-
+dsl-189-231-245-138-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525652049
+-
+ip106.ip-137-74-230.eu
+0 52 0 12142 1 1525209633
+-
+dsl-187-202-247-72-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669695
+-
+193-81-109-172.adsl.highway.telekom.at
+0 5 0 1344 1 1525605321
+-
+172.69.62.69
+0 2 0 518 1 1525182948
+-
+dsl-189-236-1-17-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525617049
+-
+134.182.233.35.bc.googleusercontent.com
+0 2 0 478 2 1525320429
+-
+dsl-189-153-145-85-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669772
+-
+162.158.79.94
+0 2 0 485 2 1525264554
+-
+dsl-187-207-29-158-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691863
+-
+116.109.20.227
+0 4 0 920 1 1525181640
+-
+162.158.78.57
+0 4 0 979 1 1525170336
+-
+dsl-189-131-212-234-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525657878
+-
+62.56.255.199
+0 5 0 1336 1 1525508856
+-
+184-217-103-39.pools.spcsdns.net
+0 5 0 1159 1 1525661474
+-
+108.162.216.243
+0 2 0 496 0 0
+-
+116.109.71.199
+0 5 0 1159 1 1525494931
+-
+jobqueue-listener.jobqueue.netcraft.com-u71fa4c57bc6b4f038a7a04ad411eaa40u-digitalocean
+0 1 0 0 1 1525413262
+-
+187.175.53.158
+0 5 0 1344 1 1525649161
+-
+172.69.23.32
+0 1 0 237 1 1525344436
+-
+162.158.62.80
+0 1 0 0 1 1525358066
+-
+cpe-98-25-196-184.sc.res.rr.com
+0 5 0 1344 1 1525649363
+-
+dsl-189-146-52-165-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525634382
+-
+dsl-189-153-118-24-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525606357
+-
+177-11-19-37.dynamic.g1telecom.net
+0 4 0 920 1 1525412503
+-
+172.69.158.27
+0 2 0 476 2 1525333627
+-
+162.158.90.251
+0 1 0 238 1 1525466839
+-
+47.91.216.243
+0 1 0 0 1 1525516426
+-
+172.68.94.129
+0 1 0 247 1 1525214525
+-
+adsl.viettel.vn
+0 38 0 8812 8 1525539455
+-
+177-130-133-52.sal-wr.mastercabo.com.br
+0 4 0 920 1 1525160783
+-
+89.235.57.248
+0 1 0 233 1 1525574048
+-
+dsl-189-158-232-84-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525649532
+-
+un-126-55.static.sitel.net.pl
+0 4 0 920 1 1525237474
+-
+141.101.88.123
+0 1 0 238 1 1525393947
+-
+37-9-113-58.spider.yandex.com
+0 2 0 486 1 1525635352
+-
+101.132.34.130
+0 43 0 10276 1 1525636975
+-
+dsl-189-158-233-159-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525621547
+-
+172.69.23.26
+0 1 0 238 1 1525181934
+-
+31.184.193.154
+0 3 0 651 3 1525622664
+-
+108.162.215.249
+0 2 0 666 1 1525363798
+-
+162.158.58.140
+0 1 0 237 1 1525330809
+-
+111.121.193.195
+0 2 0 478 1 1525584949
+-
+dsl-189-153-84-140-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525598079
+-
+162.158.62.230
+0 1 0 238 1 1525450228
+-
+108.162.237.219
+0 6 0 1968 0 0
+-
+dsl-187-207-66-49-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525626704
+-
+dsl-189-226-26-6-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525672183
+-
+171.245.194.63
+0 4 0 929 1 1525221164
+-
+dsl-189-225-125-232-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525676164
+-
+dsl-189-231-93-12-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525650549
+-
+ip-95-223-111-139.hsi16.unitymediagroup.de
+0 1 0 217 1 1525358128
+-
+dsl-187-207-79-238-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525704588
+-
+172.68.46.112
+0 1 0 238 1 1525330842
+-
+187.175.18.48
+0 5 0 1344 1 1525689075
+-
+bd65a876.virtua.com.br
+0 4 0 947 1 1525488523
+-
+187.250.141.174.dsl.dyn.telnor.net
+0 5 0 1344 1 1525610720
+-
+187.175.3.144
+0 5 0 1344 1 1525639014
+-
+dsl-189-152-3-217-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525602310
+-
+p578c0efa.dip0.t-ipconnect.de
+0 1 0 217 1 1525631701
+-
+dsl-189-160-219-175-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525643347
+-
+dsl-187-207-27-107-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525639642
+-
+172.69.158.69
+0 1 0 238 1 1525316489
+-
+178.73.215.171
+0 1 0 217 1 1525659200
+-
+net-188-152-239-48.cust.vodafonedsl.it
+0 4 0 920 1 1525325433
+-
+dsl-189-153-165-75-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525662291
+-
+dsl-189-158-251-78-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525705243
+-
+82.114.93.124
+0 1 0 230 1 1525269950
+-
+dsl-187-207-19-6-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691837
+-
+172.68.65.239
+0 1 0 290 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+dsl-189-226-229-95-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525684667
+-
+dsl-189-153-180-139-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525679197
+-
+dsl-189-149-216-148-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525688065
+-
+dsl-187-207-18-168-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525688984
+-
+dsl-189-129-91-23-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525684618
+-
+dsl-187-207-86-63-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525670990
+-
+ip5b4302c2.dynamic.kabel-deutschland.de
+0 1 0 328 1 1525662985
+-
+dsl-189-163-196-85-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525687206
+-
+212.235.185.131
+0 5 0 1190 1 1525699652
+-
+dsl-189-159-56-105-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691994
+-
+dsl-189-163-194-230-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525696334
+-
+78.129.130.47
+0 1 0 235 1 1525689283
+-
+dsl-189-253-17-118-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525651442
+-
+dsl-189-163-112-193-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691053
+-
+dsl-187-207-141-84-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525657123
+-
+dsl-189-180-82-148-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525667580
+-
+dsl-187-214-115-225-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525687272
+-
+dsl-189-152-111-149-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525670537
+-
+dsl-189-153-87-190-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525666175
+-
+dsl-189-236-189-110-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691244
+-
+dsl-189-253-95-179-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525674613
+-
+dsl-187-155-45-65-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525662161
+-
+dsl-187-168-226-249-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525671281
+-
+dsl-187-145-103-3-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525692599
+-
+dsl-187-207-23-52-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525678036
+-
+dsl-201-114-253-38-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525692043
+-
+google-proxy-66-249-93-93.google.com
+0 1 0 238 1 1525683525
+-
+dsl-189-129-220-254-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525702100
+-
+ip31.ip-158-69-133.net
+0 1 0 247 0 0
+-
+dsl-189-235-66-252-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525672344
+-
+dsl-189-146-209-150-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525694058
+-
+dsl-187-169-237-184-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525680535
+-
+dsl-201-103-185-30-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525684462
+-
+dsl-189-153-72-230-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525687897
+-
+dsl-189-253-99-24-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525686261
+-
+dsl-189-130-200-14-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525675457
+-
+dsl-189-153-156-254-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525651274
+-
+dsl-189-225-160-214-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525658654
+-
+dsl-187-207-18-176-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525689585
+-
+mnbn-8-216-248-110-7.dsl.netins.net
+0 5 0 1159 1 1525679244
+-
+dsl-189-186-104-96-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525656381
+-
+dsl-187-207-105-236-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525670923
+-
+dsl-187-192-182-248-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525695312
+-
+dsl-189-146-127-25-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669697
+-
+dsl-189-177-68-245-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525674493
+-
+79-119-180-231.rdsnet.ro
+0 3 0 698 1 1525685719
+-
+103.207.36.223
+0 6 0 1549 1 1525697189
+-
+dsl-189-145-117-231-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525688842
+-
+s0106c8fb267cd7a9.vc.shawcable.net
+0 5 0 1390 1 1525705362
+-
+msnbot-207-46-13-188.search.msn.com
+0 1 0 235 1 1525698457
+-
+140.red-83-49-250.dynamicip.rima-tde.net
+0 2 0 468 1 1525676697
+-
+dsl-189-162-229-16-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525658462
+-
+dsl-201-127-111-243-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525680339
+-
+msnbot-207-46-13-203.search.msn.com
+0 1 0 245 0 0
+-
+187.175.27.52
+0 5 0 1344 1 1525673733
+-
+static.150.140.201.138.clients.your-server.de
+0 2 0 233 1 1525669665
+-
+255.red-81-45-33.staticip.rima-tde.net
+0 5 0 1187 2 1525692107
+-
+reverse-195-135-248-52.digimobil.es
+0 1 0 230 1 1525685209
+-
+dsl-189-131-215-197-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525662318
+-
+5.175.114.51
+0 1 0 230 1 1525673885
+-
+dsl-187-169-223-122-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669666
+-
+185.149.17.180
+0 5 0 1390 1 1525691266
+-
+dsl-187-207-72-228-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525655573
+-
+dsl-189-173-85-100-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525652126
+-
+dsl-201-103-40-53-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525658665
+-
+dsl-189-155-105-186-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669694
+-
+216.244.66.244
+0 12 0 2964 0 0
+-
+ec2-54-183-29-184.us-west-1.compute.amazonaws.com
+0 1 0 230 1 1525675432
+-
+dsl-189-129-157-73-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525694657
+-
+dsl-189-231-245-138-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525652049
+-
+dsl-187-202-247-72-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669695
+-
+dsl-189-153-145-85-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525669772
+-
+dsl-187-207-29-158-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691863
+-
+dsl-189-131-212-234-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525657878
+-
+184-217-103-39.pools.spcsdns.net
+0 5 0 1159 1 1525661474
+-
+dsl-189-226-26-6-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525672183
+-
+dsl-189-225-125-232-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525676164
+-
+dsl-187-207-79-238-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525704588
+-
+187.175.18.48
+0 5 0 1344 1 1525689075
+-
+178.73.215.171
+0 1 0 217 1 1525659200
+-
+dsl-189-153-165-75-dyn.prod-infinitum.com.mx
+0 5 0 1344 1 1525662291
+-
+dsl-189-158-251-78-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525705243
+-
+dsl-187-207-19-6-dyn.prod-infinitum.com.mx
+0 5 0 1390 1 1525691837
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.netcraft.com/survey/
+0 1
+http://www.construccionesreis.es/
+0 3
+- (Direct Request)
+0 2253
+http://domainsigma.com/whois/construccionesreis.es
+0 2
+http://google.com
+0 2
+http://construccionesreis.es/
+0 2
+http://78.46.106.252/phpmyadmin
+0 1
+http://construccionesreis.es
+0 1
+# End Of Table - referrers
+# -agents- 
+curl/7.35.0
+0 1
+Mozilla/5.0
+0 393
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/4.0.1
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100721 Firefox/3.6.8
+0 1
+User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705
+0 4
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36(KHTML, like Gecko) Chrome/66.0.3359.30 Mobile Saf
+0 2
+Mozilla/5.0 Hstpnetwork.com domain information by Pedro CyCLop
+0 2
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 1
+SiteCheckerBot/1.0 (+http://sitechecker.pro), SiteCheckerBot/1.0 (+http://sitechecker.pro)
+0 2
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 32
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 3
+Python-urllib/3.5
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 4
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/50.0.3066.57 Safari/537.32
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.1) Gecko/2008070208
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Wget
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 1
+Telesphoreo
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile S
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/61.0.3116.0 Safari/537.36 Chrome-Lighthouse
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; linkdexbot/2.0; +http://www.linkdex.com/bots/)
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 719
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 31
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 15
+COMODO DCV
+0 40
+libwww-perl/6.33
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+0 3
+Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/63.0.3239.73 Mobile/13G36 Safari/6
+0 1
+Python-urllib/3.4
+0 1
+drupalgeddon2
+0 15
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 1
+Wget/1.17.1 (linux-gnu)
+0 3
+Pinterest Domain Verifier
+0 2
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 zgrab/0.x
+0 4
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 2
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.34 Safari/537.36
+0 1
+Python-urllib/2.7
+0 77
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0
+0 5
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36(KHTML, like Gecko) Chrome/61.0.3116.0 Mobile Safa
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
+0 2
+Mediapartners-Google
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 24
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; DomainSigmaCrawler/0.1; +http://domainsigma.com/robot)
+0 2
+Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/56.0.3103.58 Safari/537.32
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 249
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 5
+Wget/1.12 (linux-gnu)
+0 8
+Digincore crawler bot. See https://www.digincore.com/crawler.html for rules and instructions.
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 7
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.50 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:x.x.x) Gecko/20041107 Firefox/x.x
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+0 301
+Mozilla/5.0 (compatible; evc-batch/2.0)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 10
+Scrapy/1.4.0 (+http://scrapy.org)
+0 2
+Mozilla/5.0 (Windows; U; ; en-NZ) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.8.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0
+0 10
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/540.0 (KHTML,like Gecko) Chrome/9.1.0.0 Safari/540.0
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)
+0 1
+ZmEu
+0 12
+curl/7.47.0
+0 3
+python-requests/2.18.4
+0 6
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 1
+Wget(linux)
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 22
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

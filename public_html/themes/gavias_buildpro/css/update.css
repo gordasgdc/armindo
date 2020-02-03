@@ -1,0 +1,103 @@
+/****/
+.nav-tabs, .topbar ul, ul.contact-info, ul.menu {
+  list-style: none !important;
+  padding-left: 0;
+}
+
+.node--view-mode-full p {
+  margin-bottom: 10px;
+}
+
+body div.body-page {
+  background-color: #fff;
+}
+
+.site-branding-logo {
+  max-height: inherit;
+}
+.site-branding-logo img {
+  max-height: 80px;
+  width: auto;
+}
+
+.simpleslider ul {
+  padding: 0;
+}
+.simpleslider ul li {
+  list-style: none;
+}
+
+@media (max-width: 991px) {
+  .gbb-row.gsc-equal-height .column-content-inner {
+    top: 20px;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@media (max-width: 800px) {
+  .gsc-info-background .content {
+    width: 100%;
+    padding-top: 310px;
+  }
+  .gsc-info-background .image {
+    height: 300px;
+    width: 100%;
+    position: relative;
+  }
+}
+.swiper-wrapper {
+  background: #ccc;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+.swiper-wrapper:before {
+  content: "";
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  background: url(../images/preloader/preloader-10.gif) no-repeat rgba(255, 255, 255, 0.3);
+  text-align: center;
+  margin-top: -30px;
+  margin-left: -30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 9;
+}
+.swiper-wrapper.slick-initialized {
+  max-height: 999px !important;
+  background: none;
+}
+.swiper-wrapper.slick-initialized:before {
+  display: none !important;
+}
+
+header.header-v5 .stuck {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  z-index: 99 !important;
+  width: 100%;
+  -webkit-box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.1);
+  -webkit-transition: all 0s;
+  -o-transition: all 0s;
+  transition: all 0s;
+  -moz-transition: all 0s;
+  -ms-transition: all 0s;
+}
+
+.gbb-row.gsc-equal-height .column-content-inner {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  -o-transform: translateY(0);
+  transform: translateY(0);
+  top: 0;
+}

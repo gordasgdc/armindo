@@ -1,0 +1,98 @@
+{
+    "cid": "Drush\\Commands\\core\\SshCommands",
+    "data": {
+        "ssh": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\SshCommands",
+            "method_name": "ssh",
+            "mtime": 1527094040,
+            "name": "site:ssh",
+            "description": "Connect to a Drupal site's server via SSH.",
+            "help": "",
+            "aliases": [
+                "ssh",
+                "site-ssh"
+            ],
+            "annotations": {
+                "command": "site:ssh",
+                "optionset_proc_build": "",
+                "handle-remote-commands": "",
+                "topics": "docs:aliases"
+            },
+            "example_usages": {
+                "drush @mysite ssh": "Open an interactive shell on @mysite's server.",
+                "drush @prod ssh ls \/tmp": "Run \"ls \/tmp\" on @prod site. If @prod is a site list, then ls will be executed on each site.",
+                "drush @prod ssh git pull": "Run \"git pull\" on the Drupal root directory on the @prod site."
+            },
+            "return_type": null,
+            "arguments": {
+                "args": {
+                    "description": "",
+                    "default": []
+                }
+            },
+            "options": {
+                "cd": {
+                    "description": "Directory to change to if Drupal root is not desired (the default).",
+                    "default": true
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        },
+        "setSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\SshCommands",
+            "method_name": "setSiteAliasManager",
+            "mtime": 1527094040
+        },
+        "siteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\SshCommands",
+            "method_name": "siteAliasManager",
+            "mtime": 1527094040
+        },
+        "hasSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\SshCommands",
+            "method_name": "hasSiteAliasManager",
+            "mtime": 1527094040
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

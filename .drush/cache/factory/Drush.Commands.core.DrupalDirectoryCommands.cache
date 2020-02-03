@@ -1,0 +1,100 @@
+{
+    "cid": "Drush\\Commands\\core\\DrupalDirectoryCommands",
+    "data": {
+        "drupalDirectory": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\DrupalDirectoryCommands",
+            "method_name": "drupalDirectory",
+            "mtime": 1527094040,
+            "name": "drupal:directory",
+            "description": "Return the filesystem path for modules\/themes and other key folders.",
+            "help": "",
+            "aliases": [
+                "dd",
+                "drupal-directory"
+            ],
+            "annotations": {
+                "command": "drupal:directory"
+            },
+            "example_usages": {
+                "cd `drush dd devel`": "Navigate into the devel module directory",
+                "cd `drush dd`": "Navigate to the root of your Drupal site",
+                "cd `drush dd files`": "Navigate to the files directory.",
+                "drush dd @alias:%files": "Print the path to the files directory on the site @alias.",
+                "edit `drush dd devel`\/devel.module": "Open devel module in your editor (customize 'edit' for your editor)"
+            },
+            "return_type": null,
+            "arguments": {
+                "target": {
+                    "description": "A module\/theme name, or special names like root, files, private, or an alias : path alias string such as @alias:%files. Defaults to root.",
+                    "default": "root"
+                }
+            },
+            "options": {
+                "local-only": {
+                    "description": "Reject any target that specifies a remote site.",
+                    "default": false
+                },
+                "component": {
+                    "description": "The portion of the evaluated path to return. Defaults to 'path'; 'name' returns the site alias of the target."
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        },
+        "setSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\DrupalDirectoryCommands",
+            "method_name": "setSiteAliasManager",
+            "mtime": 1527094040
+        },
+        "siteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\DrupalDirectoryCommands",
+            "method_name": "siteAliasManager",
+            "mtime": 1527094040
+        },
+        "hasSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\DrupalDirectoryCommands",
+            "method_name": "hasSiteAliasManager",
+            "mtime": 1527094040
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

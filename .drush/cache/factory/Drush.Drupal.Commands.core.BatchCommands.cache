@@ -1,0 +1,67 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\core\\BatchCommands",
+    "data": {
+        "process": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\BatchCommands",
+            "method_name": "process",
+            "mtime": 1527094040,
+            "name": "batch:process",
+            "description": "Process operations in the specified batch set.",
+            "help": "",
+            "aliases": [
+                "batch-process"
+            ],
+            "annotations": {
+                "command": "batch:process",
+                "hidden": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "batch_id": {
+                    "description": "The batch id that will be processed."
+                }
+            },
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

@@ -1,0 +1,117 @@
+{
+    "name": "acquia/lightning-project",
+    "description": "Project template for Drupal 8 sites built with the Lightning distribution.",
+    "type": "project",
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require-dev": {
+        "drush/drush": "^9.0",
+        "drupal/media_entity_generic": "^1.0",
+        "acquia/lightning_dev": "dev-8.x-1.x"
+    },
+    "require": {
+        "drupal-composer/drupal-scaffold": "^2.0.0",
+        "cweagans/composer-patches": "^1.6.0",
+        "acquia/lightning": "~3.4.1",
+        "drupal/video_embed_field": "^2.0",
+        "drupal/admin_toolbar": "^1.23",
+        "drupal/module_filter": "^3.1",
+        "drupal/block_visibility_groups": "^1.2",
+        "drupal/config_update": "^1.5",
+        "drupal/contact_block": "^1.4",
+        "drupal/ctools": "^3.0",
+        "drupal/field_collection": "^1.0@alpha",
+        "drupal/image_url_formatter": "^1.0@beta",
+        "drupal/imce": "^1.6",
+        "drupal/simplenews": "^1.0@alpha",
+        "drupal/features": "^3.7",
+        "drupal/ace_editor": "^1.0",
+        "drupal/schema_metatag": "^1.3",
+        "drupal/seo_checklist": "^4.1",
+        "drupal/simple_sitemap": "^2.12",
+        "drupal/coffee": "^1.0@beta",
+        "drupal/redirect": "^1.2",
+        "drupal/pathauto": "^1.2",
+        "drupal/hreflang": "^1.0",
+        "drupal/google_analytics": "^2.2",
+        "drupal/sitemap": "^1.3",
+        "drupal/fast_404": "1.x-dev",
+        "drupal/addtoany": "^1.9",
+        "drupal/dropdown_language": "^1.2",
+        "drupal/responsive_preview": "^1.0",
+        "drupal/easy_breadcrumb": "^1.8",
+        "drupal/eu_cookie_compliance": "^1.0",
+        "drupal/entity_legal": "^2.0@beta",
+        "drupal/entity_legal_state": "^1.0@alpha",
+        "drupal/lightning_core": "^5.0",
+        "drupal/security_review": "1.x-dev",
+        "drupal/recaptcha": "^2.3",
+        "drupal/amp": "^2.0",
+        "drupal/amptheme": "^1.1",
+        "drupal/advagg": "^3.5",
+        "drupal/file_permissions": "^1.0",
+        "drupal/cloudflare": "^1.0@alpha",
+        "drupal/purge": "^3.0",
+        "lullabot/amp": "^1.0.0",
+        "drupal/adsense": "^1.0",
+        "drupal/route_specific_breadcrumb": "^1.0",
+        "drupal/lightning_media": "^3.8",
+        "drupal/minifyhtml": "^1.1",
+        "drupal/minifyjs": "^1.8",
+        "drupal/google_tag": "^1.0",
+        "drupal/hsts": "^1.0",
+        "drupal/csp": "^1.0",
+        "drupal/encrypt": "^3.0",
+        "drupal/token": "^1.3"
+    },
+    "repositories": {
+        "drupal": {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        },
+        "assets": {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        },
+        "dev": {
+            "type": "github",
+            "url": "https://github.com/acquia/lightning-dev",
+            "no-api": true
+        }
+    },
+    "scripts": {
+      "post-install-cmd": "DrupalComposer\\DrupalScaffold\\Plugin::scaffold",
+      "post-update-cmd": "DrupalComposer\\DrupalScaffold\\Plugin::scaffold",
+      "nuke": "rm -r -f public_html/modules/contrib public_html/profiles/contrib/lightning vendor composer.lock"
+    },
+    "extra": {
+        "installer-types": [
+            "bower-asset",
+            "npm-asset"
+        ],
+        "installer-paths": {
+            "public_html/core": [
+                "type:drupal-core"
+            ],
+            "public_html/libraries/{$name}": [
+                "type:drupal-library",
+                "type:bower-asset",
+                "type:npm-asset"
+            ],
+            "public_html/modules/contrib/{$name}": [
+                "type:drupal-module"
+            ],
+            "public_html/profiles/contrib/{$name}": [
+                "type:drupal-profile"
+            ],
+            "public_html/themes/contrib/{$name}": [
+                "type:drupal-theme"
+            ],
+            "drush/contrib/{$name}": [
+                "type:drupal-drush"
+            ]
+        },
+        "enable-patching": true
+    }
+}

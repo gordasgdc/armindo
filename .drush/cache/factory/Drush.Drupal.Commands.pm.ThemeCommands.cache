@@ -1,0 +1,97 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\pm\\ThemeCommands",
+    "data": {
+        "getThemeInstaller": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\pm\\ThemeCommands",
+            "method_name": "getThemeInstaller",
+            "mtime": 1527094040
+        },
+        "enable": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\pm\\ThemeCommands",
+            "method_name": "enable",
+            "mtime": 1527094040,
+            "name": "theme:enable",
+            "description": "Enable one or more themes.",
+            "help": "",
+            "aliases": [
+                "then",
+                "theme-enable"
+            ],
+            "annotations": {
+                "command": "theme:enable"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "themes": {
+                    "description": "A comma delimited list of themes."
+                }
+            },
+            "options": []
+        },
+        "uninstall": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\pm\\ThemeCommands",
+            "method_name": "uninstall",
+            "mtime": 1527094040,
+            "name": "theme:uninstall",
+            "description": "Uninstall theme.",
+            "help": "",
+            "aliases": [
+                "thun",
+                "theme-uninstall"
+            ],
+            "annotations": {
+                "command": "theme:uninstall"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "themes": {
+                    "description": "A comma delimited list of themes."
+                }
+            },
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

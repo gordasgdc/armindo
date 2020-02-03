@@ -1,0 +1,13 @@
+[13-Apr-2018 14:56:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Config\Environment' not found in /home/armindo/vendor/drush/drush/drush.php:58
+Stack trace:
+#0 /home/armindo/vendor/drush/drush/includes/preflight.inc(17): require()
+#1 phar:///usr/local/bin/drush/bin/drush.php(141): drush_main()
+#2 /usr/local/bin/drush(10): require('phar:///usr/loc...')
+#3 {main}
+  thrown in /home/armindo/vendor/drush/drush/drush.php on line 58
+[16-Jun-2018 03:57:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to DrupalComposer\DrupalScaffold\PrestissimoFileFetcher::__construct() must implement interface Composer\IO\IOInterface, array given, called in /home/armindo/vendor/drupal-composer/drupal-scaffold/src/Handler.php on line 117 and defined in /home/armindo/vendor/drupal-composer/drupal-scaffold/src/PrestissimoFileFetcher.php:25
+Stack trace:
+#0 /home/armindo/vendor/drupal-composer/drupal-scaffold/src/Handler.php(117): DrupalComposer\DrupalScaffold\PrestissimoFileFetcher->__construct(Object(Composer\Util\RemoteFilesystem), 'http://cgit.dru...', Array, Object(Composer\IO\ConsoleIO), Object(Composer\Config))
+#1 /home/armindo/vendor/drupal-composer/drupal-scaffold/src/Handler.php(92): DrupalComposer\DrupalScaffold\Handler->downloadScaffold()
+#2 /home/armindo/vendor/drupal-composer/drupal-scaffold/src/Plugin.php(66): DrupalComposer\DrupalScaffold\Handler->onPostCmdEvent(Object(Composer\Script\Event))
+#3 [internal function]: DrupalComposer\DrupalScaffold\Plugin->postCmd(Object(Comp in /home/armindo/vendor/drupal-composer/drupal-scaffold/src/PrestissimoFileFetcher.php on line 25

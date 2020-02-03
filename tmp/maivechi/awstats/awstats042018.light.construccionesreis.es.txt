@@ -1,0 +1,482 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /home/armindo/tmp/awstats/awstats.light.construccionesreis.es.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2703                
+POS_VISITOR 7633                
+POS_DAY 7843                
+POS_DOMAIN 3358                
+POS_LOGIN 3614                
+POS_ROBOT 3769                
+POS_WORMS 3901                
+POS_EMAILSENDER 4032                
+POS_EMAILRECEIVER 4175                
+POS_SESSION 7957                
+POS_SIDER 8119                
+POS_FILETYPES 4310                
+POS_DOWNLOADS 4625                
+POS_OS 4962                
+POS_BROWSER 5069                
+POS_SCREENSIZE 5180                
+POS_UNKNOWNREFERER 5254                
+POS_UNKNOWNREFERERBROWSER 5367                
+POS_ORIGIN 5475                
+POS_SEREFERRALS 5612                
+POS_PAGEREFS 5756                
+POS_SEARCHWORDS 5904                
+POS_KEYWORDS 6056                
+POS_MISC 2367                
+POS_ERRORS 6115                
+POS_CLUSTER 3470                
+POS_SIDER_404 6270                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180423164624 5760 1621509 9544233640065
+FirstTime 20180419185635
+LastTime 20180420210432
+LastUpdate 20180424151036 2 0 2 0 0
+TotalVisits 5                   
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 9 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 58 238 5965625 6 10 3972
+1 196 637 16864794 28 30 16025
+2 285 887 26919500 46 48 444171
+3 282 424 38027203 34 34 24742
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 46 285 8350285 6 24 221135
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 2 753
+17 0 0 0 0 0 0
+18 10 118 305683 4 5 7762
+19 211 587 4272540 18 26 13403
+20 162 805 11443618 20 23 159043
+21 211 624 17848636 24 25 12638
+22 79 617 11982013 14 17 392814
+23 114 276 10039099 16 18 17295
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+es 1654 5491 152018483
+de 0 5 359
+gb 0 2 154
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+gif 9 14389 0 0
+png 115 1369937 0 0
+woff 3 32276 0 0
+html 28 5098739 0 0
+ttf 3 1468224 0 0
+js 2191 14598943 0 0
+Unknown 1423 116989726 0 0
+txt 7 513 0 0
+woff2 15 1119312 0 0
+css 762 10468766 0 0
+php 182 205917 0 0
+jpg 2 115970 0 0
+svg 758 536284 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/.well-known/pki-validation/5BE372CA984206955D417264BD91854E.txt 4 0 308
+/.well-known/pki-validation/5CC1693273F9E3D5A3A5AA363CF45855.txt 1 0 64
+/.well-known/pki-validation/A31CEA1F9F674734C67C9A747D55BCF0.txt 1 0 64
+/.well-known/pki-validation/24DFF0CCF22C4E88925C477DE19656BF.txt 1 0 77
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+Unknown 7 0
+macosx 5206 1608
+win10 285 46
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+chrome65.0.3325.181 285 46
+firefox59.0 5206 1608
+Unknown 7 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+COMODO_DCV 20180419185232
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+COMODO_DCV 20180419185232
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7 16
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1647 5482
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+503 5 11218
+302 63 30540
+403 1 72256
+303 132 75576
+404 36 1096113
+500 13 13420
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/sites/default/files/languages/es_pNvTz3YFt_IGCnZhKV7bVTWPYFKnDvOngdnUuxHQmO0.js 2 http://light.construccionesreis.es/
+/sites/default/files/languages/es_dEFtC_Qk23Md06DQ5plQvrwS6fIR0yF3aVOjc70Kv6E.js 4 http://light.construccionesreis.es/admin/modules
+/quickedit/metadata 1 http://light.construccionesreis.es/node/preview/c5854cdf-37cb-42c8-bf40-e0ba9e4c7885/full
+/sites/default/files/languages/es_xFwhv39PXNS-r-Kgjks4xC17xAUCBWjG20eR2y7sYeM.js 18 http://light.construccionesreis.es/admin/structure/contact
+/core/authorize.php/ 1 http://light.construccionesreis.es/core/authorize.php
+/sites/default/files/languages/es_SD6od3UjV7fJouXyksb7d2i53RIkJw_9GUKxrWvApbg.js 1 http://light.construccionesreis.es/admin/config/content/entity_browser
+/contacto 1 -
+/sites/default/files/languages/es_iF8_osjJ62k9BUJJS1AKShB4DswvHc-HflR93_fuFNA.js 1 http://light.construccionesreis.es/admin/config/regional/language
+/Contacto 1 -
+/share-image.png 4 -
+/login 1 -
+/history//read 1 http://light.construccionesreis.es/node/preview/c5854cdf-37cb-42c8-bf40-e0ba9e4c7885/full
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+176.86.72.40 1608 5206 143668198 20180420210432
+81.45.33.255 46 285 8350285 20180420135922
+91.199.212.132 0 2 154 
+78.46.106.252 0 5 359 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20180419 778 2847 52596492 1
+20180420 876 2651 99422504 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30mn-1h 1
+1h+ 2
+0s-30s 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 210
+/batch 546 2722730 0 0
+/admin/coffee/get-data 266 6381782 0 2
+/core/install.php 171 141706 1 0
+/admin/modules 43 25345959 2 0
+/quickedit/attachments 40 47093 0 1
+/ 28 5098739 1 0
+/contextual/render 23 27355 0 0
+/admin/structure/block 19 4723304 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 12 925920 0 0
+/admin/config/search/seo-checklist 11 2452193 0 0
+/admin/appearance 11 933514 0 0
+/admin/structure/contact 10 1160807 0 0
+/entity-browser/iframe/media_browser 10 92973 0 0
+/admin/content 9 1109513 0 0
+/admin/structure/block/block-content 9 1013743 0 0
+/admin/config/regional 9 884406 0 0
+/admin/structure/gavias_blockbuilder 9 1015993 0 0
+/eu/admin/coffee/get-data 8 192557 0 0
+/node 8 1637952 0 0
+/admin/reports/updates/update 7 192356 0 0
+/admin/config/content/formats 7 802971 0 0
+/admin/structure/contact/manage/sitewide 7 851431 0 0
+/node/2/edit 7 1089813 0 0
+/quickedit/metadata 7 1216 0 0
+/admin/structure/block/list/gavias_buildpro 7 1829176 0 0
+/eu 2 411783 0 0
+/admin/config/search/metatag 6 666708 0 1
+/admin/structure/types/manage/service/fields/node.service.field_service_image/storage 1 116190 0 0
+/eu/node 1 207284 0 0
+/admin/structure/contact/manage/contacto/translate/eu/add 1 120384 0 0
+/admin/structure/media 1 75977 0 0
+/admin/structure/gavias_blockbuilder/edit/1 3 1358049 0 0
+/admin/structure/contact/manage/sitewide/translate 1 113373 0 0
+/admin/structure/gavias_blockbuilder/edit/2 2 866462 0 0
+/admin/structure/block/manage/informacion_3/delete 1 113352 0 0
+/media/add/image 2 192611 0 0
+/admin/config/system/cron 2 224044 0 0
+/block/2/translations 2 225023 0 0
+/node/add/portfolio 1 139249 0 0
+/admin/structure/block/add/dropdown_language/gavias_buildpro 1 37439 0 0
+/admin/structure/contact/manage/contacto/fields/add-field 1 121180 0 0
+/admin/config/regional/language/add 1 79510 0 0
+/admin/structure/types/manage/portfolio/fields/node.portfolio.field_portfolio_images 2 251524 0 0
+/editor/filter_xss/json 1 5 0 0
+/admin/structure/taxonomy 1 115029 0 0
+/admin/structure/types/manage/page/form-display 1 193983 0 0
+/admin/config/search/path/settings 2 292304 0 0
+/eu/admin/structure/block/block-content 2 242243 0 0
+/admin/structure/block/manage/contactblock/translate/eu/add 1 114136 0 0
+/admin/config/search/path 4 455681 0 0
+/admin/config/content/formats/manage/ace_editor 1 223094 0 0
+/admin/reports/translations 5 498332 0 0
+/admin/structure/block/manage/contactblock/translate 2 225427 0 0
+/admin/config/services/consumer/add 1 127127 0 0
+/admin/config/people/simple_oauth 1 113043 0 0
+/admin/structure/block/manage/datosdecontacto 1 138198 0 0
+/admin/structure/block/add/block_content%3Afa95a6d5-ffbd-4c70-824c-58d86ea27c13/gavias_buildpro 1 137431 0 0
+/admin/people 1 100193 0 0
+/modules/contrib/imce/css/fonts/imce-icons.woff 2 15072 0 0
+/admin/config/regional/language/detection 4 629196 0 0
+/admin/structure/menu/manage/main 4 516537 0 0
+/toolbar/subtrees/iPA4u8yitM8TtnYWXvj0a0FhZ-qtKHkQW4fIYeo3ZHQ 1 85318 0 0
+/admin/update/ready 1 12437 0 0
+/admin/structure/taxonomy/manage/portfolio_tags/overview 1 110181 0 0
+/admin/structure/types/manage/portfolio/form-display 2 298197 0 0
+/admin/structure/block/library/gavias_buildpro 5 586266 0 0
+/admin/content/moderated 1 113272 0 0
+/contact 4 701096 0 0
+/admin/structure/gavias_blockbuilder/import/2 2 116961 0 0
+/admin/structure/types/manage/page/fields/add-field 1 124018 0 0
+/block/1 2 251030 0 0
+/update.php 5 24503 0 0
+/history/1/read 1 10 0 0
+/imce/public 2 86280 0 0
+/admin/structure/block/manage/informacion/translate 2 225300 0 0
+/admin/structure/types/manage/portfolio/fields 1 112201 0 0
+/admin/structure/types/manage/service/form-display 4 547490 0 0
+/admin/structure/contact/manage/contacto/fields 3 346792 0 0
+/admin/config/search/metatag/add 2 170849 0 0
+/admin/config/search/sitemap 2 352871 0 0
+/admin/content/media 1 113270 0 0
+/block/2 2 256961 0 0
+/user/1 1 211985 0 0
+/admin/config/services/addtoany 2 247471 0 0
+/node/add/landing_page 2 279036 0 0
+/admin/appearance/settings/gavias_buildpro 4 443823 0 0
+/admin/structure/block/add/contact_block/gavias_buildpro 1 37829 0 0
+/admin/reports/status 3 354663 0 0
+/admin/config/system/lightning/media 4 371282 0 0
+/admin/structure/contact/manage/sitewide/fields/add-field 1 118397 0 0
+/core/authorize.php/core/authorize.php 2 160 0 0
+/eu/node/2/translations/add/es/eu 1 151339 0 0
+/modules/custom/gva_blockbuilder/vendor/tinymce/skins/lightgray/fonts/tinymce.woff 1 17204 0 0
+/admin/config/user-interface/shortcut/add-set 1 115027 0 0
+/admin/structure/menu/item/1/edit/translations 1 112722 0 0
+/admin/structure/block/manage/informacion/translate/eu/add 1 115538 0 0
+/admin/structure/block/manage/informacion 3 408746 0 0
+/admin/structure/contact/manage/sitewide/fields 3 341161 0 0
+/admin/structure/contact/add 1 122229 0 0
+/media/add 1 105695 0 0
+/admin/structure/gavias_blockbuilder/form/0 3 336606 0 0
+/admin/config/user-interface/shortcut/manage/default/add-link 1 116350 0 0
+/node/add/service 1 133964 0 0
+/admin/structure/types/manage/portfolio/fields/node.portfolio.field_portfolio_images/storage 3 348870 0 0
+/editor/filter_xss/rich_text 2 4 0 0
+/admin/structure/block/manage/gavias_buildpro_page_title 1 132481 0 0
+/admin/config/search/path/add 1 109414 0 0
+/admin/config/system 1 71143 0 0
+/admin/config 3 315359 0 0
+/admin/structure/types/manage/page/fields 1 119058 0 0
+/admin/structure/contact/messages 1 115143 0 0
+/node/2/translations 1 112367 0 0
+/admin/structure 1 107225 0 0
+/admin/config/regional/language 5 480330 0 0
+/admin/reports/updates 5 390964 0 0
+/admin/config/user-interface/shortcut/manage/default/customize 1 115614 0 0
+/toolbar/subtrees/PGDwZhG2RqHA0QxYLUzMw4OPXpJuy7CeiJGYwszdoNw 1 80010 0 0
+/admin/structure/taxonomy/manage/category/overview 1 110041 0 0
+/user/login 1 22980 1 0
+/admin/structure/menu/manage/main/translate/eu/edit 1 114738 0 0
+/admin/config/system/lightning/api/keys 2 186611 0 0
+/admin/config/search/simplesitemap 1 119192 0 0
+/admin/structure/block/manage/gavias_buildpro_branding 2 271292 0 0
+/admin/config/regional/translate/settings 3 350084 0 0
+/eu/informazio 1 134821 0 0
+/admin/theme/install 2 145716 0 0
+/admin/people/roles 1 93199 0 0
+/block/add 4 481270 0 0
+/admin/config/system/lightning/layout 3 323568 0 0
+/admin/structure/menu 5 583042 0 0
+/admin/config/user-interface/shortcut 1 113286 0 0
+/admin/config/regional/translate 3 462638 0 0
+/admin/reports 2 88345 0 0
+/admin/structure/types/manage/service 1 158524 0 0
+/admin/config/system/lightning 4 400771 0 0
+/jsonapi/node/page/c5854cdf-37cb-42c8-bf40-e0ba9e4c7885 1 4494 0 0
+/admin/config/search/path/patterns/add 2 127756 0 0
+/admin/appearance/settings 6 632352 0 0
+/admin/structure/contact/settings 1 113274 0 0
+/admin/config/content/entity_browser 1 72441 0 0
+/admin/structure/contact/manage/contacto/display 2 286242 0 0
+/admin/config/system/lightning/roles 2 188691 0 0
+/eu/contextual/render 3 5370 0 0
+/admin/structure/types 4 482033 0 0
+/admin/config/people 1 105835 0 0
+/admin/structure/gavias_blockbuilder/edit/3 2 748806 0 0
+/admin/config/content/formats/add 4 460146 0 0
+/admin/structure/taxonomy/manage/tags/overview 1 109948 0 0
+/admin/structure/menu/manage/main/translate 1 112559 0 0
+/admin/config/people/accounts 1 145245 0 0
+/admin 3 197120 0 0
+/core/authorize.php 4 39548 0 0
+/admin/config/search/redirect/settings 1 116238 0 0
+/eu/quickedit/attachments 2 2402 0 0
+/admin/config/content/formats/manage/rich_text 3 716026 0 0
+/themes/gavias_buildpro/fonts/icon/icon.ttf 3 1468224 0 0
+/node/add/article 1 144290 0 0
+/jsonapi/contact_form/contact_form/aded0cc1-7565-45be-a715-15e039f14641 1 953 0 1
+/eu/block/2/translations/add/es/eu 1 131090 0 0
+/contact/sitewide 1 198464 0 0
+/admin/structure/types/manage/portfolio/display 1 148806 0 0
+/admin/config/user-interface/coffee 2 227034 0 0
+/admin/structure/types/manage/service/fields 1 109900 0 0
+/admin/config/people/accounts/translate 1 108738 0 0
+/informacion 1 136165 0 0
+/entity-embed/dialog/rich_text/media_browser 2 10626 0 0
+/admin/people/permissions 3 19048967 0 0
+/admin/content/media/bulk-upload 1 107610 0 0
+/admin/content/files 1 114179 0 0
+/admin/config/system/lightning/api 4 400759 0 0
+/toolbar/subtrees/--xlCFwFfxN41ZNI8H9iHEeqx4QZR5ICbF9Oq2v4uSY 1 84851 0 0
+/admin/modules/update 2 223077 0 0
+/core/install.php/system/timezone/CEST/7200/1 1 14853 0 0
+/admin/structure/menu/parents 3 174 0 0
+/admin/structure/gavias_blockbuilder/import/1 2 116958 0 0
+/media/add/document 1 113955 0 0
+/admin/structure/types/manage/page 2 342831 0 0
+/admin/structure/contact/manage/contacto/translate 2 229915 0 0
+/admin/structure/menu/item/1/edit 3 504655 0 0
+/admin/structure/types/manage/page/display 1 156625 0 0
+/admin/structure/block/add/block_content%3A994b9da5-918e-4f1d-895e-781db145a9f1/gavias_buildpro 3 207930 0 0
+/admin/config/search/path/patterns 4 465697 0 0
+/admin/reports/fields 1 131864 0 0
+/admin/structure/contact/manage/sitewide/fields/contact_message.sitewide.field_telephono 1 121351 0 0
+/admin/structure/contact/manage/contacto 1 129199 0 0
+/media/add/instagram 1 77650 0 0
+/admin/config/regional/dropdown-language-switcher 2 227472 0 0
+/admin/config/search/redirect 1 114151 0 0
+/node/preview/c5854cdf-37cb-42c8-bf40-e0ba9e4c7885/full 1 196974 0 0
+/admin/content/node/delete 2 223620 0 0
+/admin/config/user-interface/responsive-preview 2 268581 0 0
+/node/1 1 198666 0 0
+/admin/config/system/site-information 1 77048 0 0
+/admin/structure/gavias_blockbuilder/save 3 69 0 0
+/admin/structure/contact/manage/contacto/fields/contact_message.contacto.field_telephono 1 122558 0 0
+/imce 3 87521 0 0
+/admin/config/search/metatag/global 4 1848506 0 0
+/admin/config/services/openapi/redoc/jsonapi 1 105733 0 0
+/modules/custom/gva_blockbuilder/vendor/font-awesome/fonts/fontawesome-webfont.woff2 3 193392 0 0
+/node/1/edit 1 161890 0 0
+/admin/config/people/accounts/translate/eu/edit 1 146163 0 0
+/admin/structure/contact/manage/contacto/form-display 2 284793 0 0
+/node/add/page 7 1007206 0 0
+/admin/config/regional/config-translation 2 247120 0 0
+/admin/structure/contact/manage/sitewide/fields/contact_message.sitewide.field_telephono/storage 1 118472 0 0
+/openapi/jsonapi 2 643648 0 0
+/admin/config/regional/content-language 7 2563410 0 0
+/admin/config/regional/language/detection/url 4 475060 0 0
+/update.php/selection 5 20323 0 0
+/admin/config/services/openapi-downloads 1 70897 0 0
+END_SIDER

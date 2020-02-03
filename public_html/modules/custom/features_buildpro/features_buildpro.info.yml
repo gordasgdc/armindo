@@ -1,0 +1,33 @@
+name: 'Features Buildpro'
+description: 'Features Buildpro - Import content type, field, view ... for Buildpro theme.'
+type: module
+core: 8.x
+dependencies:
+  - block
+  - block_content
+  - block_visibility_groups
+  - comment
+  - ctools
+  - field
+  - field_collection
+  - file
+  - gavias_view
+  - gaviasthemer
+  - image
+  - image_url_formatter
+  - imce
+  - menu_ui
+  - node
+  - options
+  - path
+  - rdf
+  - system
+  - taxonomy
+  - text
+  - user
+  - views
+  - views_infinite_scroll
+  - gavias_hook_themer
+  - config_update
+  - features
+version: 8.x-1.0

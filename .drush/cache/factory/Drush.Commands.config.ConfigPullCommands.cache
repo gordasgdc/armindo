@@ -1,0 +1,122 @@
+{
+    "cid": "Drush\\Commands\\config\\ConfigPullCommands",
+    "data": {
+        "pull": {
+            "schema": 3,
+            "class": "Drush\\Commands\\config\\ConfigPullCommands",
+            "method_name": "pull",
+            "mtime": 1527094040,
+            "name": "config:pull",
+            "description": "Export and transfer config from one environment to another.",
+            "help": "",
+            "aliases": [
+                "cpull",
+                "config-pull"
+            ],
+            "annotations": {
+                "command": "config:pull",
+                "topics": "docs:aliases,docs:config-exporting"
+            },
+            "example_usages": {
+                "drush config:pull @prod @stage": "Export config from @prod and transfer to @stage.",
+                "drush config:pull @prod @self --label=vcs": "Export config from @prod and transfer to the 'vcs' config directory of current site.",
+                "drush config:pull @prod @self:..\/config\/sync": "Export config to a custom directory. Relative paths are calculated from Drupal root."
+            },
+            "return_type": null,
+            "arguments": {
+                "source": {
+                    "description": "A site-alias or the name of a subdirectory within \/sites whose config you want to copy from."
+                },
+                "destination": {
+                    "description": "A site-alias or the name of a subdirectory within \/sites whose config you want to replace."
+                }
+            },
+            "options": {
+                "safe": {
+                    "description": "Validate that there are no git uncommitted changes before proceeding",
+                    "default": false
+                },
+                "label": {
+                    "description": "A config directory label (i.e. a key in \\$config_directories array in settings.php). Defaults to 'sync'",
+                    "default": "sync"
+                },
+                "runner": {
+                    "description": "Where to run the rsync command; defaults to the local site. Can also be 'source' or 'destination'"
+                }
+            }
+        },
+        "validateConfigPull": {
+            "schema": 3,
+            "class": "Drush\\Commands\\config\\ConfigPullCommands",
+            "method_name": "validateConfigPull",
+            "mtime": 1527094040,
+            "name": "validate:config-pull",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "validate config-pull"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        },
+        "setSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\config\\ConfigPullCommands",
+            "method_name": "setSiteAliasManager",
+            "mtime": 1527094040
+        },
+        "siteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\config\\ConfigPullCommands",
+            "method_name": "siteAliasManager",
+            "mtime": 1527094040
+        },
+        "hasSiteAliasManager": {
+            "schema": 3,
+            "class": "Drush\\Commands\\config\\ConfigPullCommands",
+            "method_name": "hasSiteAliasManager",
+            "mtime": 1527094040
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}

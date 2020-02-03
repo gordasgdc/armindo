@@ -1,0 +1,1143 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201802 will be lost/reset.
+# Last config file used to build this data file was /home/armindo/tmp/awstats/awstats.construccionesreis.es.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2701                
+POS_VISITOR 20452               
+POS_DAY 22249               
+POS_DOMAIN 3589                
+POS_LOGIN 4025                
+POS_ROBOT 4180                
+POS_WORMS 4520                
+POS_EMAILSENDER 4651                
+POS_EMAILRECEIVER 4794                
+POS_SESSION 22565               
+POS_SIDER 22772               
+POS_FILETYPES 4929                
+POS_DOWNLOADS 5331                
+POS_OS 6250                
+POS_BROWSER 6453                
+POS_SCREENSIZE 6882                
+POS_UNKNOWNREFERER 6956                
+POS_UNKNOWNREFERERBROWSER 7281                
+POS_ORIGIN 7537                
+POS_SEREFERRALS 7678                
+POS_PAGEREFS 7822                
+POS_SEARCHWORDS 8196                
+POS_KEYWORDS 8348                
+POS_MISC 2364                
+POS_ERRORS 8407                
+POS_CLUSTER 3881                
+POS_SIDER_404 8619                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180301000000 392 108604 15609096462397
+FirstTime 20180220025937
+LastTime 20180228235848
+LastUpdate 20180301140647 392 0 389 2 0
+TotalVisits 67                  
+TotalUnique 39                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 43                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 56 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 105 741 25036486 28 55 225883
+1 283 2242 42811873 34 105 307525
+2 377 2780 57073448 110 227 253116
+3 726 4156 79980652 50 93 966763
+4 222 1518 26804529 19 25 703198
+5 251 1720 27283860 27 47 593980
+6 64 130 7596190 4 12 3816
+7 54 403 8073946 4 15 9582
+8 3 3 268872 31 33 33420
+9 0 0 0 9 9 152018
+10 75 666 25712599 13 35 203194
+11 18 111 2067627 94 94 3077375
+12 87 270 17016452 106 116 2047772
+13 104 402 26125932 16 22 114227
+14 24 422 8747236 11 18 163116
+15 100 267 1852778 16 21 31071
+16 114 294 7287566 22 27 274285
+17 300 1954 35159473 90 283 1319404
+18 134 209 11993815 52 92 168976
+19 188 1545 28565239 42 103 516012
+20 128 897 27142641 21 44 1077361
+21 16 204 6071984 8 159 4958719
+22 199 2045 30071512 48 82 187903
+23 197 1930 38780852 25 82 50405
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+es 3515 22887 483822293
+vn 112 617 23623608
+ro 81 300 3914489
+us 24 354 12098759
+in 17 461 8946057
+cn 6 6 535985
+ru 5 94 2898707
+it 4 152 5242718
+gb 1 4 91592
+br 1 1 87889
+na 1 1 91465
+no 1 1 81912
+fr 1 1 87856
+de 0 30 2232
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Google[\x20]Web[\x20]Preview 150 4765001 20180227213057 0
+Python\-urllib/ 10 878520 20180226170718 0
+no_user_agent 8 534394 20180228135355 0
+MJ12bot/ 4 186642 20180228210521 2
+unknown 1 1596 20180226175520 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+js 4947 76575503 0 0
+png 1100 4476297 0 0
+md 2 15346 0 0
+svg 1451 747154 0 0
+gif 93 725220 0 0
+html 221 31584533 0 0
+php 250 803189 0 0
+Unknown 3113 233204533 0 0
+txt 33 2463 0 0
+css 12162 92255398 0 0
+ttf 46 21068480 0 0
+woff 49 1619020 0 0
+cgi 35 236320 0 0
+map 4 62808 0 0
+jpg 1354 74394218 0 0
+body 2 230128 0 0
+woff2 47 3524952 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 12
+/.well-known/pki-validation/D267185DDA350C6FE0A35D588B58D89B.txt 12 0 924
+/.well-known/pki-validation/9A636F86FBC47844A9C830B479015729.txt 5 0 385
+/.well-known/pki-validation/8A2068C0FF26AD61F6AA38BDEC640AA0.txt 4 0 308
+/.well-known/pki-validation/BA32800CA60164A531F1D586099D88FE.txt 3 0 231
+/.well-known/pki-validation/15CC9D8412D26026D19188567E84B665.txt 2 0 154
+/.well-known/pki-validation/0F7396507B4D535E5F5882DC9E788AD3.txt 1 0 64
+/.well-known/pki-validation/A5DCF5AF988F9EB9649E2D307DEC47E3.txt 1 0 64
+/.well-known/pki-validation/66356E127B254FAA0310E283D63BBD72.txt 1 0 64
+/.well-known/pki-validation/F701B097D81C4A1234EB78286B4D11CE.txt 1 0 64
+/.well-known/pki-validation/5F61F9BA0AFC9893DB97374DC6101CA5.txt 1 0 64
+/.well-known/pki-validation/72912ECB1EA122D93178638F97CA21C5.txt 1 0 77
+/.well-known/pki-validation/8942CFA3A6B3BA5BD99BA8188E852CD8.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+ios_ipad 484 17
+linux 4 4
+Unknown 45 12
+ios_iphone 261 15
+macosx 20413 3340
+win7 780 33
+macosx11 154 8
+win10 1874 296
+linuxandroid 894 44
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+firefox52.0 374 12
+firefox47.0 4 4
+chrome50.0.2661.102 1 1
+chrome64.0.3282.186 308 13
+chrome49.0.2623.75 1 1
+safari11.0.3 932 38
+Unknown 38 5
+safari11.0 261 15
+chrome46.0.2490.80 1 1
+chrome64.0.3282.167 1228 208
+firefox58.0 20586 3417
+safari9.0 335 13
+netscape5.0 7 7
+wget 1 1
+chrome63.0.3239.132 158 4
+msie9.0 2 2
+safari 149 4
+chrome64.0.3282.137 522 22
+chrome21.0.1180.89 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+WhatsApp/2.18.46_A 20180223223938
+Mozilla/5.0_zgrab/0.x 20180228080506
+COMODO_DCV 20180220045056
+()_{_:;};_/bin/bash_-c_\ 20180228135441
+Mozilla/5.0 20180228212512
+sysscan/1.0_(https://github.com/robertdavidgraham/sysscan) 20180228115156
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+sysscan/1.0_(https://github.com/robertdavidgraham/sysscan) 20180228115156
+()_{_:;};_/bin/bash_-c_\ 20180228135441
+WhatsApp/2.18.46_A 20180223223938
+COMODO_DCV 20180220045056
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 159 899
+From1 1 1
+From2 0 0
+From3 4 9
+From4 3605 24000
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+https://themeforest.net 2 2
+http://78.46.106.252:80 1 1
+https://codecanyon.net 1 1
+http://78.46.106.252/docroot/sites/default/files/css/css_QdTX5eiAFgcJH8npk7Pa_BMYJXlfBZMzFFIuSdL-pPE.css 0 1
+http://78.46.106.252/docroot/ 0 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+403 26 863394
+500 55 12744
+400 10 264818
+204 3 0
+302 107 46652
+303 223 134394
+503 12 43834
+206 18 1213311
+404 1058 8299535
+301 21 6604
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 216
+/cgi-bin/php5 4 -
+/core/themes/stable/css/system/components/tablesort.module.css 1 http://construccionesreis.es/es
+/phpmyadmin/index.php 1 -
+/themes/gavias_buildpro/vendor/count-to.js 1 http://construccionesreis.es/
+/sites/default/files/banner/brand-dark-4.png 2 http://construccionesreis.es/
+/msd1.24.4 7 -
+/jenkins/script 7 -
+/phpadmin/index.php 1 -
+/es/contact-us 1 -
+/phpmyadmin/scripts/Setup.php 1 -
+/phpMyAdmin/scripts/setup.php 2 -
+/xampp/phpmyadmin/index.php 1 -
+/msd1.24stable 7 -
+/phpMyAdmin 7 -
+/jenkins/login 1 -
+/img-sys/error-bg-left.png 24 http://construccionesreis.es/cgi-sys/defaultwebpage.cgi
+/myadmin/index.php 1 -
+/san-sebastian/core/themes/stable/images/core/icons/5181c6/twistie-down.svg 1 http://construccionesreis.es/san-sebastian/sites/default/files/css/css_I0fOW013wXkTomkirDCx5M3FCw9GHZ_ZrKC1Z7ako6o.css
+/sql 13 -
+/hudson/login 1 -
+http://78.46.106.252:80/phpmyadmin/ 2 -
+/pma/scripts/setup.php 2 -
+/sites/default/files/logo.svg 1 http://construccionesreis.es/es
+/phpmyadmin/scripts/_setup.php 1 -
+/themes/gavias_buildpro/vendor/ytplayer/js/jquery.mb.YTPlayer.min.js 1 http://construccionesreis.es/
+/hudson/script 1 -
+/dbadmin/index.php 1 -
+/core/themes/stable/css/system/components/progress.module.css 1 http://construccionesreis.es/contact-us
+/sites/default/files/gva-sliderlayer-upload/renovacion_fachadas-yfoxgp.jpg 1 http://construccionesreis.es/es
+/mySqlDumper 7 -
+/app/mailer/ 1 -
+/phpMyadmin_bak/index.php 1 -
+/tools/phpMyAdmin/index.php 1 -
+/mysqldumper 6 -
+/armindo/web 5 -
+/PhpMyAdmin/scripts/setup.php 1 -
+/sites/default/files/banner/brand-dark-6.png 1 http://construccionesreis.es/
+/SQLiteManager/main.php 7 -
+/pmd/index.php 1 -
+/db/index.php 1 -
+/mysql/index.php 1 -
+/core/themes/stable/css/system/components/system-status-counter.css 1 http://construccionesreis.es/
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.layeranimation.min.js 1 http://construccionesreis.es/
+/admin/phpmyadmin2/index.php 1 -
+/san-sebastian/admin/reports/updates/update 1 http://construccionesreis.es/san-sebastian/admin/reports/status
+/SQLite/SQLiteManager-1.2.4/main.php 7 -
+/core/misc/debounce.js 1 http://construccionesreis.es/
+/themes/gavias_buildpro/vendor/jpreloader.min.js 1 http://construccionesreis.es/
+/sites/default/files/languages/es_SV9Exjps8wL_NNa5zcYxZC9e2VLZTBoXgIEPxVz1pTg.js 1 http://construccionesreis.es/es
+/jmx-console 7 -
+/web/phpMyAdmin/index.php 1 -
+/ccvv 4 -
+/wewr 1 -
+/san-sebastian 2 -
+/www/phpMyAdmin/index.php 1 -
+/sites/default/files/logo/ 1 -
+/pmamy/index.php 1 -
+/administrator 2 -
+/sites/default/files/gbb-uploads/icon-6.png 1 http://construccionesreis.es/
+/core/themes/stable/css/views/views.module.css 1 http://construccionesreis.es/es
+/MyAdmin/scripts/setup.php 1 -
+/webdav 5 -
+/san-sebastian/contextual/render 1 http://construccionesreis.es/san-sebastian/user/1
+/themes/gavias_buildpro/vendor/unslider-min.js 1 http://construccionesreis.es/
+/cgi-bin/php 4 -
+/img-sys/powered_by_cpanel.svg 25 http://construccionesreis.es/cgi-sys/defaultwebpage.cgi
+/themes/gavias_buildpro/vendor/prettyphoto/css/prettyPhoto.css 2 http://construccionesreis.es/
+/core/themes/stable/css/system/components/system-status-report-general-info.css 1 http://construccionesreis.es/es
+/libraries/codemirror/mode/javascript/javascript.js 5 http://construccionesreis.es/node/add/page
+/myadmin/scripts/setup.php 2 -
+/myadmin2/index.php 1 -
+/PMA/scripts/setup.php 1 -
+/d 1 -
+/SQlite/main.php 7 -
+/docroot/docroot/modules/contrib/lightning_core/css/admin-list.grid.css 1 http://construccionesreis.es/docroot/core/install.php
+/core/themes/stable/css/system/components/tree-child.module.css 1 http://construccionesreis.es/
+/typo3/phpmyadmin 2 -
+/phpmyadmin/phpmyadmin/index.php 1 -
+/exactarget/ 1 -
+/themes/gavias_buildpro/vendor/masonry.pkgd.min.js 1 http://construccionesreis.es/
+//wp-login.php 2 -
+/sites/default/files/gbb-uploads/icon-5.png 1 http://construccionesreis.es/
+/sites/default/files/gbb-uploads/icon-4.png 1 http://construccionesreis.es/
+/themes/gavias_buildpro/css/update.css 1 http://construccionesreis.es/
+/Joomla/administrator 4 -
+/sites/default/files/gbb-uploads/icon-9.png 1 http://construccionesreis.es/
+/phpmyadmin 9 -
+/themes/gavias_buildpro/vendor/owl-carousel/assets/owl.theme.default.min.css 2 http://construccionesreis.es/contact-us
+/command.php 1 -
+/private/buildpro/sites/default/files/inline-images/logo-footer.png 383 http://construccionesreis.es/
+/themes/gavias_buildpro/css/sliderlayer.css 2 http://construccionesreis.es/
+/mysql-admin/index.php 1 -
+/core/themes/stable/css/system/components/resize.module.css 1 http://construccionesreis.es/es
+/modules/gavias_sliderlayer/vendor/revolution/css/layers.css 1 http://construccionesreis.es/contact-us
+/Blog/wp-login.php 4 -
+/typo3/phpmyadmin/index.php 1 -
+/sites/default/files/banner/brand-dark-2.png 1 http://construccionesreis.es/
+/core/themes/stable/css/system/components/position-container.module.css 2 http://construccionesreis.es/es
+/PMA2/index.php 1 -
+/san-sebastian/ 1 -
+/admin/structure/gavias_sliderlayer/1/sliders/0/undefined 2 http://construccionesreis.es/admin/structure/gavias_sliderlayer/1/sliders/0/edit
+/admin/mysql2/index.php 1 -
+/modules/gavias_sliderlayer/vendor/revolution/js/source/jquery.themepunch.revolution.js 1 http://construccionesreis.es/
+/sites/default/files/logo/7D9D377948164B20.jpg 1 http://construccionesreis.es/sites/default/files/logo/logos1vg.svg
+/update 1 -
+/x 1 -
+/MySQLDumper 6 -
+/sites/default/files/gbb-uploads/icon-8.png 1 http://construccionesreis.es/
+/ 46 -
+/stalker_portal/server/adm/users/users-list-json 1 -
+/themes/gavias_buildpro/vendor/waypoint.js 1 http://construccionesreis.es/
+/themes/gavias_buildpro/vendor/jquery.appear.js 1 http://construccionesreis.es/
+/core/misc/icons/e32700/error.svg 1 http://construccionesreis.es/core/themes/classy/css/components/messages.css
+/libraries/font-awesome/css/font-awesome.min.css 39 http://construccionesreis.es/node/77/edit
+/san-sebastian/core/authorize.php/ 1 http://construccionesreis.es/san-sebastian/core/authorize.php
+/themes/gavias_buildpro/js/main.js 1 http://construccionesreis.es/
+/sites/default/files/banner/brand-dark-5.png 1 http://construccionesreis.es/
+/themes/gavias_buildpro/vendor/jquery.easypiechart.min.js 1 http://construccionesreis.es/
+/themes/gavias_buildpro/css/bootstrap.css 1 http://construccionesreis.es/es
+/img-sys/IP_changed.png 24 http://construccionesreis.es/cgi-sys/defaultwebpage.cgi
+/sites/default/files/testimonial/avatar-1.jpg 1 http://construccionesreis.es/
+/admin/phpMyAdmin/index.php 1 -
+/cgi-sys/defaultwebpage.cgi 4 http://construccionesreis.es/
+/wordpress/wp-login.php 4 -
+/sites/default/files/gbb-uploads/icon-12.png 2 http://construccionesreis.es/
+/sqlite/main.php 7 -
+/cgi/common.cgi 1 -
+//administrator 2 -
+/msd 7 -
+/img-sys/server_moved.png 24 http://construccionesreis.es/cgi-sys/defaultwebpage.cgi
+/index.action 2 -
+/sites/default/files/testimonial/avatar-3.jpg 1 http://construccionesreis.es/
+/axis-cgi/jpg/image.cgi 1 -
+/core/themes/stable/css/system/components/system-status-report-counters.css 1 http://construccionesreis.es/contact-us
+/phpmyadmin1/index.php 1 -
+/san-sebastian/san-sebastian/modules/contrib/lightning_core/css/admin-list.grid.css 6 http://construccionesreis.es/san-sebastian/core/authorize.php
+/wp-login.php 2 -
+/core/themes/stable/css/system/components/item-list.module.css 2 http://construccionesreis.es/
+/status 3 -
+/core/assets/vendor/jquery/jquery.min.js 1 http://construccionesreis.es/
+/node/12345 2 http://construccionesreis.es/node/12345
+/sites/default/files/testimonial/avatar-4.jpg 1 http://construccionesreis.es/
+/modules/gavias_sliderlayer/vendor/revolution/css/settings.css 3 http://construccionesreis.es/
+/blog/wp-login.php 4 -
+/robots.txt 1 -
+/libraries/codemirror/mode/css/css.js 5 http://construccionesreis.es/node/add/page
+/img-sys/server_misconfigured.png 25 http://construccionesreis.es/cgi-sys/defaultwebpage.cgi
+/pma/index.php 1 -
+/stalker_portal/server/adm/tv-channels/iptv-list-json 1 -
+/phpmyadmin-old/index.php 1 -
+/script 7 -
+/modules/gva_blockbuilder/vendor/skrollr.min.js 2 http://construccionesreis.es/es
+/sites/default/files/gbb-uploads/icon-15.png 1 http://construccionesreis.es/
+/sites/default/files/gbb-uploads/icon-17.png 1 http://construccionesreis.es/
+/joomla/administrator 4 -
+/sites/default/files/gva-sliderlayer-upload/slider-3-wfhxwh.jpg 2 http://construccionesreis.es/
+/webadmin 2 -
+/phpmyadmin/scripts/setup.php 1 -
+/pmamy2/index.php 1 -
+/sites/default/files/inline-images/logo-footer.png 1 http://construccionesreis.es/
+/mysql 13 -
+/phpma/index.php 1 -
+/phpMyAdmin_/scripts/setup.php 1 -
+/libraries/codemirror/lib/codemirror.css 5 http://construccionesreis.es/node/add/page
+/cms/administrator 4 -
+/core/themes/stable/css/system/components/tabledrag.module.css 1 http://construccionesreis.es/es
+/libraries/codemirror/lib/codemirror.js 5 http://construccionesreis.es/node/add/page
+/san-sebastian/core/themes/stable/images/core/icons/787878/chevron-disc-up.svg 1 http://construccionesreis.es/san-sebastian/sites/default/files/css/css_I0fOW013wXkTomkirDCx5M3FCw9GHZ_ZrKC1Z7ako6o.css
+/admin/phpmyadmin/index.php 1 -
+/core/modules/views/js/ajax_view.js 3 http://construccionesreis.es/
+/Wordpress/wp-login.php 4 -
+/en/admin/config/regional 1 -
+/admin/pma/index.php 1 -
+/xampp/phpmyadmin 2 -
+/admin/mysql/index.php 1 -
+/PMA/index.php 1 -
+/manager/html 11 -
+/sites/default/files/inline-images/ 1 -
+/core/assets/vendor/jquery-once/jquery.once.min.js 1 http://construccionesreis.es/
+/pma-old/index.php 1 -
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.migration.min.js 1 http://construccionesreis.es/
+/phpmyadmin0/index.php 1 -
+/w00tw00t.at.ISC.SANS.DFind:) 8 -
+/sqlitemanager/main.php 7 -
+/login 6 -
+/core/themes/stable/css/system/components/reset-appearance.module.css 1 http://construccionesreis.es/contact-us
+/themes/gavias_buildpro/vendor/perfect-scrollbar.jquery.min.js 1 http://construccionesreis.es/
+/themes/gavias_buildpro/fonts/icon/icon.ttf 1 http://construccionesreis.es/themes/gavias_buildpro/css/icon.css
+/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.actions.min.js 1 http://construccionesreis.es/contact-us
+/core/themes/stable/css/system/components/clearfix.module.css 1 http://construccionesreis.es/contact-us
+/admin/PMA/index.php 1 -
+/claroline/phpMyAdmin/index.php 1 -
+/invoker/readonly 1 -
+/themes/gavias_buildpro/js/bootstrap.js 1 http://construccionesreis.es/
+/weqwe 1 -
+/phpmyadmin2/index.php 1 -
+/san-sebastian/admin/config/regional 1 http://construccionesreis.es/san-sebastian/user/1
+/sites/default/files/gva-sliderlayer-upload/slider-2-fjgc19.jpg 2 http://construccionesreis.es/es
+/w00tw00t.at.blackhats.romanian.anti-sec:) 1 -
+/core/themes/stable/css/system/components/ajax-progress.module.css 1 http://construccionesreis.es/
+/phpMyAdmin-4.2.1-all-languages 5 -
+/core/misc/drupal.init.js 2 http://construccionesreis.es/contact-us
+/phpMyAdmin/index.php 1 -
+/themes/gavias_buildpro/vendor/owl-carousel/owl.carousel.min.js 1 http://construccionesreis.es/
+/core/themes/stable/css/system/components/fieldgroup.module.css 1 http://construccionesreis.es/contact-us
+/wp/wp-login.php 4 -
+/phpMyAdmin-4.2.1-english 5 -
+/phpMyAdmin/phpMyAdmin/index.php 1 -
+/web 2 -
+/SQLiteManager-1.2.4/main.php 7 -
+/phpmyadmin_/scripts/setup.php 1 -
+/myadmin 7 -
+/mysqladmin/index.php 1 -
+/modules/gavias_sliderlayer/vendor/revolution/css/navigation.css 1 http://construccionesreis.es/es
+/stssys.htm 1 -
+/admin/index.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 43
+88.16.120.117 3295 21138 410902701 20180228235848
+81.45.33.255 169 829 47037813 20180226103734
+79.118.101.110 79 209 960020 20180220171212
+58.187.89.143 79 225 15350388 20180221124653
+1.53.20.162 33 392 8273220 20180224103152
+103.70.156.251 17 461 8946057 20180225204556
+195.135.250.224 14 309 4609518 20180226145606
+195.135.251.130 12 139 4992094 20180223224025
+176.83.16.63 10 102 3348206 20180226144908
+47.62.207.32 9 158 5136333 20180227190225
+195.135.250.37 5 49 1750207 20180228220636
+79.147.144.65 4 150 4763426 20180226175525
+37.10.128.228 4 69 3449005 20180223224239
+164.132.51.91 4 152 5242718 20180228023435
+185.220.101.8 3 92 2719134 20180226015438
+60.191.38.77 3 3 268720 20180228164011
+64.233.173.143 3 50 2538826 20180225203609
+216.244.83.210 2 2 163824 20180228115156
+195.254.134.194 2 91 2954469 20180228014941
+34.253.82.2 2 2 175701 20180226030451
+104.223.123.98 2 38 1419286 20180228030856
+54.186.134.176 1 1 87868 20180226060340
+64.233.173.142 1 52 950464 20180225203548
+195.135.249.154 1 1 6377 20180220170551
+66.249.93.91 1 1 89651 20180227194030
+37.10.151.253 1 90 2173434 20180227175203
+78.129.130.48 1 1 91361 20180228194225
+196.44.131.182 1 1 91465 20180228135441
+46.243.189.111 1 1 87900 20180226182014
+91.199.212.132 0 3 231 
+187.180.141.18 1 1 87889 20180225194302
+88.84.181.96 1 1 81912 20180228004329
+64.233.173.144 0 47 1270099 
+123.207.97.73 1 1 91465 20180228080506
+88.16.121.119 0 11 789512 
+141.212.122.48 1 1 89452 20180228023851
+5.188.87.7 1 1 91673 20180228212512
+106.75.106.221 1 1 87988 20180225171838
+37.59.54.213 1 1 87856 20180226185621
+35.202.106.6 1 1 87812 20180224122602
+182.48.105.210 1 1 87812 20180224204208
+178.63.133.192 0 30 2232 
+164.52.24.140 1 1 89443 20180227085545
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20180220 429 1721 15571907 5
+20180221 226 778 54566377 4
+20180222 87 354 23304729 1
+20180223 185 1451 39656621 4
+20180224 829 5726 91448542 8
+20180225 293 2259 55286515 9
+20180226 974 7043 148023869 14
+20180227 66 1896 20424467 6
+20180228 680 3681 93242535 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 4
+1h+ 10
+5mn-15mn 9
+30s-2mn 3
+0s-30s 36
+15mn-30mn 2
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 550
+/admin/coffee/get-data 1014 20730876 0 8
+/batch 216 1195085 0 0
+/ 178 29271940 41 25
+/san-sebastian/core/install.php 104 206600 1 0
+/history/4/read 98 980 0 1
+/docroot/core/install.php 92 150630 1 0
+/contextual/render 89 541803 0 0
+/themes/gavias_buildpro/fonts/icon/icon.ttf 39 18597504 0 3
+/es/admin/coffee/get-data 39 906077 0 1
+/cgi-sys/defaultwebpage.cgi 35 236320 1 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 33 2546280 2 0
+/modules/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.woff 33 248688 0 6
+/es 32 4948524 1 3
+/admin/appearance/settings/gavias_buildpro 32 3464872 0 0
+/san-sebastian/admin/modules 28 15171932 1 1
+/san-sebastian/contextual/render 26 54465 0 0
+/admin/content 26 5357057 0 0
+/admin/modules 26 9067311 2 0
+/admin/reports/status 23 2299519 0 0
+/docroot/ 22 186871 1 1
+/contact-us 22 3005310 2 0
+/san-sebastian/ 19 1906867 3 0
+/admin/config 19 1738169 0 0
+/admin/appearance/settings 19 1831641 0 0
+/update.php 18 165636 0 0
+/san-sebastian/user/1 6 656640 0 0
+/contact-0 2 369244 0 0
+/admin/config/search/pages 1 98160 0 0
+/history/72/read 2 20 0 0
+/admin/config/user-interface/shortcut 1 87338 0 0
+/admin/config/regional/translate/import 1 97799 0 0
+/block/9 1 101427 0 0
+/admin/structure/block/block-visibility-group 1 89407 0 0
+/es/toolbar/subtrees/q0bcmgJsBj3PSmn6qrCUpmKF8gpFpAzxBc6_e3btB2c 3 197862 0 0
+/es/admin/structure/menu/manage/main 3 1233714 0 0
+/admin/config/people/accounts/fields/add-field 1 90650 0 0
+/admin/structure/gavias_sliderlayer/1/sliders/3/edit 1 133174 0 0
+/node/6/edit 1 131748 0 0
+/element-piechart-skillbar 1 189923 0 0
+/history/1/read 2 20 0 0
+/san-sebastian/admin/config/people/simple_oauth/oauth2_token 1 106119 0 0
+/admin/structure/views/view/files/edit/page_1 3 377543 0 0
+/san-sebastian/admin/structure/block/list/gavias_buildpro 2 462075 0 0
+/san-sebastian/admin/structure/types/manage/article/form-display 1 198914 0 0
+/docroot/admin/config/system/site-information 1 16474 0 0
+/san-sebastian/admin/structure/contact/add 1 116335 0 0
+/san-sebastian/admin/config/system/site-information 2 220393 0 0
+/admin/people/simplenews 2 163345 0 0
+/san-sebastian/admin/structure/menu/parents 4 256 0 0
+/san-sebastian/admin/structure/contact 2 217611 0 0
+/san-sebastian/admin/people/permissions 2 11913372 0 1
+/san-sebastian/admin/structure/block/library/gavias_buildpro 3 385640 0 0
+/san-sebastian/entity_reference_autocomplete/node/default/xWlR-7qrbjqKQCt2voA-nFTq6K2q69YMX36qT8J2X8Y 1 2 0 0
+/toolbar/subtrees/gqKbx_cPbcBou57MrnNRKtD_8exyTn1kt_w1AXf7hAw 2 123548 0 1
+/update.php/selection 17 151196 1 0
+/es/admin/structure/gavias_blockbuilder 1 97050 0 0
+/san-sebastian/node/add/landing_page 2 212488 0 0
+/element-quote 1 188094 0 0
+/admin/structure/types/manage/article/form-display 5 740167 0 0
+/admin/config/content/entity_browser/files/selection_display 3 283387 0 0
+/toolbar/subtrees/uCk2bIAyJ4i7f9Q78LPdnJhDVAm4D-M59ItB8tHGcKI 1 63587 0 0
+/admin/config/regional/language/edit/en 3 278675 0 0
+/admin/config/regional/language/detection/selected 2 181160 0 0
+/san-sebastian/admin/structure/contact/manage/sitewide/display 2 155103 0 0
+/admin/config/people/accounts/fields 2 179171 0 0
+/index.php 16 102413 0 1
+/san-sebastian/admin/theme/install 6 79404 0 0
+/admin/structure/gavias_sliderlayer/1/sliders/0/edit 3 391449 0 0
+/node/21/edit 1 151349 0 0
+/admin/structure/block/block-content/manage/basic/form-display 1 105356 0 0
+/san-sebastian/update.php/selection 4 14456 0 0
+/admin/structure/menu/manage/main/translate/es/edit 1 90611 0 0
+/editor/filter_xss/full_html 2 10 0 0
+/admin/structure/block-visibility-groups/manage/right_sidebar/condition/edit/5ff0adf9-4ca6-4d48-a693-38cdf3a08282/edit 1 6531 0 0
+/san-sebastian/admin/structure/media/manage/video 1 118386 0 0
+/modules/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.ttf 2 23936 0 0
+/admin/structure/menu/manage/main 3 1215161 0 0
+/partners 1 192187 0 0
+/admin/structure/gavias_blockbuilder/save 3 69 0 0
+/admin/content/comment 1 92109 0 0
+/paper-bag-couple-street 1 225457 0 0
+/admin/reports/fields 2 205956 0 0
+/admin/people/permissions 12 8442893 0 0
+/docroot/contextual/render 8 13607 0 0
+/san-sebastian/admin/structure/contact/manage/sitewide/fields 2 214888 0 0
+/san-sebastian/admin/structure/block/block-content 1 17106 0 0
+/home-2 1 79027 0 0
+/editor/dialog/image/full_html 2 15064 0 0
+/admin/appearance 11 1040276 1 0
+/san-sebastian/admin/modules/list/confirm 2 145275 0 0
+/san-sebastian/core/authorize.php/core/authorize.php 1 75 0 0
+/node/71/edit 1 145461 0 0
+/docroot/update.php/selection 2 7088 0 0
+/admin/structure/views/view/team 1 124446 0 0
+/editor/filter_xss/basic_html 2 597 0 0
+/admin/config/people/accounts/translate 3 269110 0 0
+/admin/config/development/performance 10 843397 0 0
+/san-sebastian/admin/config/search/path/patterns 2 217912 0 0
+/admin/config/content/entity_browser/files/display 3 269147 0 0
+/san-sebastian/admin/structure 2 118152 0 0
+/es/history/4/read 13 130 0 1
+/history/6/read 15 150 0 2
+/san-sebastian/admin/config/search/path 2 221560 0 0
+/san-sebastian/openapi/jsonapi 1 370464 0 0
+/admin/config/regional 12 1037169 0 0
+/admin/structure/block/block-content/manage/basic/fields 2 179814 0 0
+/admin/config/media/image-toolkit 4 355267 0 0
+/admin/config/people/accounts/fields/user.user.field_twitter 1 94332 0 0
+/docroot/user/password 2 15668 0 0
+/admin/config/regional/config-translation/entity_browser 1 86269 0 0
+/history/75/read 1 10 0 0
+/es/history/6/read 1 10 0 0
+/admin/structure/block/manage/gavias_buildpro_topbar 4 466738 0 0
+/es/admin/appearance/settings/gavias_buildpro 1 111387 0 0
+/san-sebastian/admin/structure/types/manage/landing_page/display 1 45611 0 0
+/san-sebastian/admin/structure/types/manage/page/display 2 286432 0 0
+/imce 3 89220 0 0
+/admin/config/regional/date-time 1 90618 0 0
+/admin/structure/block/list/gavias_buildpro 6 1526411 0 0
+/admin/config/content/entity_browser/add 4 372920 0 0
+/admin/people/roles/add 1 71062 0 0
+/admin/config/search/path/delete_bulk 1 91995 0 0
+/san-sebastian/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 6 462960 1 0
+/admin/config/search/metatag/taxonomy_term 1 172187 0 0
+/token/tree 8 2431386 0 0
+/san-sebastian/toolbar/subtrees/kJaLDhHrgpd0ViNwWxf7wWP7sDvcL7-BDrDU7jlIq10 1 81150 0 1
+/es/contextual/render 15 151878 0 0
+/admin/structure/block/manage/gavias_buildpro_topbar/translate 1 87701 0 0
+/history/14/read 2 20 0 0
+/admin/config/content 3 256543 0 0
+/docroot/admin/config/development/performance 2 30695 0 0
+/modules/gva_blockbuilder/vendor/tinymce/skins/lightgray/fonts/tinymce.woff 4 68816 0 0
+/es/block/1 1 124085 0 0
+/san-sebastian/admin/content 5 280587 0 0
+/admin/structure/block/manage/languageswitcher/translate 1 87707 0 0
+/admin/config/system/cron 3 267398 0 0
+/san-sebastian/admin/structure/panelizer/edit/node__landing_page__full__default/layout 1 14856 0 0
+/san-sebastian/admin/content/media 1 18276 0 0
+/san-sebastian/contact/sitewide 2 222775 0 0
+/admin/reports/status/rebuild 1 86537 0 0
+/san-sebastian/admin/structure/contact/manage/sitewide/clone 1 109463 0 0
+/portfolio-2 1 199417 0 0
+/admin/index 5 571357 0 0
+/history/82/read 3 30 0 0
+/es/block/2/translations/add/en/es 1 121686 0 0
+/admin/config/content/entity_browser/files/widget_selector 3 263372 0 0
+/team-list 1 190889 0 0
+/san-sebastian/admin/structure/types/manage/article/display 1 164260 0 0
+/es/node/81 2 388508 0 0
+/san-sebastian/batch 16 127453 0 0
+/summer 2 377994 0 0
+/san-sebastian/core/authorize.php 3 31591 0 0
+/node/add/page 3 427092 0 0
+/update.php/results 1 3546 0 0
+/admin/reports/translations 5 483707 0 0
+/business-card-red 1 189317 0 0
+/admin/structure/types 10 941284 0 0
+/docroot/admin/content 1 17504 0 0
+/history/24/read 1 10 0 0
+/admin/config/regional/language/detection/browser/delete/zh-hk 1 89775 0 0
+/admin/config/content/entity_browser/files/widgets 4 344158 0 0
+/admin/structure/gavias_sliderlayer/get_images_upload 2 1624 0 0
+/eu/node/6 2 80615 0 1
+/admin/people 5 574911 0 0
+/san-sebastian/admin/config/content/entity_browser 1 106383 0 0
+/admin/structure/block/block-content/types/add 1 91679 0 0
+/admin/people/roles 3 255055 0 0
+/admin/config/people/accounts/translate/es/edit 2 251840 0 0
+/san-sebastian/node/add/article 2 282102 0 0
+/docroot/user/login 13 110747 0 0
+/san-sebastian/admin/structure/menu 2 219002 0 0
+/san-sebastian/admin/structure/contact/manage/sitewide/form-display 1 127000 0 0
+/san-sebastian/admin/config/people/accounts 1 139595 0 0
+/admin/config/regional/language/detection/browser/delete/zh 1 89753 0 0
+/docroot/admin/appearance 4 75300 0 0
+/element-button 1 202630 0 0
+/system/404 1 189891 0 0
+/admin/structure/gavias_sliderlayer/config-global/1 1 93657 0 0
+/admin/structure/menu/parents 6 22866 0 0
+/history/74/read 2 20 0 0
+/admin/structure/menu/manage/main/translate 1 88652 0 0
+/san-sebastian/admin/structure/field_collections 1 105559 0 0
+/san-sebastian/admin/structure/gavias_blockbuilder/import_popup/1 3 10275 0 0
+/docroot/admin/config 7 130324 0 0
+/blogs-grid 4 315289 0 0
+/admin/config/development/maintenance/translate 5 438407 0 0
+/admin/config/regional/translate 10 1146250 0 0
+/san-sebastian/admin/structure/types/manage/page/form-display 2 352566 0 0
+/san-sebastian/admin/reports/updates 11 879783 0 1
+/admin/config/regional/language/detection/browser/delete/zh-tw 1 89775 0 0
+/history/79/read 2 20 0 0
+/admin/structure/block/manage/languageswitcher 12 1382586 0 0
+/san-sebastian/quickedit/metadata 9 1899 0 0
+/san-sebastian/admin/theme/update 2 227396 0 0
+/san-sebastian/admin/structure/field_collections/manage/field_team_social/fields 1 109807 0 0
+/es/admin/structure/gavias_blockbuilder/form/10 1 91476 0 0
+/admin/structure/field_collections/manage/field_team_social/fields 5 461148 0 0
+/san-sebastian/user/1/shortcuts 1 109021 0 0
+/admin/structure/block/manage/alternadordeidioma 3 350874 0 0
+/history/12/read 1 10 0 0
+/admin/config/development 5 401681 0 0
+/modules/gavias_sliderlayer/vendor/font-awesome/fonts/fontawesome-webfont.woff 1 81284 0 0
+/es/node/6 7 439538 1 0
+/node/89 3 269661 0 0
+/block/9/delete 1 87244 0 0
+/admin/config/user-interface/coffee 3 239477 0 0
+/admin/structure/views/view/files/edit/page_2 1 121196 0 0
+/admin/config/workflow 1 85451 0 0
+/admin/reports/views-plugins 1 111093 0 0
+/san-sebastian/admin/config/people/simplenews/settings/subscriber/form-display 1 124187 0 0
+/san-sebastian/admin/config/people/simplenews/settings/subscriber/display 1 114205 0 0
+/modules/gva_blockbuilder/vendor/font-awesome/fonts/fontawesome-webfont.woff2 5 322320 0 0
+/admin/config/search/metatag/node 2 344278 0 0
+/core/assets/vendor/backbone/backbone-min.map 1 33550 0 0
+/admin/structure/types/manage/article 3 409742 0 0
+/docroot/admin/config/search/path 1 14976 0 0
+/element-heading-style 2 220986 0 0
+/admin/config/development/maintenance 6 526917 0 0
+/san-sebastian/admin/structure/types/manage/page/fields 1 110483 0 0
+/admin/config/content/formats/add 1 162135 0 0
+/san-sebastian/admin/config/search/path/patterns/add 2 219155 0 0
+/admin/structure/block/block-visibility-group/right_sidebar 1 94208 0 0
+/admin/config/development/maintenance/translate/es/edit 2 176859 0 0
+/admin/config/content/formats 7 688601 0 0
+/admin/config/regional/language/detection/browser/delete/zh-mo 1 89775 0 0
+/node/add/article 8 1023459 0 0
+/san-sebastian/admin/structure/gavias_blockbuilder 5 526136 0 0
+/admin/config/search/redirect/settings 5 446272 0 0
+/node/add 2 171466 0 0
+/admin/structure/types/manage/service/display/teaser 1 107477 0 0
+/san-sebastian/admin/config 5 472051 0 0
+/admin/structure/types/manage/service/display 3 335604 0 0
+/admin/config/regional/language/edit/es/translate 1 87530 0 0
+/admin/structure/block/manage/gavias_buildpro_breadcrumbs 1 122613 0 0
+/admin/structure/views/settings/advanced 1 90574 0 0
+/admin/config/regional/language/detection/browser/delete/zh-chs 1 89782 0 0
+/docroot/profiles/contrib/lightning/README.md 2 15346 0 0
+/admin/config/people/simplenews/settings/subscriber/fields/simplenews_subscriber.simplenews_subscriber.subscriptions/translate 1 88972 0 0
+/san-sebastian/admin/structure/panelizer/edit/node__landing_page__full__default 1 15648 0 0
+/update.php/start 2 4927 0 0
+/admin/config/regional/language/edit/eu 1 92318 0 0
+/home-5 2 291919 0 0
+/admin/reports/dblog 1 184377 0 0
+/admin/config/search/simplesitemap 1 98457 0 0
+/admin/config/media/imce 6 566260 0 0
+/admin/config/people/accounts/translate/eu/add 1 126842 0 0
+/san-sebastian/node/add/page 1 130950 0 0
+/san-sebastian/admin/content/files 1 17544 0 0
+/admin/content/simplenews 2 178148 0 0
+/history/78/read 1 10 0 0
+/san-sebastian/admin/appearance/settings 2 230198 0 0
+/san-sebastian/admin/people/roles 1 161254 0 0
+/admin/structure/views/ajax/display/files/page_1/path 2 39896 0 0
+/block/1/translations 1 87399 0 0
+/core/authorize.php 2 19690 0 0
+/san-sebastian/admin/config/search/search-api 1 108018 0 0
+/admin/reports/fields/views-fields 2 184456 0 0
+/admin/theme/update 1 88847 0 0
+/san-sebastian/admin/reports/updates/update 2 241719 0 0
+/portfolio 3 417930 0 0
+/admin/config/content/entity_browser 12 1039612 0 0
+/san-sebastian/node/1 7 916767 0 0
+/toolbar/subtrees/YmcIpd0ga-oE2_Q99pHSh29PZwWlxMglzml1Fx4Rlgs 2 125286 0 0
+/admin/config/content/entity_browser/cristimage/widgets 3 122863 0 0
+/history/76/read 2 20 0 0
+/admin/structure/field_collections/manage/field_team_social/fields/field_collection_item.field_team_social.field_facebook_id 1 96423 0 0
+/san-sebastian/admin/config/system/lightning/api 2 214630 0 0
+/san-sebastian/admin/config/people/simplenews/settings/subscriber 1 108600 0 0
+/san-sebastian/admin/config/services/consumer 2 212432 0 0
+/san-sebastian/admin/structure/gavias_sliderlayer/group/import/1 4 221338 0 0
+/admin/config/search 2 170368 0 0
+/es/admin/structure/menu/manage/main/translate/es/edit 1 94035 0 0
+/admin/config/media/imce/admin 4 452724 0 0
+/admin/config/user-interface/shortcut/manage/default/customize 1 93503 0 0
+/san-sebastian/node/1/delete 2 213038 0 0
+/san-sebastian/admin/structure/types/manage/page 1 154787 0 0
+/admin/config/development/configuration/full/export 2 178024 0 0
+/core/install.php 7 90683 0 0
+/admin/structure/types/manage/service 1 134421 0 0
+/san-sebastian/admin/appearance 11 716222 0 0
+/admin/config/regional/language/detection/browser/delete/zh-cht 1 89782 0 0
+/admin/reports/checklistapi 1 85759 0 0
+/armindo/web/core/install.php 1 14908 1 1
+/san-sebastian/admin/structure/types/manage/landing_page/display/full 1 21758 0 0
+/admin/structure/contact/manage/feedback/translate/es/edit 1 90853 0 0
+/admin/structure/gavias_sliderlayer/1/sliders/1/edit 2 266674 0 0
+/san-sebastian/node/add 3 127220 0 0
+/admin/config/search/path/settings 5 590225 0 0
+/admin/structure/block/block-content/manage/basic 1 95027 0 0
+/taxonomy/term/10/edit 1 113653 0 0
+/history/77/read 2 20 0 0
+/san-sebastian/block/add 2 134916 0 0
+/block/2/translations 1 87462 0 0
+/san-sebastian/admin/reports/access-denied 1 105339 0 0
+/admin/config/regional/language/edit/es 2 184638 0 0
+/admin/structure/field_collections/manage/field_team_social/fields/field_collection_item.field_team_social.field_twitter/storage 3 276341 0 0
+/admin/structure/block/block-content/manage/basic/display 1 101114 0 0
+/admin/config/system/site-information/translate 6 535842 0 0
+/history/21/read 2 20 0 0
+/admin/config/development/maintenance/translate/eu/add 2 176807 0 0
+/san-sebastian/admin/structure/types/manage/landing_page 1 32990 0 0
+/admin/content/files 18 2920005 0 0
+/about 1 198691 0 0
+/san-sebastian/contact/ 2 218855 0 0
+/admin/structure/block/library/gavias_buildpro 4 304768 0 0
+/admin/config/search/path/patterns 10 927214 0 0
+/admin/reports 3 242455 1 0
+/admin/config/search/metatag/global 4 689408 0 0
+/element-icon-box 2 388982 0 0
+/san-sebastian/admin/structure/gavias_blockbuilder/form/0 2 212590 0 0
+/san-sebastian/admin/config/workflow/workflows 1 105515 0 0
+/san-sebastian/user/login 8 84247 2 0
+/admin/structure/contact/manage/feedback 1 93813 0 0
+/admin/structure/views/settings 1 95131 0 0
+/our-awards 1 191476 0 0
+/admin/reports/updates/settings 3 267803 0 0
+/block/1 3 340311 0 0
+/element-call-action 1 188993 0 0
+/typography 3 599906 0 0
+/san-sebastian/admin/config/search 1 104520 0 0
+/san-sebastian/admin/config/search/path/update_bulk 1 112160 0 0
+/admin/structure/field_collections 2 173758 0 0
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff 3 196048 0 0
+/san-sebastian/update.php/start 2 5276 0 0
+/san-sebastian/admin/structure/block 14 3059658 0 3
+/admin/config/regional/language/add 2 191905 0 0
+/admin/config/people/accounts 5 605079 0 0
+/core/authorize.php/core/authorize.php 1 75 0 0
+/history/71/read 1 10 0 0
+/admin/modules/list/confirm 1 86111 0 0
+/admin/structure/gavias_sliderlayer 5 434260 0 0
+/san-sebastian/admin/structure/types/manage/landing_page/form-display 1 59792 0 0
+/admin/people/roles/manage/authenticated 1 89093 0 0
+/visual-editor/component/form/ajax 7 61349 0 0
+/admin/config/regional/language 13 1304463 0 0
+/admin/structure/block/manage/languageswitcher/translate/es/add 1 89029 0 0
+/san-sebastian/admin/config/search/path/delete_bulk 1 112661 0 0
+/admin/structure/gavias_sliderlayer/1/sliders/4/edit 1 132007 0 0
+/admin/structure/block/add/block_content%3Ad954221a-17df-41b1-af63-60f76bf6ef99/gavias_buildpro 1 42017 0 0
+/machine_name/transliterate 4 49 0 0
+/es/admin/structure/menu/manage/main/translate 1 92086 0 0
+/home-4 2 464432 0 0
+/block/8 2 228958 0 0
+/themes/gavias_buildpro/fonts/icon/icon.woff 2 978968 0 1
+/san-sebastian/admin/config/people/simple_oauth 1 110532 0 0
+/admin/config/system/site-information/translate/es/add 3 270119 0 0
+/admin/structure/types/manage/portfolio 1 134461 0 0
+/admin/config/regional/language/detection/browser/delete/zh-sg 1 89775 0 0
+/admin/config/system/site-information/translate/es/edit 1 89167 0 0
+/blogs-list 1 197828 0 0
+/san-sebastian/node/1/edit 3 407135 0 0
+/docroot/admin/structure/block 1 82065 0 0
+/san-sebastian/contact 4 443030 0 0
+/san-sebastian/admin/structure/types/manage/landing_page/fields 2 219598 0 0
+/es/taxonomy/term/10 1 192694 0 0
+/admin/config/regional/language/detection/browser/delete/no 1 89754 0 0
+/admin/structure/types/manage/portfolio/display 1 122112 0 0
+/san-sebastian/admin/structure/gavias_blockbuilder/save 1 23 0 0
+/es/admin/structure/views 1 131095 0 0
+/san-sebastian/user/1/simplenews 1 112417 0 0
+/admin/config/regional/language/edit/en/translate/es/edit 1 88072 0 0
+/admin/config/search/path/patterns/content 3 294387 0 0
+/admin/config/content/entity_browser/files 5 464868 0 0
+/admin/config/regional/language/detection 11 1453725 0 0
+/admin 7 590665 0 0
+/san-sebastian/admin/people/simplenews 1 109121 0 0
+/san-sebastian/admin/config/content/diff/fields 1 270136 0 0
+/admin/modules/install 3 262364 0 0
+/node/14/edit 3 470004 0 0
+/admin/config/media/image-styles/add 1 88731 0 0
+/admin/config/search/path/update_bulk 1 91773 0 0
+/san-sebastian/admin/config/content/diff/general 2 251488 0 0
+/san-sebastian/admin/config/services/openapi-downloads 1 104496 0 0
+/admin/structure/gavias_sliderlayer/sliders/save 3 464 0 0
+/san-sebastian/admin/structure/types/add 1 153904 0 0
+/es/admin/structure/gavias_blockbuilder/edit/4 2 2403975 0 0
+/admin/config/services 1 84838 0 0
+/san-sebastian/admin/structure/panelizer/edit/node__landing_page__full__default/contexts 1 21830 0 0
+/admin/structure/block/block-content/manage/basic/fields/block_content.basic.body/storage 1 91316 0 0
+/es/admin/structure/menu 2 189372 0 0
+/docroot/update.php 1 4160 0 0
+/san-sebastian/modules/custom/gva_blockbuilder/vendor/font-awesome/fonts/fontawesome-webfont.woff2 2 128928 0 0
+/history/5/read 1 10 0 0
+/san-sebastian/user/1/edit 2 294641 0 0
+/admin/reports/updates/update 6 492492 0 0
+/admin/config/regional/config-translation/simplenews_subscriber_fields 1 86204 0 0
+/admin/config/regional/content-language 11 3292867 0 0
+/san-sebastian/admin/config/people/simplenews/settings/subscriber/fields 1 108529 0 0
+/admin/structure/gavias_sliderlayer/group-form/1 1 87432 0 0
+/node/4 6 1465499 0 0
+/san-sebastian/toolbar/subtrees/2yHNObGhpvn3ocLKNrgX2DcQ2V1ayxkoHPS7gLFNK_E 2 162300 0 0
+/careers 1 197660 0 0
+/san-sebastian/admin/structure/field_collections/manage/field_team_social/form-display 1 126889 0 0
+/admin/structure/types/manage/article/fields 8 784176 0 0
+/admin/structure/types/manage/page/fields 1 90518 0 0
+/team-grid 2 385251 0 0
+/admin/structure/field_collections/manage/field_team_social/fields/field_collection_item.field_team_social.field_twitter 4 379911 0 0
+/es/block/1/translations 1 92064 0 0
+/es/admin/structure/gavias_blockbuilder/edit/6 1 432289 0 0
+/admin/structure/types/manage/portfolio/form-display 1 160559 0 0
+/admin/config/search/seo-checklist 12 2340312 1 0
+/block/7 1 100646 0 0
+/san-sebastian/admin/config/services/simplenews 1 106708 0 0
+/es/admin/appearance 1 98052 0 0
+/san-sebastian/admin/structure/types/manage/article/fields 1 116233 0 0
+/admin/structure/menu/manage/menu-second 1 137145 0 0
+/san-sebastian/admin/structure/gavias_blockbuilder/edit/1 3 2822090 0 0
+/admin/config/regional/config-translation/contact_form 1 86387 0 0
+/san-sebastian/admin/config/services 2 210098 0 0
+/admin/config/search/metatag/add 2 350914 0 0
+/san-sebastian/update.php 4 16728 0 0
+/user/1 12 2221099 0 0
+/taxonomy/term/10 1 189259 0 0
+/docroot/user/1 7 103319 0 0
+/san-sebastian/admin/structure/types 3 242006 0 0
+/san-sebastian/admin/config/system/lightning 1 104674 0 0
+/es/imce 4 93176 0 0
+/core/assets/vendor/underscore/underscore-min.map 1 27590 0 0
+/portfolio-1 2 230898 0 0
+/admin/structure/views/view/files/preview/page_1 4 506482 0 0
+/san-sebastian/admin/structure/gavias_sliderlayer 3 316418 0 0
+/admin/config/media/image-styles 8 730804 0 0
+/admin/config/development/logging 1 86378 0 0
+/admin/config/content/formats/manage/visual_editor 4 659533 0 0
+/admin/structure/gavias_blockbuilder 5 460483 0 0
+/admin/structure/views/view/team/preview/team_v1 1 52787 0 0
+/admin/structure/types/manage/service/fields 2 179126 0 0
+/user/1/edit 4 497267 0 0
+/admin/structure/gavias_blockbuilder/edit/4 4 4788356 0 0
+/admin/config/content/entity_browser/cristimage/widget_selector 1 88142 0 0
+/san-sebastian/admin/structure/menu/manage/main 2 224186 0 0
+/admin/config/search/path 3 354669 0 0
+/admin/structure/taxonomy/manage/category/overview 1 103229 0 0
+/admin/config/media/image-styles/manage/caca/add/image_resize 1 89251 0 0
+/san-sebastian/update.php/results 1 3725 0 0
+/es/admin/structure/block/block-content 3 321523 0 0
+/admin/structure/types/manage/portfolio/fields/node.portfolio.body/storage 1 89947 0 0
+/admin/structure/types/manage/portfolio/fields/node.portfolio.body 1 114793 0 0
+/san-sebastian/admin/structure/block/manage/gavias_buildpro_branding 1 147456 0 0
+/san-sebastian/admin 3 286501 0 0
+/admin/config/media/image-styles/manage/caca 4 386022 0 0
+/san-sebastian/admin/structure/panelizer/edit/node__landing_page__full__default/content 1 16242 0 0
+/admin/config/search/path/patterns/add 4 279494 0 0
+/admin/config/search/redirect 3 271674 0 0
+/node/12/edit 2 162629 0 0
+/admin/structure/gavias_sliderlayer/1/sliders 7 613546 0 0
+/san-sebastian/admin/structure/types/manage/article 1 155503 0 0
+/admin/config/system/site-information 8 723185 0 0
+/history/83/read 1 10 0 0
+/admin/structure/taxonomy 1 95519 0 0
+/admin/structure/taxonomy/manage/tags/overview 1 98659 0 0
+/country-big-concert-report 2 451064 0 0
+/san-sebastian/modules/custom/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.woff 5 37680 0 0
+/admin/config/regional/settings 2 246683 0 0
+/docroot/core/install.php/system/timezone/CET/3600/0 1 15227 0 0
+/san-sebastian/admin/structure/menu/manage/menu-second 1 109532 0 0
+/admin/structure/types/manage/article/fields/node.article.field_image 2 218353 0 0
+/admin/structure/field_collections/manage/field_team_social/fields/add-field 2 181728 0 0
+/admin/structure/types/manage/portfolio/fields 2 184096 0 0
+/admin/config/regional/config-translation 4 391609 0 0
+/es/history/81/read 1 10 0 0
+/admin/structure/gavias_sliderlayer/1/sliders/2/edit 2 267434 0 0
+/admin/content/comment/approval 1 92292 0 0
+/docroot/admin/structure 1 11864 0 0
+/admin/reports/dblog/event/10837 1 86004 0 0
+/user/login 10 277880 1 0
+/admin/config/search/path/patterns/taxonomie 2 190911 0 0
+/es/admin/structure/gavias_blockbuilder/edit/10 1 394470 0 0
+/modules/imce/css/fonts/imce-icons.woff 1 7536 0 0
+/element-tabs 2 192451 0 0
+/admin/structure/types/manage/service/form-display 11 1412257 0 0
+/eu 4 354644 0 1
+/admin/structure/block 12 3034672 0 0
+/admin/config/development/configuration 3 262104 0 0
+/admin/structure/block/block-content 11 1114798 0 0
+/admin/config/regional/language/detection/browser 15 1917521 0 0
+/san-sebastian/admin/config/search/path/settings 1 139262 0 0
+/admin/structure/field_collections/manage/field_team_social/form-display 2 207154 0 0
+/san-sebastian/admin/structure/field_collections/manage/field_team_social/display 1 124479 0 0
+/admin/config/search/metatag 9 850516 0 0
+/admin/structure/block/add/language_block%3Alanguage_interface/gavias_buildpro 2 84322 0 0
+/blogs-masonry 1 197443 0 0
+/admin/structure/gavias_blockbuilder/clone/4 1 86815 0 0
+/san-sebastian/history/1/read 18 180 0 1
+/admin/structure/gavias_sliderlayer/upload 4 476 0 0
+/san-sebastian/admin/config/content 1 104770 0 0
+/san-sebastian/admin/reports/views-plugins 1 138012 0 0
+/admin/config/media/image-styles/manage/caca/flush 2 175880 0 0
+/block/add 1 98534 0 0
+/admin/config/content/entity_browser/cristimage/selection_display 1 93792 0 0
+/admin/config/media/file-system 5 460131 0 0
+/san-sebastian/themes/gavias_buildpro/fonts/icon/icon.ttf 5 2447040 0 0
+/editor/filter_xss/visual_editor 10 50 0 0
+/admin/config/regional/language/edit/en/translate 1 87530 0 0
+/san-sebastian/admin/people 3 446722 0 0
+/admin/config/development/configuration/full/import 1 90177 0 0
+/admin/structure/views 1 126834 0 0
+/san-sebastian/admin/reports/status 6 757543 0 0
+/admin/structure/gavias_blockbuilder/form/4 1 86802 0 0
+/san-sebastian/admin/structure/block/demo/gavias_buildpro 1 107377 0 0
+/admin/config/system/site-information/translate/eu/add 1 91795 0 0
+/admin/config/people 1 85067 0 0
+/admin/structure/field_collections/manage/field_team_social/fields/field_collection_item.field_team_social.field_facebook_id/storage 1 93497 0 0
+/admin/structure/menu 2 182336 0 0
+/admin/structure/taxonomy/manage/portfolio_tags/overview 1 101242 0 0
+/admin/structure/gavias_sliderlayer/1/sliders/5/edit 4 525712 0 0
+/services 9 1416407 0 0
+/admin/reports/updates 14 1402201 1 0
+/block/2 3 344547 0 0
+/san-sebastian/admin/structure/gavias_blockbuilder/form/1 1 106329 0 0
+/admin/structure/types/manage/article/fields/node.article.field_image/storage 3 289943 0 0
+/toolbar/subtrees/STDWDWBkYmDzs5opvAmyNfGpWIuZ5Pw3W91uphDSJ9Y 4 254436 0 1
+/san-sebastian/admin/structure/contact/manage/sitewide 3 355174 0 0
+/block/3 1 113752 0 0
+/san-sebastian/toolbar/subtrees/rqGJo-gRu_EE0_xWNd5_uzC7cD3YP_meNO9RRDwtA7A 1 81150 0 0
+/core/assets/vendor/jquery-once/jquery.once.min.js.map 2 1668 0 1
+/admin/structure/gavias_blockbuilder/edit/6 3 1277029 0 0
+/admin/structure/block/demo/gavias_buildpro 2 338319 0 0
+/san-sebastian/admin/config/system/lightning/api/keys 1 109035 0 0
+/history/80/read 1 10 0 0
+/modules/gavias_sliderlayer/vendor/font-awesome/fonts/fontawesome-webfont.woff2 1 64464 0 0
+/node/77/edit 1 173682 0 0
+/san-sebastian/admin/structure/gavias_sliderlayer/group-form/0 1 105632 0 0
+/docroot/admin/config/search/path/add 1 13445 0 0
+/history/81/read 1 10 0 0
+/san-sebastian/core/install.php/system/timezone/CET/3600/0 2 31582 0 0
+/docroot/admin/modules 2 873036 0 0
+/san-sebastian/admin/structure/menu/manage/main/add 1 149515 0 0
+/admin/structure/block/block-content/types 2 178144 0 0
+/san-sebastian/admin/config/development/performance 2 31041 0 0
+/admin/structure/views/view/files/preview/page_2 1 5395 0 0
+/admin/structure/block/block-content/manage/basic/fields/block_content.basic.body 1 115335 0 0
+/history/89/read 1 10 0 0
+/admin/config/regional/language/detection/url 1 92406 0 0
+/admin/config/media 9 771790 0 0
+/admin/config/regional/language/detection/browser/delete/zh-cn 1 89775 0 0
+/admin/config/content/entity_browser/cristimage/display 1 90070 0 0
+/admin/structure/contact/manage/feedback/translate 1 88041 0 0
+/admin/structure/field_collections/manage/field_team_social/fields/field_collection_item.field_team_social.field_team_social_icon 1 94852 0 0
+/admin/config/media/image-styles/manage/large 2 193931 0 0
+/san-sebastian/admin/reports 4 148018 0 0
+/admin/people/create 1 102245 0 0
+/docroot/admin/reports/status 1 30308 0 0
+/san-sebastian/admin/config/workflow/workflows/manage/editorial 1 132697 0 0
+/history/73/read 1 10 0 0
+/admin/config/people/accounts/fields/user.user.field_twitter/storage 1 92126 0 0
+/san-sebastian/admin/structure/block/add/gavias_sliderlayer_block%3Agavias_sliderlayer_block____1/gavias_buildpro 1 56028 0 0
+/admin/structure 2 173522 0 0
+/admin/config/yoast_seo 1 85924 0 0
+/es/block/1/translations/add/en/es 1 122094 0 0
+END_SIDER

@@ -1,0 +1,405 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201805 will be lost/reset.
+# Last config file used to build this data file was /home/armindo/tmp/awstats/awstats.construccionesreis.es.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2701                
+POS_VISITOR 12475               
+POS_DAY 13629               
+POS_DOMAIN 3487                
+POS_LOGIN 3849                
+POS_ROBOT 4004                
+POS_WORMS 4477                
+POS_EMAILSENDER 4608                
+POS_EMAILRECEIVER 4751                
+POS_SESSION 13897               
+POS_SIDER 14076               
+POS_FILETYPES 4886                
+POS_DOWNLOADS 5174                
+POS_OS 7827                
+POS_BROWSER 7994                
+POS_SCREENSIZE 8494                
+POS_UNKNOWNREFERER 8568                
+POS_UNKNOWNREFERERBROWSER 8812                
+POS_ORIGIN 8954                
+POS_SEREFERRALS 9090                
+POS_PAGEREFS 9266                
+POS_SEARCHWORDS 9514                
+POS_KEYWORDS 9666                
+POS_MISC 2364                
+POS_ERRORS 9725                
+POS_CLUSTER 3705                
+POS_SIDER_404 9870                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180601011120 205 27672 10135049348745
+FirstTime 20180508102609
+LastTime 20180523214547
+LastUpdate 20180601150700 205 0 174 30 0
+TotalVisits 38                  
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 50 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 17 646093 315 327 87195
+1 4 36 1737529 431 437 109399
+2 1 1 12712 365 381 158615
+3 0 0 0 805 823 236039
+4 0 36 2679 325 343 380338
+5 0 0 0 382 403 123494
+6 0 0 0 782 802 234150
+7 0 0 0 337 349 82678
+8 0 40 2929 228 241 84501
+9 2 2 110742 365 372 342605
+10 3 36 1701615 280 297 67286
+11 0 0 0 233 239 114498
+12 1 1 12606 240 269 55366
+13 5 36 1141095 298 314 161076
+14 1 1 59624 351 361 136577
+15 3 37 1714117 884 896 115610
+16 0 0 0 240 259 222844
+17 11 45 1887892 293 350 1951604
+18 0 0 0 790 800 205116
+19 0 0 0 253 272 61948
+20 16 108 4912707 500 510 126230
+21 14 42 1771350 573 589 150074
+22 5 41 1898134 232 252 428712
+23 7 34 1018837 492 527 752480
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 45 145 5882224
+es 15 167 7543530
+ru 5 36 1319917
+ro 3 36 1701615
+ar 3 37 1714117
+ua 2 2 110742
+nl 1 1 12712
+cn 1 11 340068
+de 0 72 5232
+gb 0 6 504
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 68 1934366 20180517085528 3
+no_user_agent 39 1238519 20180517144814 0
+bingbot/ 8 65139 20180517233754 3
+MJ12bot/ 7 71764 20180516163958 3
+linkdexbot/ 5 63128 20180517090252 0
+YandexBot/ 4 28510 20180517034808 2
+archive\.org_bot 2 1168 20180514232845 2
+Python\-urllib/ 1 0 20180514232855 0
+Googlebot\-Image/ 1 746 20180516171034 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+txt 78 5736 0 0
+ttf 13 3020966 0 0
+woff 1 97913 0 0
+Unknown 10 91160 0 0
+png 125 2784596 0 0
+svg 16 11936 0 0
+css 62 1588222 0 0
+jpg 44 5436200 0 0
+gif 7 17815 0 0
+woff2 13 1003104 0 0
+html 38 884103 0 0
+js 106 3688910 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 36
+/.well-known/pki-validation/DE5670737772A665DD4F9EA27BB5AED9.txt 12 0 942
+/.well-known/pki-validation/E0D6CAB97F0452CE1A190B1939807143.txt 12 0 948
+/.well-known/pki-validation/109AB5F1D2FA5CB7330F20C41023B9E8.txt 5 0 385
+/.well-known/pki-validation/079F7EA558962E9749960A04CA7E0E97.txt 5 0 385
+/.well-known/pki-validation/A789FF7640F2EB9927DDCF5C0DD59598.txt 4 0 308
+/.well-known/pki-validation/C3A681B7D0A80E7CDEB3F97A9A50503F.txt 4 0 308
+/.well-known/pki-validation/DA47040A025EAEB7DE83706874C31666.txt 3 0 231
+/.well-known/pki-validation/B35896A4589FDF7D60E7589C27190746.txt 3 0 231
+/.well-known/pki-validation/4CFA5D0BEE430EE2DDABA6AF61C61135.txt 2 0 154
+/.well-known/pki-validation/726C6F49D5DE5E8F35CF308342D722DC.txt 2 0 154
+/.well-known/pki-validation/43DFBACE4D24375168449EB99E74BF1D.txt 1 0 64
+/.well-known/pki-validation/C578F288DACDCCF257871B4D0DC9F25D.txt 1 0 77
+/.well-known/pki-validation/C4A64432308EED427F6D23149D939F93.txt 1 0 64
+/.well-known/pki-validation/F2CC686C8CAF2BD636833E369BC12AF0.txt 1 0 64
+/.well-known/pki-validation/2F50A02B2AE36EDAC76024A6A4D3E129.txt 1 0 64
+/.well-known/pki-validation/4DDC3A0AF4DF8992C763E12FF3AB6E98.txt 1 0 64
+/.well-known/pki-validation/9EF6A3E9082F9D0599AACABD4D0289D2.txt 1 0 64
+/.well-known/pki-validation/B818DC71BFCA101BE4D63A8EB6B74593.txt 1 0 64
+/.well-known/pki-validation/5C6039DE29728C18F29EDD777B225143.txt 1 0 64
+/.well-known/pki-validation/4C26DD83CAF188980CA42BA9AFCBC345.txt 1 0 64
+/.well-known/pki-validation/3CE352AD7F2673294BDB9F6E9F2CDC4C.txt 1 0 77
+/.well-known/pki-validation/7DB30CB0330AF0FC83DB380422F24883.txt 1 0 64
+/.well-known/pki-validation/F43E4A0EF074BD20467193613774EADE.txt 1 0 64
+/.well-known/pki-validation/BD4BF81AD95AB9BB5BFBAF2280DB2208.txt 1 0 64
+/.well-known/pki-validation/8F41F0C89E0043B5DE72F05CC01A49CF.txt 1 0 64
+/.well-known/pki-validation/E3602072EC65DB8A8B8B8F6319101D5E.txt 1 0 64
+/.well-known/pki-validation/17F3379A462596B991945E25AB7BAB8D.txt 1 0 64
+/.well-known/pki-validation/B9CFA3828FE4A510202CE2E6EA145A92.txt 1 0 64
+/.well-known/pki-validation/3017BD36380EA59B7E2E83A1AA7B506A.txt 1 0 64
+/.well-known/pki-validation/48174B7E9336155ED06289F0711321F0.txt 1 0 64
+/.well-known/pki-validation/416825DF918C439233FC30ED28A9ECC9.txt 1 0 64
+/.well-known/pki-validation/01D081321E7C54B673B363E98E18DA5D.txt 1 0 64
+/.well-known/pki-validation/C6FF7C2697C48BE5DE63D3DDC0503369.txt 1 0 64
+/.well-known/pki-validation/A03D781B6D72900993C1C8D39DC5BA37.txt 1 0 64
+/.well-known/pki-validation/AAC3C6D53D83EE98DDD48E50A10C5ACB.txt 1 0 64
+/.well-known/pki-validation/07EB6AE7381272DB452C2C9CCBD873BF.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx10 2 2
+linux 54 14
+win7 82 7
+macosx 192 19
+win10 7 7
+linuxandroid 79 12
+Unknown 90 12
+winxp 7 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+chrome66.0.3359.139 153 14
+Unknown 82 4
+chrome25.0.1364.172 1 1
+chrome49.0.2623.75 3 3
+netscape 1 1
+chrome44.0.2403.119 13 1
+firefox58.0 2 2
+chrome55.0.2883.95 1 1
+chrome66.0.3359.170 37 3
+firefox53.0 1 1
+chrome65.0.3325.181 2 2
+opera12.16 17 2
+mozilla 7 7
+chrome61.0.3163.100 1 1
+firefox60.0 37 3
+chrome52.0.2743.82 2 2
+chrome45.0.2454.101 1 1
+chrome41.0.2272.118 98 18
+chrome36.0.1985.125 11 1
+msie6.0 7 2
+chrome63.0.3239.132 4 4
+firefox59.0 32 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+COMODO_DCV 20180520210355
+Mozilla_5.0 20180516132325
+Go-http-client/1.1 20180523214547
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20180517013632
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20180523214547
+COMODO_DCV 20180520210355
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 38 116
+From1 1 1
+From2 2 2
+From3 3 3
+From4 31 391
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+yandexru 1 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://securityheaders.com 2 2
+http://www.infocif.es/ficha-empresa/construcciones-reis-2006-sl 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 9229 2231193
+302 3 799
+400 896 47027
+403 55 221654
+404 42 472589
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 27
+/blog/wp-includes/wlwmanifest.xml 2 -
+/google4f0a465472f89cd8.html 1 -
+/share-image.png 3 -
+/8474fdbd1b4fa16896939014b2853203 1 -
+/about:blank 1 http://construccionesreis.es/sites/default/files/js/js_FrOpXCPH2m4RVBs65p5hvgg2E7COP9adrtQ5H6cPqAQ.js
+/maps.google.com/maps/api/js 1 http://construccionesreis.es
+/%E2%80%9C 4 -
+/wp-includes/wlwmanifest.xml 2 -
+/www.facebook.com/plugins/like.php 1 http://construccionesreis.es/sites/default/files/js/js_FrOpXCPH2m4RVBs65p5hvgg2E7COP9adrtQ5H6cPqAQ.js
+/https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js 1 http://construccionesreis.es
+/sites/default/files/js/pp_images[set_position+1] 1 http://construccionesreis.es/sites/default/files/js/js_FrOpXCPH2m4RVBs65p5hvgg2E7COP9adrtQ5H6cPqAQ.js
+/https://static.addtoany.com/menu/page.js 1 http://construccionesreis.es
+/sites/default/files/js/'+b+\"://player.vimeo.com/video/\"+v+\" 1 http://construccionesreis.es/sites/default/files/js/js_FrOpXCPH2m4RVBs65p5hvgg2E7COP9adrtQ5H6cPqAQ.js
+/cms/wp-includes/wlwmanifest.xml 2 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/df54c5f9827187c9f279fb9bd3346cd6 1 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/payload.php 1 -
+/sites/default/files/js/'+a.jsfilelocation+t+a.extensions_suffix+'\"></script>' 1 http://construccionesreis.es/sites/default/files/js/js_FrOpXCPH2m4RVBs65p5hvgg2E7COP9adrtQ5H6cPqAQ.js
+/sites/default/files/js/{path} 1 http://construccionesreis.es/sites/default/files/js/js_FrOpXCPH2m4RVBs65p5hvgg2E7COP9adrtQ5H6cPqAQ.js
+/xmlrpc.php 2 -
+/construccion-de-garajes 2 http://construccionesreis.es/
+/~armindo/ 3 -
+/sites/default/files/js/https://secure-a.vimeocdn.com/js/froogaloop2.min.js\",jquery(\"head\").find(\"*\").each(function(){\"https://secure-a.vimeocdn.com/js/froogaloop2.min.js\"==jquery(this).attr(\"src\")&&(o=!1)}),o&&d.parentnode.insertbefore(r,d)}retur 1 http://construccionesreis.es/sites/default/files/js/js_FrOpXCPH2m4RVBs65p5hvgg2E7COP9adrtQ5H6cPqAQ.js
+/sites/default/files/js/'+b+\"://www.youtube.com/embed/\"+p+\" 1 http://construccionesreis.es/sites/default/files/js/js_FrOpXCPH2m4RVBs65p5hvgg2E7COP9adrtQ5H6cPqAQ.js
+/sites/default/files/js/https://www.youtube.com/iframe_api\" 1 http://construccionesreis.es/sites/default/files/js/js_FrOpXCPH2m4RVBs65p5hvgg2E7COP9adrtQ5H6cPqAQ.js
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+83.49.250.140 14 154 7152573 20180518014355
+66.249.93.93 13 35 1815311 20180517213108
+66.249.93.95 7 30 1524445 20180517213108
+66.249.93.91 7 42 1360961 20180517213107
+79.119.183.135 3 36 1701615 20180508102609
+200.41.104.180 3 37 1714117 20180515151318
+37.115.185.236 2 2 110742 20180515095141
+138.68.46.186 2 2 140100 20180523214539
+146.185.223.112 2 2 110742 20180515170925
+35.184.71.89 2 2 27360 20180523214547
+35.202.56.3 2 2 27306 20180523211432
+31.184.193.154 2 2 119063 20180517225842
+208.94.234.219 2 7 211363 20180514232846
+63.245.214.162 2 2 27360 20180523214539
+107.167.113.28 2 17 646093 20180515005316
+54.245.31.80 1 1 8472 20180514231618
+54.37.149.75 1 1 12817 20180516132325
+66.249.93.219 1 1 53 20180517013632
+90.174.5.159 1 13 390957 20180514234259
+128.69.216.82 1 26 424084 20180515132653
+54.203.30.254 1 1 12606 20180515135326
+101.199.112.52 1 11 340068 20180517233340
+188.166.70.192 1 1 12712 20180517022252
+192.187.98.74 1 1 55371 20180514235009
+54.149.206.229 1 1 12606 20180515124816
+91.199.212.132 0 6 504 
+95.27.46.78 0 6 666028 
+78.46.106.252 0 72 5232 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20180506 0 40 2929 0
+20180508 3 72 1704294 1
+20180514 10 63 2517464 6
+20180515 12 92 3697018 7
+20180516 11 45 1802580 6
+20180517 28 156 6946646 13
+20180518 3 35 1737476 1
+20180520 0 2 128 0
+20180523 8 8 222126 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 31
+2mn-5mn 2
+15mn-30mn 3
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 36 883997 27 20
+/themes/gavias_buildpro/fonts/icon/icon.ttf 13 3020966 2 9
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff2 13 1003104 2 3
+/rehabilitacion-de-fachadas-reforma-de-fachadas 7 64864 3 1
+/impermeabilizaciones 2 16944 1 2
+/googleb8bc79e3de72efad.html 2 106 2 2
+/contactenos 1 9352 0 1
+/themes/gavias_buildpro/fonts/fontawesome-webfont.woff 1 97913 1 0
+END_SIDER

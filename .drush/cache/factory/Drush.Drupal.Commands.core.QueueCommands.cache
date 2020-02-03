@@ -1,0 +1,166 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\core\\QueueCommands",
+    "data": {
+        "getWorkerManager": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\QueueCommands",
+            "method_name": "getWorkerManager",
+            "mtime": 1527094040
+        },
+        "getQueueService": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\QueueCommands",
+            "method_name": "getQueueService",
+            "mtime": 1527094040
+        },
+        "run": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\QueueCommands",
+            "method_name": "run",
+            "mtime": 1527094040,
+            "name": "queue:run",
+            "description": "Run a specific queue by name.",
+            "help": "",
+            "aliases": [
+                "queue-run"
+            ],
+            "annotations": {
+                "command": "queue:run",
+                "validate-queue": "name"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "name": {
+                    "description": "The name of the queue to run, as defined in either hook_queue_info or hook_cron_queue_info."
+                }
+            },
+            "options": {
+                "time-limit": {
+                    "description": "The maximum number of seconds allowed to run the queue",
+                    "default": 2
+                }
+            }
+        },
+        "qList": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\QueueCommands",
+            "method_name": "qList",
+            "mtime": 1527094040,
+            "name": "queue:list",
+            "description": "Returns a list of all defined queues.",
+            "help": "",
+            "aliases": [
+                "queue-list"
+            ],
+            "annotations": {
+                "command": "queue:list",
+                "field-labels": "\n   queue: Queue\n   items: Items\n   class: Class"
+            },
+            "example_usages": [],
+            "return_type": "\\Consolidation\\OutputFormatters\\StructuredData\\RowsOfFields",
+            "arguments": [],
+            "options": {
+                "format": {
+                    "description": "",
+                    "default": "table"
+                }
+            }
+        },
+        "delete": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\QueueCommands",
+            "method_name": "delete",
+            "mtime": 1527094040,
+            "name": "queue:delete",
+            "description": "Delete all items in a specific queue.",
+            "help": "",
+            "aliases": [
+                "queue-delete"
+            ],
+            "annotations": {
+                "command": "queue:delete",
+                "validate-queue": "name"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": {
+                "name": {
+                    "description": "The name of the queue to run, as defined in either hook_queue_info or hook_cron_queue_info."
+                }
+            },
+            "options": []
+        },
+        "validateQueueName": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\QueueCommands",
+            "method_name": "validateQueueName",
+            "mtime": 1527094040,
+            "name": "validate:queue-name",
+            "description": "Validate that queue permission exists.",
+            "help": "Annotation value should be the name of the argument\/option containing the name.",
+            "aliases": [],
+            "annotations": {
+                "hook": "validate @validate-queue"
+            },
+            "example_usages": [],
+            "return_type": "\\Consolidation\\AnnotatedCommand\\CommandError|null",
+            "arguments": {
+                "commandData": {
+                    "description": ""
+                }
+            },
+            "options": []
+        },
+        "getQueues": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\QueueCommands",
+            "method_name": "getQueues",
+            "mtime": 1527094040
+        },
+        "getQueue": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\QueueCommands",
+            "method_name": "getQueue",
+            "mtime": 1527094040
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

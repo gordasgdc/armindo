@@ -1,0 +1,92 @@
+{
+    "cid": "Drush\\Drupal\\Commands\\core\\CliCommands",
+    "data": {
+        "docs": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\CliCommands",
+            "method_name": "docs",
+            "mtime": 1527094040,
+            "name": "docs:repl",
+            "description": "Drush's PHP Shell.",
+            "help": "",
+            "aliases": [
+                "docs-repl"
+            ],
+            "annotations": {
+                "command": "docs:repl",
+                "hidden": "",
+                "topic": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "cli": {
+            "schema": 3,
+            "class": "Drush\\Drupal\\Commands\\core\\CliCommands",
+            "method_name": "cli",
+            "mtime": 1527094040,
+            "name": "php:cli",
+            "description": "Open an interactive shell on a Drupal site.",
+            "help": "",
+            "aliases": [
+                "php",
+                "core:cli",
+                "core-cli"
+            ],
+            "annotations": {
+                "command": "php:cli",
+                "topics": "docs:repl",
+                "remote-tty": ""
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": {
+                "version-history": {
+                    "description": "Use command history based on Drupal version (Default is per site).",
+                    "default": false
+                }
+            }
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121553,
+    "expire": 0
+}

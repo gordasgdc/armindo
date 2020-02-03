@@ -1,0 +1,108 @@
+{
+    "cid": "Drush\\Commands\\core\\TopicCommands",
+    "data": {
+        "topic": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\TopicCommands",
+            "method_name": "topic",
+            "mtime": 1527094040,
+            "name": "core:topic",
+            "description": "Read detailed documentation on a given topic.",
+            "help": "",
+            "aliases": [
+                "topic",
+                "core-topic"
+            ],
+            "annotations": {
+                "command": "core:topic",
+                "remote-tty": "",
+                "bootstrap": "max",
+                "topics": "docs:readme"
+            },
+            "example_usages": {
+                "drush topic": "Pick from all available topics.",
+                "drush topic docs-repl": "Show documentation for the Drush interactive shell",
+                "drush docs:r": "Filter topics for those starting with 'docs-r'."
+            },
+            "return_type": null,
+            "arguments": {
+                "topic_name": {
+                    "description": "The name of the topic you wish to view. If omitted, list all topic descriptions (and names in parenthesis)."
+                }
+            },
+            "options": []
+        },
+        "interact": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\TopicCommands",
+            "method_name": "interact",
+            "mtime": 1527094040,
+            "name": "interact",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "interact topic"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "validate": {
+            "schema": 3,
+            "class": "Drush\\Commands\\core\\TopicCommands",
+            "method_name": "validate",
+            "mtime": 1527094040,
+            "name": "validate",
+            "description": "",
+            "help": "",
+            "aliases": [],
+            "annotations": {
+                "hook": "validate topic"
+            },
+            "example_usages": [],
+            "return_type": null,
+            "arguments": [],
+            "options": []
+        },
+        "getConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "getConfig",
+            "mtime": 1527094040
+        },
+        "setLogger": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setLogger",
+            "mtime": 1524245917
+        },
+        "setConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setConfig",
+            "mtime": 1527385373
+        },
+        "ConfigAwareGetConfig": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "ConfigAwareGetConfig",
+            "mtime": 1527385373
+        },
+        "setInput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setInput",
+            "mtime": 1527385373
+        },
+        "setOutput": {
+            "schema": 3,
+            "class": "Drush\\Commands\\DrushCommands",
+            "method_name": "setOutput",
+            "mtime": 1527385373
+        }
+    },
+    "created": 1529121552,
+    "expire": 0
+}
